@@ -1,0 +1,12 @@
+pandas
+numpy
+faker
+python-dotenv
+groq
+langchain
+langchain-community
+scikit-learn
+matplotlib
+seaborn
+requests
+tqdm

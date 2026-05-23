@@ -1,0 +1,328 @@
+	Short	explanation	of	scoring	logic	and	agent	reasoning	process.
+    
+PS C:\Users\ELCOT\OneDrive\Desktop\Week3> python main.py
+Generating synthetic dataset...
+Cleaning data...
+Scoring candidates...
+Saving results...
+Generating AI explanation...
+
+===== AI AGENT EXPLANATION =====
+
+Here's the line-by-line explanation for the provided code:
+
+### 1. CONFIG
+```python
+DOMAINS = ["AI", "Web Development", "Data Science", "Cloud", "Cyber Security", "Mobile Dev"]
+```
+- This line defines a list of strings, `DOMAINS`, containing different domains.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+SKILLS = [
+    "python", "java", "react", "node", "sql",
+    "ml", "dl", "aws", "docker", "kubernetes",
+    "flutter", "android", "cybersecurity"
+]
+```
+- This line defines a list of strings, `SKILLS`, containing various technical skills.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+CERTIFICATIONS = [
+    "AWS Certified", "Google Cloud Certified",
+    "Azure Fundamentals", "TensorFlow Certificate",
+    "None"
+]
+```
+- This line defines a list of strings, `CERTIFICATIONS`, containing different certification options.
+
+Validation Result: Correct
+
+Bugs: None
+
+### 2. SYNTHETIC DATA GENERATION
+```python
+def generate_candidates(n=1000):
+    data = []
+```
+- This line starts a function, `generate_candidates`, with an optional parameter `n` set to 1000, and initializes an empty list, `data`.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+    for i in range(n):
+        primary = random.choice(SKILLS)
+        secondary = random.sample(SKILLS, k=random.randint(1, 4))
+```
+- This line starts a loop that will generate `n` candidate profiles.
+- It selects a primary skill using `random.choice(SKILLS)` and secondary skills using `random.sample(SKILLS, k=random.randint(1, 4))`, which chooses up to 4 random unique skills from the `SKILLS` list.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+        cert = random.choice(CERTIFICATIONS)
+        row = {
+            "candidate_id": f"CAND_{i+1}",
+            "years_experience": round(random.uniform(0, 10), 1),
+            "primary_skill": primary,
+            "secondary_skills": ",".join(secondary),
+            "domain": random.choice(DOMAINS),
+            "certifications": cert,
+            "projects_count": random.randint(0, 20)
+        }
+```
+- It selects a random certification using `random.choice(CERTIFICATIONS)`.
+- It creates a dictionary, `row`, containing the generated candidate data.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+        data.append(row)
+    return pd.DataFrame(data)
+```
+- This line adds the generated `row` to the `data` list.
+- After the loop finishes, it converts the `data` list to a Pandas DataFrame using `pd.DataFrame(data)` and returns it.
+
+Validation Result: Correct
+
+Bugs: None
+
+### 3. CLEANING & NORMALIZATION
+```python
+def clean_data(df):
+    df["primary_skill"] = df["primary_skill"].str.lower().str.strip()
+```
+- This line starts a function, `clean_data`, that takes a DataFrame `df` as input.
+- It lowers and strips the values in the "primary_skill" column.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+    df["secondary_skills"] = df["secondary_skills"].str.lower().str.replace(" ", "")
+```
+- It lowers and replaces spaces with nothing in the "secondary_skills" column.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+    df["domain"] = df["domain"].str.lower().str.strip()
+    df["certifications"] = df["certifications"].fillna("none").str.lower()
+    return df
+```
+- It lowers and strips the values in the "domain" column.
+- It fills missing values in the "certifications" column with "none" and lowers the values.
+- This line returns the cleaned DataFrame.
+
+Validation Result: Correct
+
+Bugs: None
+
+### 4. JOB REQUIREMENT CONFIG
+```python
+JOB_ROLE = {
+    "domain": "data science",
+    "required_primary": ["python", "ml", "sql"],
+    "preferred_secondary": ["dl", "aws", "docker"],
+    "min_experience": 2,
+    "min_projects": 3
+}
+```
+- This line defines a dictionary, `JOB_ROLE`, containing the job requirements.
+
+Validation Result: Correct
+
+Bugs: None
+
+### 5. SCORING ENGINE
+```python
+def score_candidate(row):
+    score = 0
+```
+- This line starts a function, `score_candidate`, that takes a row of data as input.
+- It initializes a score variable to 0.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+    # Experience (30 points)
+    exp = row["years_experience"]
+    if exp >= JOB_ROLE["min_experience"]:
+        score += min(30, exp * 3)
+    else:
+        score += exp * 10  # partial credit
+```
+- It calculates the experience score based on the "years_experience" value.
+- If the experience is greater than or equal to `min_experience`, it adds up to 30 points or exp * 3, whichever is smaller.
+- Otherwise, it adds exp * 10 as partial credit.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+    # Primary skill match (25 points)
+    if row["primary_skill"] in JOB_ROLE["required_primary"]:
+        score += 25
+```
+- It checks if the primary skill matches any of the required primary skills.
+- If it does, it adds 25 points to the score.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+    # Secondary skills match (20 points)
+    secondary = row["secondary_skills"].split(",")
+    match = sum(1 for s in secondary if s in JOB_ROLE["preferred_secondary"])
+    score += match * 5
+```
+- It splits the secondary skills by commas.
+- It counts the number of secondary skills that match the preferred secondary skills using a generator expression.
+- It adds the match count times 5 to the score.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+    # Certifications (10 points)
+    if row["certifications"] != "none":
+        score += 10
+```
+- It checks if the certifications are not "none".
+- If they're not, it adds 10 points to the score.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+    # Projects (15 points)
+    score += min(15, row["projects_count"] * 1.5)
+```
+- It adds up to 15 points or the product of projects count and 1.5, whichever is smaller.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+    # Fallback penalty for missing/invalid data
+    if pd.isna(row["primary_skill"]) or row["primary_skill"] == "":
+        score -= 10
+    return max(0, min(100, round(score, 2)))
+```
+- It applies a fallback penalty of 10 points if the primary skill is missing or an empty string.
+- It ensures the score is within the range of 0 to 100 (inclusive).
+
+Validation Result: Correct
+
+Bugs: None
+
+### 6. CLASSIFICATION
+```python
+def classify(score):
+    if score < 40:
+        return "Low"
+    elif score < 70:
+        return "Medium"
+    else:
+        return "High"
+```
+- This line starts a function, `classify`, that takes a score as input.
+- It classifies the score into "Low", "Medium", or "High" based on the thresholds.
+
+Validation Result: Correct
+
+Bugs: None
+
+### 7. GROQ AI EXPLANATION AGENT
+```python
+def explain_scoring_with_groq(client, sample_df):
+    prompt = f"""
+You are a CODE AUDITOR AI.
+
+STRICT RULES:
+- Do NOT paraphrase logic
+- Do NOT interpret beyond code
+- ONLY explain what is explicitly written
+- If unsure â†’ say "NOT SPECIFIED IN CODE"
+- Do NOT add assumptions
+
+OUTPUT FORMAT:
+1. Line-by-line explanation
+2. Validation result (Correct / Incorrect)
+3. Bugs (ONLY if explicit logical error exists)
+
+CODE:
+{open("main.py").read()}
+
+SAMPLE DATA:
+{sample_df.head(5).to_string(index=False)}
+"""
+```
+- This line generates a prompt for the GROQ AI explanation agent by concatenating a string with the code from `main.py` and the first 5 rows of the `sample_df` DataFrame.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+response = client.chat.completions.create(
+    model="llama-3.1-8b-instant",
+    messages=[
+        {"role": "system", "content": "You are a senior HR AI system designer."},
+        {"role": "user", "content": prompt}
+    ]
+)
+```
+- This line sends a request to the GROQ AI explanation agent with the prompt and the system and user messages.
+
+Validation Result: Correct
+
+Bugs: None
+
+```python
+return response.choices[0].message.content
+```
+- This line returns the response from the GROQ AI explanation agent.
+
+Validation Result: Correct
+
+Bugs: None
+
+### 8. MAIN PIPELINE
+```python
+def main():
+    load_dotenv()
+
+    api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        raise RuntimeError("Missing GROQ API KEY")
+```
+- This line starts the main function, `main`, that loads environment variables.
+
+
+
+DONE: candidate_screening_results.csv created
+PS C:\Users\ELCOT\OneDrive\Desktop\Week3> 

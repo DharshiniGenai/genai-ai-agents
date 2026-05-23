@@ -1,0 +1,1001 @@
+candidate_id,years_experience,primary_skill,secondary_skills,domain,certifications,projects_count,score,fit_level
+CAND_1,8.8,java,"react,python,dl,aws",web development,google cloud certified,16,61.4,Medium
+CAND_2,4.8,java,java,mobile dev,tensorflow certificate,2,27.4,Low
+CAND_3,9.3,python,"java,kubernetes",cloud,azure fundamentals,4,68.9,Medium
+CAND_4,0.7,node,"sql,flutter",cloud,google cloud certified,14,32.0,Low
+CAND_5,1.6,java,"react,dl,node",ai,tensorflow certificate,1,32.5,Low
+CAND_6,6.6,cybersecurity,"cybersecurity,docker,aws",cyber security,google cloud certified,11,54.8,Medium
+CAND_7,1.7,android,"android,python",cloud,google cloud certified,14,42.0,Medium
+CAND_8,6.1,cybersecurity,"ml,flutter,android",cloud,tensorflow certificate,6,37.3,Low
+CAND_9,7.6,docker,"react,dl,node",data science,aws certified,1,39.3,Low
+CAND_10,6.4,docker,"ml,kubernetes",cyber security,google cloud certified,2,32.2,Low
+CAND_11,1.0,ml,"dl,react",data science,none,20,55.0,Medium
+CAND_12,1.4,aws,"python,node,dl,kubernetes",ai,aws certified,4,35.0,Low
+CAND_13,2.3,dl,"ml,java,android,flutter",ai,none,8,18.9,Low
+CAND_14,6.5,android,"ml,cybersecurity,dl",cloud,google cloud certified,4,40.5,Medium
+CAND_15,1.1,aws,cybersecurity,data science,google cloud certified,20,36.0,Low
+CAND_16,1.5,java,"react,sql",cloud,none,17,30.0,Low
+CAND_17,0.6,node,"node,dl",data science,aws certified,9,34.5,Low
+CAND_18,0.8,python,"java,flutter,aws,node",ai,google cloud certified,19,63.0,Medium
+CAND_19,0.7,android,"kubernetes,java",mobile dev,aws certified,4,23.0,Low
+CAND_20,2.9,python,"ml,cybersecurity,react,android",ai,azure fundamentals,2,46.7,Medium
+CAND_21,9.9,ml,"docker,dl,java",cyber security,none,4,70.7,High
+CAND_22,7.9,kubernetes,"python,docker,ml,dl",web development,none,5,41.2,Medium
+CAND_23,5.0,docker,"react,node,dl",cyber security,aws certified,7,40.5,Medium
+CAND_24,2.8,kubernetes,"cybersecurity,python,docker",cloud,azure fundamentals,14,38.4,Low
+CAND_25,6.5,aws,"cybersecurity,kubernetes,java",web development,aws certified,6,38.5,Low
+CAND_26,4.7,react,android,data science,aws certified,10,39.1,Low
+CAND_27,5.8,node,"dl,python",data science,none,13,37.4,Low
+CAND_28,7.6,aws,"android,flutter",mobile dev,azure fundamentals,16,47.8,Medium
+CAND_29,6.4,java,"dl,node,android",web development,google cloud certified,17,49.2,Medium
+CAND_30,5.6,react,"dl,react,node",cloud,azure fundamentals,5,39.3,Low
+CAND_31,9.8,python,"react,sql,flutter",cyber security,azure fundamentals,2,67.4,Medium
+CAND_32,1.7,node,"sql,node,docker,flutter",web development,none,5,29.5,Low
+CAND_33,3.8,sql,"flutter,node,cybersecurity",cloud,google cloud certified,3,50.9,Medium
+CAND_34,8.9,ml,"python,java,flutter,cybersecurity",mobile dev,google cloud certified,2,64.7,Medium
+CAND_35,2.7,node,docker,ai,google cloud certified,12,38.1,Low
+CAND_36,0.6,node,node,web development,azure fundamentals,0,16.0,Low
+CAND_37,0.8,kubernetes,docker,data science,google cloud certified,8,35.0,Low
+CAND_38,3.3,python,"aws,python",ai,google cloud certified,16,64.9,Medium
+CAND_39,1.0,react,android,cyber security,tensorflow certificate,5,27.5,Low
+CAND_40,3.3,react,"ml,dl,kubernetes",cloud,none,9,28.4,Low
+CAND_41,5.1,dl,"node,sql,cybersecurity,flutter",ai,tensorflow certificate,11,40.3,Medium
+CAND_42,7.1,ml,aws,data science,aws certified,6,70.3,High
+CAND_43,5.3,android,"java,android,dl,sql",data science,none,7,31.4,Low
+CAND_44,9.2,sql,"docker,kubernetes,dl",ai,aws certified,5,80.1,High
+CAND_45,5.1,flutter,"flutter,ml,cybersecurity,java",cloud,tensorflow certificate,1,26.8,Low
+CAND_46,6.2,java,"react,android",cyber security,azure fundamentals,14,43.6,Medium
+CAND_47,9.7,flutter,"aws,java,flutter",mobile dev,tensorflow certificate,14,59.1,Medium
+CAND_48,4.6,dl,"react,python",web development,tensorflow certificate,11,38.8,Low
+CAND_49,0.9,kubernetes,"dl,docker,node,flutter",mobile dev,azure fundamentals,13,44.0,Medium
+CAND_50,5.6,sql,"python,docker,android",ai,google cloud certified,7,67.3,Medium
+CAND_51,3.6,dl,"python,ml,java,kubernetes",cyber security,none,3,15.3,Low
+CAND_52,4.3,dl,"docker,node,ml,android",cyber security,tensorflow certificate,8,39.9,Low
+CAND_53,7.5,python,"java,ml",ai,azure fundamentals,17,72.5,High
+CAND_54,2.8,dl,react,web development,tensorflow certificate,1,19.9,Low
+CAND_55,7.3,sql,"dl,kubernetes",ai,google cloud certified,14,76.9,High
+CAND_56,3.9,java,aws,ai,aws certified,11,41.7,Medium
+CAND_57,6.5,kubernetes,"kubernetes,java",cloud,aws certified,5,37.0,Low
+CAND_58,6.0,cybersecurity,"sql,cybersecurity",web development,azure fundamentals,16,43.0,Medium
+CAND_59,8.1,ml,"java,dl",cyber security,google cloud certified,15,79.3,High
+CAND_60,1.0,aws,"sql,docker,node",data science,none,8,27.0,Low
+CAND_61,4.9,aws,"node,dl,cybersecurity,flutter",cloud,aws certified,0,29.7,Low
+CAND_62,2.6,docker,"flutter,android,python",mobile dev,none,3,12.3,Low
+CAND_63,6.3,python,"node,flutter,cybersecurity",cyber security,azure fundamentals,1,55.4,Medium
+CAND_64,8.6,java,"node,ml,react",ai,tensorflow certificate,11,50.8,Medium
+CAND_65,4.9,node,sql,cyber security,aws certified,17,39.7,Low
+CAND_66,3.8,android,"sql,aws,node,java",cloud,tensorflow certificate,2,29.4,Low
+CAND_67,1.5,python,"flutter,node",cloud,azure fundamentals,3,54.5,Medium
+CAND_68,1.9,flutter,docker,data science,google cloud certified,9,47.5,Medium
+CAND_69,5.2,aws,"java,android,cybersecurity",cloud,aws certified,11,40.6,Medium
+CAND_70,1.8,react,"dl,docker",web development,google cloud certified,10,53.0,Medium
+CAND_71,2.4,cybersecurity,"kubernetes,cybersecurity,docker",cloud,none,1,13.7,Low
+CAND_72,5.8,docker,cybersecurity,cyber security,tensorflow certificate,15,42.4,Medium
+CAND_73,4.6,python,"java,cybersecurity",mobile dev,azure fundamentals,17,63.8,Medium
+CAND_74,8.9,kubernetes,python,mobile dev,tensorflow certificate,17,51.7,Medium
+CAND_75,7.5,ml,"kubernetes,aws,dl",cyber security,none,0,57.5,Medium
+CAND_76,0.4,android,"flutter,kubernetes,ml,docker",data science,none,17,24.0,Low
+CAND_77,1.4,kubernetes,"java,android,flutter",cloud,aws certified,5,31.5,Low
+CAND_78,4.1,java,"kubernetes,ml,react",ai,aws certified,20,37.3,Low
+CAND_79,4.0,dl,"flutter,react,dl,python",mobile dev,tensorflow certificate,16,42.0,Medium
+CAND_80,8.8,kubernetes,"dl,flutter",ai,google cloud certified,7,51.9,Medium
+CAND_81,6.1,kubernetes,"cybersecurity,kubernetes",cloud,azure fundamentals,16,43.3,Medium
+CAND_82,2.7,aws,"react,cybersecurity",cloud,google cloud certified,1,19.6,Low
+CAND_83,5.9,ml,"docker,ml,flutter",web development,tensorflow certificate,13,72.7,High
+CAND_84,2.9,java,node,mobile dev,google cloud certified,20,33.7,Low
+CAND_85,0.7,ml,docker,ai,tensorflow certificate,13,62.0,Medium
+CAND_86,3.8,react,"docker,python,sql,java",ai,tensorflow certificate,1,27.9,Low
+CAND_87,4.6,flutter,flutter,cloud,none,6,22.8,Low
+CAND_88,0.1,kubernetes,"aws,java",cyber security,aws certified,5,23.5,Low
+CAND_89,9.0,node,"aws,android,dl,node",cloud,tensorflow certificate,20,62.0,Medium
+CAND_90,3.3,cybersecurity,python,cloud,none,18,24.9,Low
+CAND_91,0.4,android,"react,sql,dl",mobile dev,tensorflow certificate,9,32.5,Low
+CAND_92,8.4,docker,"cybersecurity,python,kubernetes,aws",mobile dev,none,0,30.2,Low
+CAND_93,1.5,sql,"react,sql,ml",cloud,google cloud certified,18,65.0,Medium
+CAND_94,8.1,ml,"flutter,docker,aws,node",ai,tensorflow certificate,14,84.3,High
+CAND_95,8.9,aws,"java,ml,aws,android",cloud,google cloud certified,19,56.7,Medium
+CAND_96,8.0,aws,"docker,sql,flutter",cyber security,azure fundamentals,15,54.0,Medium
+CAND_97,7.1,python,"python,flutter,dl,ml",cloud,google cloud certified,13,76.3,High
+CAND_98,8.5,dl,cybersecurity,web development,none,16,40.5,Medium
+CAND_99,6.7,java,cybersecurity,ai,google cloud certified,6,39.1,Low
+CAND_100,5.5,android,"sql,android,dl",mobile dev,aws certified,18,46.5,Medium
+CAND_101,9.7,react,kubernetes,cloud,azure fundamentals,1,40.6,Medium
+CAND_102,7.7,docker,"ml,python,cybersecurity,node",cyber security,aws certified,3,37.6,Low
+CAND_103,6.6,node,cybersecurity,ai,google cloud certified,7,40.3,Medium
+CAND_104,8.2,ml,"flutter,aws",cyber security,google cloud certified,18,79.6,High
+CAND_105,1.0,flutter,"dl,cybersecurity",ai,none,0,15.0,Low
+CAND_106,9.3,python,"python,cybersecurity,kubernetes",web development,azure fundamentals,18,77.9,High
+CAND_107,6.6,cybersecurity,aws,cyber security,tensorflow certificate,13,49.8,Medium
+CAND_108,1.7,ml,"python,node,cybersecurity,aws",cloud,azure fundamentals,7,67.5,Medium
+CAND_109,6.4,react,cybersecurity,web development,tensorflow certificate,7,39.7,Low
+CAND_110,2.5,sql,"sql,python,aws",data science,google cloud certified,19,62.5,Medium
+CAND_111,4.0,java,"dl,python,aws,java",cyber security,aws certified,16,47.0,Medium
+CAND_112,4.4,ml,dl,data science,tensorflow certificate,17,68.2,Medium
+CAND_113,5.6,python,"java,android,docker",web development,tensorflow certificate,14,71.8,High
+CAND_114,5.2,docker,flutter,web development,azure fundamentals,3,30.1,Low
+CAND_115,4.3,docker,"sql,android,react,flutter",web development,none,17,27.9,Low
+CAND_116,5.8,android,kubernetes,ai,aws certified,2,30.4,Low
+CAND_117,4.7,aws,"sql,flutter,cybersecurity",web development,aws certified,0,24.1,Low
+CAND_118,4.2,python,"java,flutter,python",mobile dev,aws certified,4,53.6,Medium
+CAND_119,8.2,aws,"react,ml,android,python",data science,aws certified,13,49.6,Medium
+CAND_120,3.7,cybersecurity,kubernetes,cyber security,aws certified,4,27.1,Low
+CAND_121,7.7,java,"node,cybersecurity,sql,flutter",data science,google cloud certified,11,48.1,Medium
+CAND_122,0.7,kubernetes,"aws,cybersecurity,ml",cyber security,none,3,16.5,Low
+CAND_123,4.3,docker,react,cyber security,aws certified,5,30.4,Low
+CAND_124,2.0,sql,"ml,aws,dl",cloud,tensorflow certificate,15,66.0,Medium
+CAND_125,3.6,react,"sql,aws",data science,tensorflow certificate,8,37.8,Low
+CAND_126,3.6,dl,"sql,kubernetes",data science,google cloud certified,4,26.8,Low
+CAND_127,8.7,react,"docker,python",mobile dev,google cloud certified,17,56.1,Medium
+CAND_128,0.1,sql,"docker,java,kubernetes,aws",data science,google cloud certified,2,49.0,Medium
+CAND_129,6.8,android,"aws,android,docker,react",cyber security,tensorflow certificate,20,55.4,Medium
+CAND_130,0.4,kubernetes,"node,flutter,react",cloud,tensorflow certificate,11,29.0,Low
+CAND_131,3.6,node,"sql,android,python",ai,aws certified,18,35.8,Low
+CAND_132,9.5,kubernetes,aws,cloud,aws certified,9,57.0,Medium
+CAND_133,8.7,node,"aws,dl,node,ml",mobile dev,google cloud certified,2,49.1,Medium
+CAND_134,8.0,cybersecurity,react,mobile dev,none,14,39.0,Low
+CAND_135,7.4,react,"android,ml,node,aws",mobile dev,azure fundamentals,2,40.2,Medium
+CAND_136,9.9,react,"sql,python,ml",mobile dev,none,18,44.7,Medium
+CAND_137,5.3,ml,kubernetes,cloud,none,12,55.9,Medium
+CAND_138,8.9,dl,kubernetes,ai,aws certified,12,51.7,Medium
+CAND_139,4.4,ml,"sql,cybersecurity,dl",cloud,aws certified,17,68.2,Medium
+CAND_140,6.4,python,"sql,react,flutter",mobile dev,aws certified,9,67.7,Medium
+CAND_141,7.7,cybersecurity,"python,sql",data science,tensorflow certificate,1,34.6,Low
+CAND_142,5.2,react,"ml,cybersecurity,android",web development,none,6,24.6,Low
+CAND_143,8.2,aws,"dl,python,kubernetes",data science,tensorflow certificate,9,53.1,Medium
+CAND_144,7.2,sql,"dl,java,ml",cloud,google cloud certified,17,76.6,High
+CAND_145,4.2,python,"kubernetes,sql",data science,tensorflow certificate,18,62.6,Medium
+CAND_146,8.8,aws,node,mobile dev,aws certified,7,46.9,Medium
+CAND_147,0.6,dl,"ml,docker",cyber security,google cloud certified,1,22.5,Low
+CAND_148,9.8,ml,"sql,kubernetes,aws,react",cloud,tensorflow certificate,17,84.4,High
+CAND_149,7.0,react,"dl,flutter,sql",mobile dev,google cloud certified,13,51.0,Medium
+CAND_150,0.5,sql,"docker,react,kubernetes,flutter",cloud,tensorflow certificate,12,60.0,Medium
+CAND_151,9.1,dl,"node,dl,android",data science,azure fundamentals,5,49.8,Medium
+CAND_152,5.7,node,"java,aws,android,python",mobile dev,aws certified,2,35.1,Low
+CAND_153,7.9,python,node,ai,google cloud certified,20,73.7,High
+CAND_154,9.9,react,dl,web development,google cloud certified,5,52.2,Medium
+CAND_155,1.2,android,python,mobile dev,aws certified,0,22.0,Low
+CAND_156,4.2,aws,"cybersecurity,flutter,node",ai,none,13,27.6,Low
+CAND_157,4.3,java,java,cloud,azure fundamentals,19,37.9,Low
+CAND_158,6.5,react,"sql,node,cybersecurity",ai,google cloud certified,17,44.5,Medium
+CAND_159,6.1,ml,docker,cloud,aws certified,9,71.8,High
+CAND_160,3.8,aws,"ml,java",cyber security,google cloud certified,7,31.9,Low
+CAND_161,6.4,flutter,docker,mobile dev,azure fundamentals,2,37.2,Low
+CAND_162,8.0,cybersecurity,"android,python,ml",ai,none,8,36.0,Low
+CAND_163,5.6,cybersecurity,"sql,dl,flutter",cyber security,google cloud certified,9,45.3,Medium
+CAND_164,6.2,react,"sql,dl,kubernetes",web development,aws certified,3,38.1,Low
+CAND_165,1.5,python,cybersecurity,cyber security,none,13,55.0,Medium
+CAND_166,1.2,docker,"cybersecurity,python,docker,node",mobile dev,azure fundamentals,4,33.0,Low
+CAND_167,2.2,dl,"python,node,docker",web development,azure fundamentals,2,24.6,Low
+CAND_168,0.5,ml,aws,data science,aws certified,12,60.0,Medium
+CAND_169,6.2,node,"java,python,node",cloud,aws certified,16,43.6,Medium
+CAND_170,7.1,node,"python,aws,kubernetes",web development,none,10,41.3,Medium
+CAND_171,5.1,java,"node,docker",mobile dev,google cloud certified,2,33.3,Low
+CAND_172,0.2,aws,flutter,cloud,google cloud certified,4,18.0,Low
+CAND_173,8.5,node,node,ai,none,8,37.5,Low
+CAND_174,7.9,sql,"sql,android",mobile dev,azure fundamentals,8,70.7,High
+CAND_175,8.6,dl,node,web development,none,0,25.8,Low
+CAND_176,1.6,kubernetes,"docker,dl,java",web development,tensorflow certificate,20,51.0,Medium
+CAND_177,1.9,react,"aws,node",ai,none,16,39.0,Low
+CAND_178,7.3,python,"node,sql,java",web development,none,1,48.4,Medium
+CAND_179,4.7,node,"react,docker,android",mobile dev,none,13,34.1,Low
+CAND_180,2.8,docker,aws,cyber security,none,8,25.4,Low
+CAND_181,7.4,ml,"kubernetes,node,aws",mobile dev,none,8,64.2,Medium
+CAND_182,4.8,node,"sql,aws,python,node",web development,google cloud certified,15,44.4,Medium
+CAND_183,3.7,docker,"aws,kubernetes,docker,java",cloud,google cloud certified,11,46.1,Medium
+CAND_184,4.6,dl,"sql,python,dl",cyber security,google cloud certified,17,43.8,Medium
+CAND_185,7.2,android,"aws,kubernetes,react",web development,none,3,31.1,Low
+CAND_186,9.1,react,"cybersecurity,ml,flutter,python",data science,google cloud certified,11,52.3,Medium
+CAND_187,7.6,dl,"android,sql",mobile dev,none,13,37.8,Low
+CAND_188,9.3,ml,"flutter,kubernetes,android",cyber security,tensorflow certificate,13,77.9,High
+CAND_189,7.0,node,"python,docker",data science,tensorflow certificate,10,51.0,Medium
+CAND_190,4.5,java,"java,cybersecurity,dl,aws",data science,tensorflow certificate,20,48.5,Medium
+CAND_191,5.2,java,"cybersecurity,dl",cyber security,azure fundamentals,2,33.6,Low
+CAND_192,3.5,python,"ml,docker",web development,none,0,40.5,Medium
+CAND_193,7.4,python,"react,android,cybersecurity,docker",cloud,aws certified,18,77.2,High
+CAND_194,9.4,java,"kubernetes,react,python",mobile dev,google cloud certified,2,41.2,Medium
+CAND_195,3.5,docker,"cybersecurity,ml,node",data science,none,3,15.0,Low
+CAND_196,5.1,sql,"dl,aws",data science,aws certified,9,73.8,High
+CAND_197,1.8,ml,"aws,cybersecurity",data science,google cloud certified,9,71.5,High
+CAND_198,2.0,react,flutter,web development,tensorflow certificate,19,31.0,Low
+CAND_199,6.1,react,"docker,node,python,kubernetes",web development,google cloud certified,16,48.3,Medium
+CAND_200,5.8,kubernetes,"cybersecurity,java",data science,none,9,30.9,Low
+CAND_201,5.3,sql,"python,cybersecurity,kubernetes,android",cyber security,google cloud certified,1,52.4,Medium
+CAND_202,6.6,dl,"docker,aws,ml",data science,aws certified,3,44.3,Medium
+CAND_203,1.2,react,"node,docker",cloud,google cloud certified,12,42.0,Medium
+CAND_204,3.8,python,ml,cyber security,none,11,51.4,Medium
+CAND_205,8.4,java,"docker,java",cyber security,aws certified,4,46.2,Medium
+CAND_206,1.4,flutter,"java,docker,sql",web development,azure fundamentals,15,44.0,Medium
+CAND_207,0.1,ml,java,cyber security,tensorflow certificate,1,37.5,Low
+CAND_208,4.6,flutter,"node,cybersecurity",cloud,none,16,28.8,Low
+CAND_209,3.1,ml,"aws,flutter",data science,aws certified,9,62.8,Medium
+CAND_210,9.6,aws,node,ai,google cloud certified,11,53.8,Medium
+CAND_211,4.7,python,sql,web development,azure fundamentals,15,64.1,Medium
+CAND_212,5.4,android,"cybersecurity,dl",mobile dev,none,16,36.2,Low
+CAND_213,4.8,java,"flutter,aws",ai,azure fundamentals,5,36.9,Low
+CAND_214,7.3,aws,"java,ml",mobile dev,none,6,30.9,Low
+CAND_215,4.3,android,"cybersecurity,node,react,docker",web development,google cloud certified,8,39.9,Low
+CAND_216,4.8,cybersecurity,"flutter,dl,aws",mobile dev,none,12,39.4,Low
+CAND_217,3.2,kubernetes,"kubernetes,dl",data science,aws certified,5,32.1,Low
+CAND_218,7.6,sql,"flutter,dl,aws,kubernetes",cloud,google cloud certified,6,76.8,High
+CAND_219,7.6,kubernetes,docker,web development,none,3,32.3,Low
+CAND_220,0.5,docker,"dl,react,node,cybersecurity",ai,tensorflow certificate,6,29.0,Low
+CAND_221,0.1,android,"react,docker,android",ai,tensorflow certificate,3,20.5,Low
+CAND_222,6.7,cybersecurity,"java,cybersecurity,aws,docker",cyber security,azure fundamentals,19,55.1,Medium
+CAND_223,0.7,sql,kubernetes,data science,aws certified,0,42.0,Medium
+CAND_224,8.0,python,kubernetes,mobile dev,google cloud certified,12,74.0,High
+CAND_225,1.7,python,"android,kubernetes",ai,google cloud certified,7,62.5,Medium
+CAND_226,5.8,docker,"cybersecurity,dl",cloud,tensorflow certificate,7,42.9,Medium
+CAND_227,9.8,sql,android,cyber security,google cloud certified,3,68.9,Medium
+CAND_228,6.6,dl,"android,node",cyber security,tensorflow certificate,16,44.8,Medium
+CAND_229,4.8,react,"flutter,kubernetes,android,ml",cloud,azure fundamentals,8,36.4,Low
+CAND_230,5.8,dl,"aws,node,docker,java",web development,azure fundamentals,9,50.9,Medium
+CAND_231,0.8,android,"cybersecurity,kubernetes,python,flutter",cyber security,azure fundamentals,4,24.0,Low
+CAND_232,2.6,docker,"android,sql,node,flutter",cloud,none,13,22.8,Low
+CAND_233,7.9,react,python,cyber security,google cloud certified,17,48.7,Medium
+CAND_234,9.8,android,"android,sql",data science,aws certified,0,39.4,Low
+CAND_235,1.6,kubernetes,android,cloud,tensorflow certificate,12,41.0,Medium
+CAND_236,4.0,kubernetes,ml,cloud,none,17,27.0,Low
+CAND_237,1.3,sql,"node,android,aws,flutter",cyber security,tensorflow certificate,9,66.5,Medium
+CAND_238,3.2,flutter,"python,react,sql",data science,azure fundamentals,0,19.6,Low
+CAND_239,1.0,java,"java,ml,cybersecurity,sql",web development,none,1,11.5,Low
+CAND_240,6.0,flutter,android,cyber security,azure fundamentals,6,37.0,Low
+CAND_241,0.8,android,aws,cloud,aws certified,16,38.0,Low
+CAND_242,2.7,kubernetes,aws,mobile dev,azure fundamentals,3,27.6,Low
+CAND_243,8.3,flutter,"docker,aws,python,cybersecurity",mobile dev,google cloud certified,16,59.9,Medium
+CAND_244,6.6,sql,"cybersecurity,kubernetes,sql",cyber security,google cloud certified,7,65.3,Medium
+CAND_245,9.1,node,"android,python",mobile dev,tensorflow certificate,19,52.3,Medium
+CAND_246,6.8,flutter,"android,aws,kubernetes",data science,azure fundamentals,7,45.9,Medium
+CAND_247,7.1,node,"python,cybersecurity",data science,azure fundamentals,2,34.3,Low
+CAND_248,9.4,react,"node,kubernetes,android,flutter",data science,none,14,43.2,Medium
+CAND_249,2.3,python,"kubernetes,react,flutter,cybersecurity",cyber security,azure fundamentals,5,49.4,Medium
+CAND_250,2.9,aws,aws,cloud,none,6,22.7,Low
+CAND_251,6.5,react,"flutter,aws",data science,none,15,39.5,Low
+CAND_252,4.1,sql,"sql,cybersecurity,docker,kubernetes",mobile dev,none,11,57.3,Medium
+CAND_253,0.0,python,"aws,python,android",mobile dev,aws certified,0,40.0,Medium
+CAND_254,6.6,ml,"aws,ml,cybersecurity,docker",cyber security,azure fundamentals,10,79.8,High
+CAND_255,6.2,react,cybersecurity,ai,tensorflow certificate,11,43.6,Medium
+CAND_256,0.6,node,"docker,python,aws,react",cyber security,tensorflow certificate,18,41.0,Medium
+CAND_257,7.1,node,node,ai,google cloud certified,17,46.3,Medium
+CAND_258,4.4,aws,"cybersecurity,ml",cyber security,azure fundamentals,8,35.2,Low
+CAND_259,1.6,react,"react,aws,cybersecurity,ml",ai,google cloud certified,18,46.0,Medium
+CAND_260,0.5,aws,react,mobile dev,google cloud certified,8,27.0,Low
+CAND_261,2.1,aws,"cybersecurity,java",data science,tensorflow certificate,11,31.3,Low
+CAND_262,5.8,docker,"dl,cybersecurity,flutter",ai,tensorflow certificate,17,47.4,Medium
+CAND_263,2.9,dl,"flutter,python,node,cybersecurity",mobile dev,tensorflow certificate,13,33.7,Low
+CAND_264,8.9,docker,node,web development,aws certified,11,51.7,Medium
+CAND_265,1.7,ml,"kubernetes,node,cybersecurity,docker",cloud,none,3,51.5,Medium
+CAND_266,1.8,docker,"python,aws",ai,google cloud certified,14,48.0,Medium
+CAND_267,5.2,flutter,react,web development,none,17,30.6,Low
+CAND_268,7.4,aws,"aws,dl,java",cyber security,google cloud certified,10,57.2,Medium
+CAND_269,3.3,ml,"dl,android,sql,flutter",web development,azure fundamentals,14,64.9,Medium
+CAND_270,4.6,react,"java,node,docker",cloud,google cloud certified,2,31.8,Low
+CAND_271,7.6,sql,"java,node,python",web development,google cloud certified,0,57.8,Medium
+CAND_272,9.8,react,"java,android,node,python",cloud,aws certified,14,54.4,Medium
+CAND_273,2.4,android,"dl,kubernetes",web development,azure fundamentals,17,37.2,Low
+CAND_274,4.5,ml,flutter,data science,aws certified,20,63.5,Medium
+CAND_275,6.9,kubernetes,"android,flutter,sql",cyber security,azure fundamentals,10,45.7,Medium
+CAND_276,6.8,sql,"aws,docker,node",ai,azure fundamentals,7,75.9,High
+CAND_277,8.3,java,"sql,kubernetes,cybersecurity",data science,azure fundamentals,17,49.9,Medium
+CAND_278,3.5,android,"aws,react,kubernetes,dl",mobile dev,none,3,25.0,Low
+CAND_279,5.7,python,"sql,ml,android",ai,none,15,57.1,Medium
+CAND_280,7.2,aws,"dl,android,cybersecurity",web development,none,20,41.6,Medium
+CAND_281,5.0,python,docker,data science,google cloud certified,20,70.0,High
+CAND_282,5.5,ml,"node,android",mobile dev,tensorflow certificate,15,66.5,Medium
+CAND_283,8.2,aws,"cybersecurity,node,flutter,ml",cyber security,aws certified,15,49.6,Medium
+CAND_284,4.9,ml,"node,docker",cloud,aws certified,17,69.7,Medium
+CAND_285,7.5,flutter,"docker,react,sql",web development,aws certified,7,48.0,Medium
+CAND_286,4.1,node,"ml,python",mobile dev,azure fundamentals,5,29.8,Low
+CAND_287,5.5,flutter,python,web development,google cloud certified,9,40.0,Medium
+CAND_288,4.6,docker,"android,cybersecurity,flutter",web development,aws certified,20,38.8,Low
+CAND_289,3.1,cybersecurity,node,mobile dev,aws certified,11,34.3,Low
+CAND_290,7.3,aws,python,web development,none,7,32.4,Low
+CAND_291,6.1,docker,"sql,java,react,ml",mobile dev,google cloud certified,20,43.3,Medium
+CAND_292,9.6,sql,"java,kubernetes,node",web development,tensorflow certificate,17,78.8,High
+CAND_293,7.4,aws,"sql,dl,cybersecurity,java",ai,tensorflow certificate,3,41.7,Medium
+CAND_294,0.6,kubernetes,"python,flutter",ai,tensorflow certificate,20,31.0,Low
+CAND_295,3.8,react,"java,android,flutter",mobile dev,none,17,26.4,Low
+CAND_296,0.4,react,"node,dl,kubernetes,cybersecurity",mobile dev,tensorflow certificate,1,20.5,Low
+CAND_297,9.0,sql,"android,sql",cloud,none,19,67.0,Medium
+CAND_298,1.4,cybersecurity,"dl,flutter,sql,react",data science,none,0,19.0,Low
+CAND_299,5.8,sql,"java,sql",cyber security,none,12,57.4,Medium
+CAND_300,2.7,dl,"react,cybersecurity,python",mobile dev,none,2,11.1,Low
+CAND_301,1.6,java,"flutter,react,android",mobile dev,aws certified,2,29.0,Low
+CAND_302,0.1,sql,"android,docker",data science,tensorflow certificate,18,56.0,Medium
+CAND_303,4.0,flutter,python,ai,google cloud certified,7,32.5,Low
+CAND_304,6.5,ml,"flutter,kubernetes,react,aws",data science,google cloud certified,5,67.0,Medium
+CAND_305,0.8,python,"aws,cybersecurity,dl",mobile dev,none,18,58.0,Medium
+CAND_306,3.6,cybersecurity,"cybersecurity,kubernetes",cloud,none,3,15.3,Low
+CAND_307,4.0,sql,"kubernetes,android,ml",cyber security,none,4,43.0,Medium
+CAND_308,4.7,python,cybersecurity,cloud,azure fundamentals,12,64.1,Medium
+CAND_309,9.4,react,"dl,react,node,cybersecurity",cyber security,azure fundamentals,14,58.2,Medium
+CAND_310,6.1,flutter,"react,cybersecurity,node,python",data science,google cloud certified,11,43.3,Medium
+CAND_311,1.3,react,"dl,ml",cloud,tensorflow certificate,1,29.5,Low
+CAND_312,6.9,android,"python,aws",web development,google cloud certified,6,44.7,Medium
+CAND_313,9.4,node,"flutter,kubernetes,dl,cybersecurity",data science,aws certified,16,58.2,Medium
+CAND_314,8.7,dl,"node,java,docker,android",data science,aws certified,9,54.6,Medium
+CAND_315,8.8,android,python,mobile dev,aws certified,19,51.4,Medium
+CAND_316,9.9,react,"sql,kubernetes",web development,google cloud certified,15,54.7,Medium
+CAND_317,6.1,ml,aws,cloud,azure fundamentals,17,73.3,High
+CAND_318,0.0,docker,"kubernetes,java,ml",ai,aws certified,11,25.0,Low
+CAND_319,6.5,docker,"ml,java,kubernetes",mobile dev,tensorflow certificate,0,29.5,Low
+CAND_320,5.2,kubernetes,"java,aws,ml,react",mobile dev,azure fundamentals,12,45.6,Medium
+CAND_321,6.8,flutter,"dl,cybersecurity,react,java",mobile dev,google cloud certified,17,50.4,Medium
+CAND_322,7.8,docker,"kubernetes,ml",ai,none,6,32.4,Low
+CAND_323,9.9,java,java,web development,google cloud certified,12,54.7,Medium
+CAND_324,2.0,docker,"ml,java,node",web development,google cloud certified,3,20.5,Low
+CAND_325,4.6,java,sql,cyber security,tensorflow certificate,4,29.8,Low
+CAND_326,3.4,kubernetes,dl,cyber security,google cloud certified,20,40.2,Medium
+CAND_327,1.8,docker,"dl,python",ai,azure fundamentals,6,42.0,Medium
+CAND_328,3.1,python,"sql,java",mobile dev,tensorflow certificate,19,59.3,Medium
+CAND_329,7.5,node,"python,docker,dl,sql",cyber security,azure fundamentals,12,57.5,Medium
+CAND_330,0.0,ml,"react,node,dl,java",data science,aws certified,6,49.0,Medium
+CAND_331,6.2,dl,sql,cloud,tensorflow certificate,12,43.6,Medium
+CAND_332,0.7,python,"node,cybersecurity,sql,docker",data science,none,16,52.0,Medium
+CAND_333,6.3,react,"kubernetes,ml",data science,azure fundamentals,9,42.4,Medium
+CAND_334,1.3,android,"python,docker",data science,aws certified,17,43.0,Medium
+CAND_335,1.2,kubernetes,"java,python,docker,kubernetes",cyber security,aws certified,17,42.0,Medium
+CAND_336,4.8,java,cybersecurity,web development,none,7,24.9,Low
+CAND_337,8.9,kubernetes,aws,cloud,google cloud certified,9,55.2,Medium
+CAND_338,7.0,python,"react,dl,android",mobile dev,azure fundamentals,5,68.5,Medium
+CAND_339,8.7,java,"python,dl,java,flutter",data science,none,16,46.1,Medium
+CAND_340,2.4,dl,"android,aws,python,flutter",mobile dev,azure fundamentals,9,35.7,Low
+CAND_341,3.9,react,android,web development,tensorflow certificate,12,36.7,Low
+CAND_342,6.4,react,"node,ml",mobile dev,tensorflow certificate,1,30.7,Low
+CAND_343,5.9,python,"python,dl",mobile dev,google cloud certified,17,72.7,High
+CAND_344,5.6,flutter,"aws,kubernetes,java,ml",mobile dev,tensorflow certificate,17,46.8,Medium
+CAND_345,5.5,react,"kubernetes,react,python",data science,azure fundamentals,16,41.5,Medium
+CAND_346,8.8,android,"node,docker,ml,sql",web development,google cloud certified,7,51.9,Medium
+CAND_347,5.0,ml,"python,android,aws,react",mobile dev,tensorflow certificate,18,70.0,High
+CAND_348,1.9,dl,"cybersecurity,kubernetes,react",data science,tensorflow certificate,3,33.5,Low
+CAND_349,9.8,flutter,"flutter,cybersecurity",cyber security,google cloud certified,9,52.9,Medium
+CAND_350,2.4,java,"dl,sql,ml,aws",ai,none,8,29.2,Low
+CAND_351,0.4,aws,cybersecurity,cyber security,tensorflow certificate,9,27.5,Low
+CAND_352,3.7,java,docker,web development,google cloud certified,19,41.1,Medium
+CAND_353,9.4,aws,"flutter,java,node,aws",data science,google cloud certified,1,44.7,Medium
+CAND_354,3.5,android,"java,ml",cloud,google cloud certified,15,35.5,Low
+CAND_355,9.7,ml,android,cyber security,azure fundamentals,2,67.1,Medium
+CAND_356,3.6,node,aws,mobile dev,aws certified,4,31.8,Low
+CAND_357,6.4,react,flutter,web development,azure fundamentals,6,38.2,Low
+CAND_358,1.3,ml,"java,sql,flutter",mobile dev,tensorflow certificate,4,54.0,Medium
+CAND_359,2.0,cybersecurity,dl,cloud,google cloud certified,11,36.0,Low
+CAND_360,8.2,cybersecurity,"node,android",mobile dev,none,9,38.1,Low
+CAND_361,6.0,python,"node,java,docker,android",cyber security,google cloud certified,14,73.0,High
+CAND_362,0.7,kubernetes,"ml,sql,android",mobile dev,aws certified,7,27.5,Low
+CAND_363,4.2,android,"react,aws,flutter",web development,aws certified,17,42.6,Medium
+CAND_364,8.1,node,"cybersecurity,docker",data science,azure fundamentals,14,54.3,Medium
+CAND_365,0.7,docker,"dl,react,ml,cybersecurity",web development,aws certified,11,37.0,Low
+CAND_366,2.0,android,ml,cloud,tensorflow certificate,18,31.0,Low
+CAND_367,1.4,docker,android,web development,aws certified,6,33.0,Low
+CAND_368,8.3,android,"docker,python",cloud,azure fundamentals,20,54.9,Medium
+CAND_369,9.2,sql,"dl,java,android,sql",cloud,tensorflow certificate,1,69.1,Medium
+CAND_370,6.1,docker,"python,sql,java",data science,aws certified,11,43.3,Medium
+CAND_371,1.8,python,"java,flutter,kubernetes",data science,tensorflow certificate,5,60.5,Medium
+CAND_372,2.9,sql,"flutter,dl,android,docker",web development,azure fundamentals,11,68.7,Medium
+CAND_373,6.1,docker,"android,python,dl",mobile dev,tensorflow certificate,18,48.3,Medium
+CAND_374,1.0,react,"aws,react,cybersecurity",cyber security,tensorflow certificate,9,38.5,Low
+CAND_375,0.3,aws,"aws,python",data science,none,3,12.5,Low
+CAND_376,6.1,python,docker,cyber security,google cloud certified,13,73.3,High
+CAND_377,9.6,aws,"docker,sql",web development,none,9,47.3,Medium
+CAND_378,2.0,ml,"aws,cybersecurity",ai,none,20,51.0,Medium
+CAND_379,7.6,sql,docker,ai,azure fundamentals,6,71.8,High
+CAND_380,4.6,python,python,cyber security,aws certified,12,63.8,Medium
+CAND_381,3.8,ml,"sql,android,python,kubernetes",cloud,tensorflow certificate,9,59.9,Medium
+CAND_382,3.5,python,react,data science,azure fundamentals,8,57.5,Medium
+CAND_383,2.7,python,"cybersecurity,python,flutter",ai,tensorflow certificate,1,44.6,Medium
+CAND_384,0.5,android,"android,sql",cloud,tensorflow certificate,17,30.0,Low
+CAND_385,6.1,react,kubernetes,web development,azure fundamentals,13,43.3,Medium
+CAND_386,2.7,node,python,cyber security,none,2,11.1,Low
+CAND_387,8.5,react,"python,react,flutter",ai,tensorflow certificate,4,41.5,Medium
+CAND_388,3.3,docker,"sql,android,python,docker",data science,azure fundamentals,3,29.4,Low
+CAND_389,4.9,aws,"python,docker",cloud,azure fundamentals,13,44.7,Medium
+CAND_390,6.5,aws,"kubernetes,ml",cloud,aws certified,12,44.5,Medium
+CAND_391,1.4,docker,android,cyber security,google cloud certified,10,39.0,Low
+CAND_392,0.8,python,docker,cyber security,aws certified,0,48.0,Medium
+CAND_393,0.4,python,"aws,cybersecurity,kubernetes,react",cloud,none,13,49.0,Medium
+CAND_394,10.0,docker,"python,android,react",web development,aws certified,6,49.0,Medium
+CAND_395,9.3,cybersecurity,"react,docker",cloud,google cloud certified,19,57.9,Medium
+CAND_396,7.7,node,"docker,python,node,java",data science,aws certified,4,44.1,Medium
+CAND_397,8.5,ml,"dl,ml",mobile dev,google cloud certified,13,80.5,High
+CAND_398,3.4,android,react,cyber security,none,18,25.2,Low
+CAND_399,2.5,react,java,web development,google cloud certified,5,25.0,Low
+CAND_400,0.6,android,"cybersecurity,sql",cyber security,azure fundamentals,3,20.5,Low
+CAND_401,4.2,node,"dl,docker,node,kubernetes",mobile dev,none,2,25.6,Low
+CAND_402,7.2,cybersecurity,"sql,python,aws",web development,aws certified,3,41.1,Medium
+CAND_403,4.7,react,"kubernetes,aws",cloud,google cloud certified,16,44.1,Medium
+CAND_404,0.1,android,react,cloud,azure fundamentals,18,26.0,Low
+CAND_405,9.1,android,"aws,react,cybersecurity",web development,tensorflow certificate,18,57.3,Medium
+CAND_406,8.7,sql,docker,cyber security,aws certified,4,72.1,High
+CAND_407,0.7,cybersecurity,react,ai,tensorflow certificate,3,21.5,Low
+CAND_408,4.9,sql,"dl,sql,node",web development,tensorflow certificate,16,69.7,Medium
+CAND_409,0.0,flutter,"cybersecurity,sql,android,docker",mobile dev,azure fundamentals,12,30.0,Low
+CAND_410,3.9,sql,"python,kubernetes,dl,node",web development,none,8,53.7,Medium
+CAND_411,0.1,python,"node,android",ai,none,4,32.0,Low
+CAND_412,4.0,dl,"flutter,dl",ai,azure fundamentals,13,42.0,Medium
+CAND_413,9.2,sql,"python,dl",cyber security,tensorflow certificate,2,70.6,High
+CAND_414,5.2,java,kubernetes,mobile dev,tensorflow certificate,3,30.1,Low
+CAND_415,1.8,python,"dl,aws,docker,sql",web development,google cloud certified,12,83.0,High
+CAND_416,4.4,react,"android,docker,ml",ai,tensorflow certificate,7,38.7,Low
+CAND_417,3.6,flutter,"ml,cybersecurity,node",ai,google cloud certified,3,25.3,Low
+CAND_418,6.9,python,"kubernetes,cybersecurity",data science,azure fundamentals,4,61.7,Medium
+CAND_419,5.6,ml,"dl,aws,java",ai,google cloud certified,18,76.8,High
+CAND_420,4.1,cybersecurity,python,cloud,tensorflow certificate,18,37.3,Low
+CAND_421,1.9,docker,java,mobile dev,none,15,34.0,Low
+CAND_422,9.0,docker,java,ai,google cloud certified,14,52.0,Medium
+CAND_423,2.6,ml,dl,web development,aws certified,2,50.8,Medium
+CAND_424,2.9,dl,"react,cybersecurity,node,docker",ai,google cloud certified,15,38.7,Low
+CAND_425,8.8,python,"cybersecurity,java,kubernetes,android",cloud,azure fundamentals,17,76.4,High
+CAND_426,0.8,java,"kubernetes,sql",mobile dev,google cloud certified,16,33.0,Low
+CAND_427,8.4,node,android,data science,azure fundamentals,5,42.7,Medium
+CAND_428,9.4,java,"ml,java,cybersecurity,flutter",cyber security,aws certified,7,48.7,Medium
+CAND_429,3.5,react,"flutter,react,aws",data science,tensorflow certificate,15,40.5,Medium
+CAND_430,3.2,java,"dl,node,kubernetes",cloud,azure fundamentals,6,33.6,Low
+CAND_431,0.8,android,aws,web development,none,13,28.0,Low
+CAND_432,1.1,ml,"react,python,sql,node",data science,azure fundamentals,11,61.0,Medium
+CAND_433,4.2,android,"cybersecurity,docker",ai,tensorflow certificate,18,42.6,Medium
+CAND_434,1.1,cybersecurity,dl,mobile dev,none,11,31.0,Low
+CAND_435,0.8,ml,"dl,docker",cyber security,google cloud certified,20,68.0,Medium
+CAND_436,1.5,docker,java,data science,google cloud certified,13,40.0,Medium
+CAND_437,0.7,dl,node,ai,none,9,20.5,Low
+CAND_438,2.9,cybersecurity,"docker,ml,cybersecurity",web development,aws certified,1,25.2,Low
+CAND_439,0.1,aws,"react,aws,android",data science,azure fundamentals,8,28.0,Low
+CAND_440,0.3,node,"flutter,android,java,aws",mobile dev,azure fundamentals,3,22.5,Low
+CAND_441,3.4,docker,sql,data science,tensorflow certificate,6,29.2,Low
+CAND_442,7.9,react,"android,java,react,node",ai,tensorflow certificate,0,33.7,Low
+CAND_443,9.4,docker,python,data science,tensorflow certificate,2,41.2,Medium
+CAND_444,1.0,node,android,cloud,azure fundamentals,9,33.5,Low
+CAND_445,7.4,docker,"android,cybersecurity,flutter,docker",data science,tensorflow certificate,14,52.2,Medium
+CAND_446,9.9,cybersecurity,"cybersecurity,react,node",ai,azure fundamentals,12,54.7,Medium
+CAND_447,1.6,kubernetes,"react,cybersecurity,java,sql",cyber security,none,4,22.0,Low
+CAND_448,5.2,docker,"java,kubernetes,node,react",cyber security,none,3,20.1,Low
+CAND_449,2.8,ml,"docker,android,sql",web development,aws certified,17,63.4,Medium
+CAND_450,7.4,java,android,data science,aws certified,16,47.2,Medium
+CAND_451,2.4,java,"ml,cybersecurity",mobile dev,none,9,20.7,Low
+CAND_452,8.5,python,"dl,ml,aws,flutter",web development,tensorflow certificate,0,70.5,High
+CAND_453,8.7,sql,"dl,android,docker,react",ai,tensorflow certificate,11,86.1,High
+CAND_454,4.8,ml,dl,cyber security,none,4,50.4,Medium
+CAND_455,3.9,dl,"flutter,aws",data science,none,13,31.7,Low
+CAND_456,0.8,ml,"python,android,cybersecurity",mobile dev,tensorflow certificate,11,58.0,Medium
+CAND_457,8.1,cybersecurity,aws,data science,azure fundamentals,14,54.3,Medium
+CAND_458,5.3,flutter,"flutter,cybersecurity,aws,sql",web development,azure fundamentals,2,33.9,Low
+CAND_459,7.9,kubernetes,"node,cybersecurity,java",web development,azure fundamentals,1,35.2,Low
+CAND_460,5.7,react,kubernetes,mobile dev,azure fundamentals,11,42.1,Medium
+CAND_461,5.6,kubernetes,dl,data science,tensorflow certificate,18,46.8,Medium
+CAND_462,3.1,flutter,"python,dl,java,sql",ai,azure fundamentals,5,31.8,Low
+CAND_463,6.4,cybersecurity,"ml,android,react,kubernetes",web development,tensorflow certificate,3,33.7,Low
+CAND_464,6.7,android,"docker,cybersecurity,react",cloud,google cloud certified,7,45.6,Medium
+CAND_465,7.6,java,"android,node,kubernetes",web development,none,1,24.3,Low
+CAND_466,6.5,react,"android,dl",mobile dev,tensorflow certificate,2,37.5,Low
+CAND_467,9.9,ml,"android,react,ml",cyber security,none,6,63.7,Medium
+CAND_468,0.8,cybersecurity,docker,mobile dev,google cloud certified,1,24.5,Low
+CAND_469,6.9,flutter,"node,docker,flutter",cloud,aws certified,20,50.7,Medium
+CAND_470,6.4,sql,"dl,sql,react,aws",data science,tensorflow certificate,13,79.2,High
+CAND_471,2.4,node,"cybersecurity,node,java,flutter",data science,tensorflow certificate,1,18.7,Low
+CAND_472,2.9,kubernetes,"java,react",ai,aws certified,9,32.2,Low
+CAND_473,7.2,ml,kubernetes,data science,aws certified,20,71.6,High
+CAND_474,7.7,dl,"cybersecurity,java,kubernetes",data science,none,19,38.1,Low
+CAND_475,9.1,kubernetes,"node,java,flutter",web development,aws certified,14,52.3,Medium
+CAND_476,8.7,dl,java,mobile dev,aws certified,0,36.1,Low
+CAND_477,8.3,python,"aws,docker",cloud,google cloud certified,19,84.9,High
+CAND_478,1.1,kubernetes,ml,cloud,none,14,26.0,Low
+CAND_479,8.8,python,"sql,flutter,kubernetes",web development,none,7,61.9,Medium
+CAND_480,9.4,kubernetes,"aws,ml,docker,kubernetes",cloud,azure fundamentals,14,63.2,Medium
+CAND_481,9.7,python,"sql,android",cyber security,tensorflow certificate,12,79.1,High
+CAND_482,0.0,node,"dl,sql",cloud,google cloud certified,14,30.0,Low
+CAND_483,1.9,sql,"python,dl",data science,none,18,64.0,Medium
+CAND_484,6.2,docker,"flutter,python",cloud,azure fundamentals,11,43.6,Medium
+CAND_485,3.4,cybersecurity,"aws,docker,python",data science,aws certified,20,45.2,Medium
+CAND_486,4.8,java,"flutter,cybersecurity,dl,kubernetes",cloud,azure fundamentals,17,44.4,Medium
+CAND_487,9.4,sql,java,cyber security,azure fundamentals,0,63.2,Medium
+CAND_488,1.6,dl,"kubernetes,cybersecurity,dl",mobile dev,tensorflow certificate,15,46.0,Medium
+CAND_489,6.6,dl,flutter,cyber security,azure fundamentals,12,44.8,Medium
+CAND_490,4.9,aws,kubernetes,mobile dev,azure fundamentals,16,39.7,Low
+CAND_491,6.6,docker,"kubernetes,ml,sql,android",cyber security,aws certified,10,44.8,Medium
+CAND_492,2.0,kubernetes,kubernetes,cloud,aws certified,17,31.0,Low
+CAND_493,0.3,node,"cybersecurity,kubernetes",cyber security,tensorflow certificate,16,28.0,Low
+CAND_494,8.6,node,"android,flutter,node",web development,none,17,40.8,Medium
+CAND_495,4.7,python,"dl,docker",mobile dev,google cloud certified,18,74.1,High
+CAND_496,2.7,sql,"aws,sql",web development,aws certified,15,63.1,Medium
+CAND_497,4.1,android,"docker,python,aws,flutter",cyber security,none,19,37.3,Low
+CAND_498,1.4,java,"flutter,docker",web development,azure fundamentals,10,44.0,Medium
+CAND_499,1.0,android,"react,ml",cloud,tensorflow certificate,15,35.0,Low
+CAND_500,7.8,node,"react,cybersecurity,ml",ai,google cloud certified,17,48.4,Medium
+CAND_501,6.6,aws,"kubernetes,ml",web development,azure fundamentals,3,34.3,Low
+CAND_502,6.4,kubernetes,"python,dl",cloud,google cloud certified,5,41.7,Medium
+CAND_503,5.9,kubernetes,"java,react,sql,aws",mobile dev,tensorflow certificate,5,40.2,Medium
+CAND_504,7.7,dl,"java,node",mobile dev,google cloud certified,11,48.1,Medium
+CAND_505,0.9,python,java,data science,none,16,49.0,Medium
+CAND_506,7.1,node,"ml,docker",mobile dev,tensorflow certificate,10,51.3,Medium
+CAND_507,1.1,ml,"cybersecurity,sql,react,dl",cloud,aws certified,11,66.0,Medium
+CAND_508,6.2,react,"flutter,ml",web development,google cloud certified,20,43.6,Medium
+CAND_509,6.5,node,docker,data science,google cloud certified,4,40.5,Medium
+CAND_510,8.5,dl,python,mobile dev,tensorflow certificate,13,50.5,Medium
+CAND_511,8.2,aws,"docker,kubernetes,node,android",mobile dev,google cloud certified,4,45.6,Medium
+CAND_512,5.0,android,"java,sql,dl",cyber security,none,19,35.0,Low
+CAND_513,6.9,cybersecurity,"cybersecurity,react",web development,aws certified,9,44.2,Medium
+CAND_514,8.7,sql,"flutter,react,docker",cyber security,aws certified,20,81.1,High
+CAND_515,5.9,node,docker,cyber security,azure fundamentals,14,47.7,Medium
+CAND_516,5.4,python,dl,mobile dev,azure fundamentals,0,56.2,Medium
+CAND_517,4.7,docker,"node,cybersecurity,dl",cloud,google cloud certified,9,42.6,Medium
+CAND_518,4.1,flutter,"node,python",mobile dev,aws certified,3,26.8,Low
+CAND_519,0.3,ml,"kubernetes,dl",web development,tensorflow certificate,7,53.5,Medium
+CAND_520,7.9,aws,"node,flutter,docker",web development,azure fundamentals,5,46.2,Medium
+CAND_521,3.3,aws,android,cloud,none,10,24.9,Low
+CAND_522,7.0,android,"sql,python,docker",cloud,none,19,41.0,Medium
+CAND_523,1.1,docker,"flutter,cybersecurity",web development,aws certified,10,36.0,Low
+CAND_524,1.9,dl,python,cloud,google cloud certified,14,44.0,Medium
+CAND_525,1.9,sql,"java,react,node",ai,azure fundamentals,1,55.5,Medium
+CAND_526,2.5,docker,"sql,java,kubernetes",cloud,google cloud certified,16,32.5,Low
+CAND_527,6.0,node,"java,dl,python,android",mobile dev,none,17,38.0,Low
+CAND_528,9.3,android,"react,flutter",mobile dev,tensorflow certificate,18,52.9,Medium
+CAND_529,2.7,ml,"python,node",web development,azure fundamentals,16,58.1,Medium
+CAND_530,2.9,python,"ml,aws,docker",cloud,aws certified,17,68.7,Medium
+CAND_531,4.0,node,"docker,android,ml,sql",cyber security,aws certified,4,33.0,Low
+CAND_532,4.7,docker,"react,java,dl,aws",ai,aws certified,13,49.1,Medium
+CAND_533,6.9,android,"python,kubernetes,docker",cyber security,none,12,40.7,Medium
+CAND_534,3.6,flutter,android,cyber security,google cloud certified,16,35.8,Low
+CAND_535,6.6,sql,python,web development,aws certified,15,69.8,Medium
+CAND_536,2.2,dl,"docker,android,flutter",data science,tensorflow certificate,18,36.6,Low
+CAND_537,4.1,node,"sql,python,aws,node",mobile dev,aws certified,17,42.3,Medium
+CAND_538,2.3,dl,flutter,mobile dev,aws certified,9,30.4,Low
+CAND_539,1.2,python,"python,dl,react",data science,aws certified,13,67.0,Medium
+CAND_540,6.5,node,"java,docker",web development,aws certified,18,49.5,Medium
+CAND_541,6.0,java,"docker,flutter",ai,google cloud certified,9,46.5,Medium
+CAND_542,9.8,react,"sql,dl,ml,aws",cyber security,none,2,42.4,Medium
+CAND_543,4.0,android,"aws,java,python",cyber security,google cloud certified,1,28.5,Low
+CAND_544,2.1,cybersecurity,"sql,java,aws,dl",web development,azure fundamentals,8,38.3,Low
+CAND_545,9.9,flutter,"docker,android,aws",web development,google cloud certified,5,57.2,Medium
+CAND_546,2.8,ml,"kubernetes,react,python,android",cyber security,tensorflow certificate,8,55.4,Medium
+CAND_547,9.0,java,android,cyber security,tensorflow certificate,8,49.0,Medium
+CAND_548,8.2,aws,flutter,data science,tensorflow certificate,6,43.6,Medium
+CAND_549,2.0,kubernetes,"aws,react,sql,docker",ai,google cloud certified,8,38.0,Low
+CAND_550,8.7,react,"cybersecurity,sql",cloud,tensorflow certificate,6,45.1,Medium
+CAND_551,3.4,python,"ml,dl,aws",web development,aws certified,7,65.7,Medium
+CAND_552,2.8,kubernetes,"aws,node,python",cloud,google cloud certified,1,24.9,Low
+CAND_553,9.5,cybersecurity,"python,java",cyber security,none,19,43.5,Medium
+CAND_554,9.1,android,"kubernetes,react",mobile dev,azure fundamentals,16,52.3,Medium
+CAND_555,8.5,java,"cybersecurity,sql",cyber security,azure fundamentals,16,50.5,Medium
+CAND_556,3.6,cybersecurity,"react,kubernetes",cloud,none,4,16.8,Low
+CAND_557,4.5,cybersecurity,"ml,aws,dl",cyber security,google cloud certified,14,48.5,Medium
+CAND_558,5.5,flutter,"kubernetes,docker,node,sql",cyber security,aws certified,9,45.0,Medium
+CAND_559,5.4,docker,"node,dl,cybersecurity,docker",cyber security,google cloud certified,17,51.2,Medium
+CAND_560,0.8,kubernetes,ml,mobile dev,tensorflow certificate,4,24.0,Low
+CAND_561,1.0,docker,"flutter,dl,python,cybersecurity",cyber security,azure fundamentals,3,29.5,Low
+CAND_562,4.1,flutter,"dl,node,ml",web development,azure fundamentals,11,42.3,Medium
+CAND_563,7.1,ml,python,web development,azure fundamentals,5,63.8,Medium
+CAND_564,3.8,flutter,"cybersecurity,ml,sql,android",web development,aws certified,9,34.9,Low
+CAND_565,6.5,react,java,cloud,none,8,31.5,Low
+CAND_566,4.6,react,"dl,android",web development,google cloud certified,8,40.8,Medium
+CAND_567,1.5,node,"aws,kubernetes,react,ml",data science,google cloud certified,15,45.0,Medium
+CAND_568,0.6,ml,react,web development,none,2,34.0,Low
+CAND_569,1.3,docker,ml,web development,none,7,23.5,Low
+CAND_570,2.4,docker,"ml,node,docker,flutter",mobile dev,azure fundamentals,19,37.2,Low
+CAND_571,2.3,dl,"react,docker",data science,none,9,25.4,Low
+CAND_572,5.1,cybersecurity,"react,flutter",web development,aws certified,15,40.3,Medium
+CAND_573,1.0,react,"python,java",cloud,tensorflow certificate,6,29.0,Low
+CAND_574,8.3,java,aws,mobile dev,google cloud certified,2,42.9,Medium
+CAND_575,7.8,aws,cybersecurity,cyber security,google cloud certified,0,33.4,Low
+CAND_576,1.6,react,java,cloud,azure fundamentals,17,41.0,Medium
+CAND_577,4.9,cybersecurity,"python,docker,react,aws",mobile dev,aws certified,8,46.7,Medium
+CAND_578,3.4,python,"python,sql,node",cyber security,tensorflow certificate,20,60.2,Medium
+CAND_579,4.8,kubernetes,"aws,android,ml",data science,none,19,34.4,Low
+CAND_580,5.7,android,flutter,cloud,aws certified,14,42.1,Medium
+CAND_581,1.5,ml,android,cloud,aws certified,8,62.0,Medium
+CAND_582,9.2,android,"dl,node",web development,tensorflow certificate,16,57.6,Medium
+CAND_583,7.5,node,"ml,kubernetes,python,docker",ai,none,19,42.5,Medium
+CAND_584,0.3,react,"docker,python,android",cyber security,none,3,12.5,Low
+CAND_585,6.5,flutter,"python,kubernetes",data science,tensorflow certificate,16,44.5,Medium
+CAND_586,7.2,aws,"android,ml,docker,kubernetes",mobile dev,google cloud certified,17,51.6,Medium
+CAND_587,7.2,sql,"flutter,docker,ml,python",web development,google cloud certified,0,61.6,Medium
+CAND_588,3.8,kubernetes,"java,docker,aws",cloud,azure fundamentals,19,46.4,Medium
+CAND_589,4.7,flutter,python,web development,none,12,29.1,Low
+CAND_590,5.0,ml,"react,kubernetes,flutter,android",data science,none,2,43.0,Medium
+CAND_591,3.8,react,"kubernetes,react,sql,cybersecurity",data science,google cloud certified,9,34.9,Low
+CAND_592,2.5,sql,"react,aws",web development,azure fundamentals,19,62.5,Medium
+CAND_593,0.5,android,"android,sql,python",ai,google cloud certified,8,27.0,Low
+CAND_594,9.1,aws,"flutter,aws,android",cyber security,tensorflow certificate,19,57.3,Medium
+CAND_595,6.8,docker,node,data science,tensorflow certificate,18,45.4,Medium
+CAND_596,5.0,docker,"flutter,python,react",web development,tensorflow certificate,4,31.0,Low
+CAND_597,1.9,flutter,"java,flutter",web development,tensorflow certificate,1,30.5,Low
+CAND_598,3.7,dl,"react,cybersecurity,node",web development,aws certified,1,22.6,Low
+CAND_599,2.8,aws,"react,python,sql,cybersecurity",ai,aws certified,7,28.9,Low
+CAND_600,5.9,aws,"sql,node,aws",web development,aws certified,20,47.7,Medium
+CAND_601,6.3,java,aws,data science,none,20,38.9,Low
+CAND_602,8.8,aws,"aws,flutter",cyber security,google cloud certified,6,50.4,Medium
+CAND_603,6.9,ml,"kubernetes,java,sql",cloud,azure fundamentals,9,69.2,Medium
+CAND_604,9.4,kubernetes,ml,ai,google cloud certified,8,50.2,Medium
+CAND_605,5.4,docker,"ml,flutter",data science,aws certified,2,29.2,Low
+CAND_606,7.8,ml,"react,flutter,dl,kubernetes",ai,azure fundamentals,17,78.4,High
+CAND_607,4.2,kubernetes,"flutter,aws",data science,aws certified,8,39.6,Low
+CAND_608,1.9,ml,"node,react,java,aws",data science,azure fundamentals,1,60.5,Medium
+CAND_609,8.6,dl,"cybersecurity,python",mobile dev,google cloud certified,10,50.8,Medium
+CAND_610,4.4,kubernetes,"java,python,react",data science,aws certified,17,38.2,Low
+CAND_611,2.0,cybersecurity,"react,flutter,node,android",web development,aws certified,12,31.0,Low
+CAND_612,3.8,node,"java,kubernetes",cloud,aws certified,17,36.4,Low
+CAND_613,3.1,python,"flutter,python,dl,ml",ai,tensorflow certificate,9,62.8,Medium
+CAND_614,8.5,sql,"flutter,ml",cloud,azure fundamentals,16,75.5,High
+CAND_615,4.9,flutter,"aws,java",web development,tensorflow certificate,6,38.7,Low
+CAND_616,0.1,android,kubernetes,cyber security,google cloud certified,4,17.0,Low
+CAND_617,1.9,kubernetes,"ml,kubernetes,flutter",ai,none,1,20.5,Low
+CAND_618,4.8,java,"docker,node",cloud,aws certified,10,44.4,Medium
+CAND_619,8.6,node,"android,sql,ml,react",ai,azure fundamentals,3,40.3,Medium
+CAND_620,7.9,aws,"dl,flutter,cybersecurity,react",web development,aws certified,1,40.2,Medium
+CAND_621,9.6,java,docker,ai,aws certified,14,58.8,Medium
+CAND_622,0.3,kubernetes,docker,ai,tensorflow certificate,0,18.0,Low
+CAND_623,3.0,docker,"kubernetes,ml",mobile dev,none,2,12.0,Low
+CAND_624,2.5,react,sql,ai,google cloud certified,1,19.0,Low
+CAND_625,5.8,flutter,"python,sql",web development,tensorflow certificate,3,31.9,Low
+CAND_626,4.0,node,cybersecurity,data science,aws certified,17,37.0,Low
+CAND_627,3.2,python,"flutter,python",web development,none,5,42.1,Medium
+CAND_628,1.5,node,flutter,ai,azure fundamentals,18,40.0,Medium
+CAND_629,5.7,cybersecurity,"ml,sql,dl",web development,tensorflow certificate,2,35.1,Low
+CAND_630,5.6,kubernetes,sql,data science,aws certified,17,41.8,Medium
+CAND_631,9.1,docker,"aws,cybersecurity,flutter",cyber security,google cloud certified,16,57.3,Medium
+CAND_632,2.2,react,"kubernetes,react,java,node",ai,tensorflow certificate,4,22.6,Low
+CAND_633,1.4,dl,dl,mobile dev,aws certified,17,44.0,Medium
+CAND_634,1.6,node,"react,node,android",data science,tensorflow certificate,14,41.0,Medium
+CAND_635,3.6,flutter,"kubernetes,ml,dl",mobile dev,azure fundamentals,1,27.3,Low
+CAND_636,7.1,sql,"cybersecurity,android,flutter,docker",data science,none,8,63.3,Medium
+CAND_637,2.7,python,"java,android,aws",cloud,tensorflow certificate,19,63.1,Medium
+CAND_638,2.6,aws,"aws,docker,kubernetes",ai,tensorflow certificate,20,42.8,Medium
+CAND_639,6.1,android,"flutter,docker",web development,azure fundamentals,12,48.3,Medium
+CAND_640,6.0,flutter,"docker,java,react,kubernetes",web development,aws certified,0,33.0,Low
+CAND_641,6.8,aws,"android,docker",cyber security,google cloud certified,16,50.4,Medium
+CAND_642,4.3,aws,"flutter,cybersecurity,python,node",data science,none,8,24.9,Low
+CAND_643,4.4,aws,"cybersecurity,node",data science,none,4,19.2,Low
+CAND_644,1.1,java,"ml,dl,react",mobile dev,google cloud certified,14,41.0,Medium
+CAND_645,4.0,python,"aws,dl",cloud,none,0,47.0,Medium
+CAND_646,2.6,python,"react,sql,android,cybersecurity",data science,azure fundamentals,2,45.8,Medium
+CAND_647,3.1,sql,python,cloud,azure fundamentals,8,56.3,Medium
+CAND_648,2.5,kubernetes,aws,mobile dev,tensorflow certificate,12,37.5,Low
+CAND_649,8.6,aws,ml,mobile dev,aws certified,5,43.3,Medium
+CAND_650,3.1,android,node,data science,none,15,24.3,Low
+CAND_651,9.4,ml,"cybersecurity,dl,sql",mobile dev,azure fundamentals,16,83.2,High
+CAND_652,2.2,react,"python,cybersecurity,aws",ai,none,1,13.1,Low
+CAND_653,5.8,dl,react,cloud,aws certified,20,42.4,Medium
+CAND_654,6.0,docker,"kubernetes,ml,aws",web development,tensorflow certificate,12,48.0,Medium
+CAND_655,6.2,kubernetes,"ml,docker,dl,flutter",web development,none,3,33.1,Low
+CAND_656,7.6,dl,ml,web development,aws certified,10,47.8,Medium
+CAND_657,3.6,cybersecurity,"ml,docker,aws",cloud,google cloud certified,17,45.8,Medium
+CAND_658,3.4,node,"cybersecurity,react,android,java",data science,azure fundamentals,19,35.2,Low
+CAND_659,7.2,python,"react,docker,java",web development,none,20,66.6,Medium
+CAND_660,0.8,react,"kubernetes,sql,java,python",cloud,aws certified,4,24.0,Low
+CAND_661,8.9,flutter,"docker,flutter,node,cybersecurity",ai,azure fundamentals,3,46.2,Medium
+CAND_662,6.7,node,ml,ai,aws certified,6,39.1,Low
+CAND_663,5.9,aws,"sql,java,aws,react",cloud,tensorflow certificate,12,47.7,Medium
+CAND_664,0.5,cybersecurity,"python,sql",web development,none,1,6.5,Low
+CAND_665,8.1,aws,"dl,aws,react",cyber security,none,17,49.3,Medium
+CAND_666,2.9,java,cybersecurity,web development,azure fundamentals,2,21.7,Low
+CAND_667,8.2,android,"android,java",ai,azure fundamentals,6,43.6,Medium
+CAND_668,3.2,docker,"aws,sql",mobile dev,aws certified,1,26.1,Low
+CAND_669,3.1,cybersecurity,"python,cybersecurity,android,aws",cyber security,google cloud certified,11,39.3,Low
+CAND_670,1.3,node,aws,mobile dev,none,13,33.0,Low
+CAND_671,3.4,aws,"java,kubernetes,python,flutter",data science,none,12,25.2,Low
+CAND_672,7.9,java,"ml,android,react",ai,azure fundamentals,6,42.7,Medium
+CAND_673,3.7,docker,"ml,python,dl",data science,tensorflow certificate,11,41.1,Medium
+CAND_674,8.4,dl,"dl,python,java,sql",cloud,aws certified,12,55.2,Medium
+CAND_675,7.2,node,"cybersecurity,python,aws",cloud,google cloud certified,19,51.6,Medium
+CAND_676,4.0,cybersecurity,java,ai,azure fundamentals,18,37.0,Low
+CAND_677,4.4,docker,"java,docker,python",web development,azure fundamentals,5,35.7,Low
+CAND_678,0.0,sql,"kubernetes,sql,ml,flutter",data science,tensorflow certificate,17,50.0,Medium
+CAND_679,1.7,ml,"docker,dl",ai,google cloud certified,13,77.0,High
+CAND_680,7.5,flutter,"aws,flutter,python,java",cloud,google cloud certified,10,52.5,Medium
+CAND_681,1.9,node,"python,android",data science,aws certified,1,30.5,Low
+CAND_682,3.2,dl,java,mobile dev,none,4,15.6,Low
+CAND_683,8.7,java,android,cloud,google cloud certified,10,51.1,Medium
+CAND_684,0.6,kubernetes,"react,docker,python,android",ai,tensorflow certificate,11,36.0,Low
+CAND_685,5.3,python,"python,flutter,ml,node",ai,tensorflow certificate,7,61.4,Medium
+CAND_686,6.6,sql,sql,mobile dev,none,5,52.3,Medium
+CAND_687,3.1,node,"java,docker,aws",web development,none,8,31.3,Low
+CAND_688,7.3,docker,"cybersecurity,dl,ml",mobile dev,azure fundamentals,0,36.9,Low
+CAND_689,2.8,flutter,cybersecurity,cyber security,google cloud certified,12,33.4,Low
+CAND_690,4.5,docker,"sql,react,flutter",ai,none,4,19.5,Low
+CAND_691,0.5,dl,"kubernetes,dl,python,flutter",web development,tensorflow certificate,17,35.0,Low
+CAND_692,1.7,flutter,"aws,dl",data science,azure fundamentals,0,37.0,Low
+CAND_693,9.5,docker,"java,dl",cloud,azure fundamentals,18,58.5,Medium
+CAND_694,7.4,dl,"dl,java,react,flutter",cloud,google cloud certified,6,46.2,Medium
+CAND_695,1.8,node,docker,cloud,google cloud certified,6,42.0,Medium
+CAND_696,0.3,kubernetes,"node,docker,kubernetes,sql",web development,google cloud certified,15,33.0,Low
+CAND_697,1.9,sql,"sql,java",ai,aws certified,6,63.0,Medium
+CAND_698,7.9,kubernetes,"kubernetes,ml,node",mobile dev,aws certified,6,42.7,Medium
+CAND_699,7.1,python,"aws,sql,android,node",mobile dev,azure fundamentals,14,76.3,High
+CAND_700,6.0,sql,node,web development,aws certified,3,57.5,Medium
+CAND_701,3.0,node,"kubernetes,node,ml,docker",cyber security,aws certified,0,24.0,Low
+CAND_702,5.4,node,"dl,python,flutter,docker",mobile dev,tensorflow certificate,1,37.7,Low
+CAND_703,0.4,node,aws,cloud,aws certified,1,20.5,Low
+CAND_704,7.3,dl,"sql,aws,ml",ai,aws certified,5,44.4,Medium
+CAND_705,0.5,react,"python,aws,sql,node",mobile dev,aws certified,15,35.0,Low
+CAND_706,7.4,react,sql,web development,aws certified,11,47.2,Medium
+CAND_707,6.0,docker,flutter,ai,tensorflow certificate,6,37.0,Low
+CAND_708,2.6,docker,"flutter,aws",mobile dev,google cloud certified,19,37.8,Low
+CAND_709,7.3,android,"python,dl",cyber security,none,4,32.9,Low
+CAND_710,7.0,docker,"node,flutter,aws",cyber security,aws certified,17,51.0,Medium
+CAND_711,0.3,sql,flutter,cyber security,azure fundamentals,7,48.5,Medium
+CAND_712,4.9,node,"node,cybersecurity,kubernetes,java",cyber security,tensorflow certificate,12,39.7,Low
+CAND_713,5.3,docker,"flutter,sql,node,cybersecurity",cloud,none,4,21.9,Low
+CAND_714,5.1,sql,node,cyber security,google cloud certified,5,57.8,Medium
+CAND_715,1.8,aws,ml,data science,google cloud certified,12,43.0,Medium
+CAND_716,2.7,docker,"dl,ml,docker",cloud,azure fundamentals,12,43.1,Medium
+CAND_717,7.2,python,"docker,node,python,aws",data science,tensorflow certificate,6,75.6,High
+CAND_718,3.3,flutter,"dl,kubernetes",web development,aws certified,11,39.9,Low
+CAND_719,4.3,sql,"aws,docker,cybersecurity",data science,azure fundamentals,9,71.4,High
+CAND_720,2.8,java,"node,aws,dl,java",cyber security,azure fundamentals,16,43.4,Medium
+CAND_721,2.5,dl,"dl,java,cybersecurity,python",ai,google cloud certified,9,36.0,Low
+CAND_722,5.1,aws,"kubernetes,android",web development,none,12,30.3,Low
+CAND_723,3.3,aws,kubernetes,cloud,aws certified,20,34.9,Low
+CAND_724,8.2,cybersecurity,"cybersecurity,kubernetes",cloud,tensorflow certificate,8,46.6,Medium
+CAND_725,1.4,cybersecurity,"python,aws,java,flutter",ai,google cloud certified,12,44.0,Medium
+CAND_726,2.0,android,"node,android",cloud,azure fundamentals,5,23.5,Low
+CAND_727,6.5,kubernetes,"java,aws",mobile dev,google cloud certified,2,37.5,Low
+CAND_728,0.6,cybersecurity,"aws,ml,docker,node",data science,azure fundamentals,10,41.0,Medium
+CAND_729,0.6,aws,"flutter,kubernetes",cloud,google cloud certified,4,22.0,Low
+CAND_730,3.6,ml,node,cloud,aws certified,10,60.8,Medium
+CAND_731,4.9,cybersecurity,"python,java",data science,none,18,29.7,Low
+CAND_732,5.3,cybersecurity,"sql,python,node,ml",mobile dev,none,17,30.9,Low
+CAND_733,3.3,sql,"java,android",ai,google cloud certified,17,59.9,Medium
+CAND_734,0.8,python,"react,flutter,node",cyber security,azure fundamentals,12,58.0,Medium
+CAND_735,8.2,docker,"react,flutter,docker",ai,none,3,34.1,Low
+CAND_736,1.7,node,java,data science,azure fundamentals,17,42.0,Medium
+CAND_737,4.4,ml,kubernetes,web development,none,0,38.2,Low
+CAND_738,8.5,dl,aws,ai,aws certified,14,55.5,Medium
+CAND_739,6.7,ml,"ml,kubernetes,react",web development,tensorflow certificate,5,62.6,Medium
+CAND_740,7.8,react,node,web development,none,1,24.9,Low
+CAND_741,4.6,docker,"docker,flutter,java,sql",cyber security,aws certified,3,33.3,Low
+CAND_742,8.7,node,"node,ml",web development,azure fundamentals,6,45.1,Medium
+CAND_743,4.0,docker,"dl,docker,cybersecurity",cloud,none,3,26.5,Low
+CAND_744,3.8,docker,"java,android",mobile dev,google cloud certified,4,27.4,Low
+CAND_745,3.0,python,dl,ai,google cloud certified,8,61.0,Medium
+CAND_746,4.1,python,"flutter,cybersecurity,node",cyber security,none,2,40.3,Medium
+CAND_747,4.1,android,"flutter,dl",cyber security,azure fundamentals,13,42.3,Medium
+CAND_748,3.0,sql,"java,node,react",cyber security,tensorflow certificate,6,53.0,Medium
+CAND_749,9.5,kubernetes,"python,flutter,ml,node",cyber security,google cloud certified,12,53.5,Medium
+CAND_750,8.0,dl,"dl,react,kubernetes",cyber security,aws certified,5,46.5,Medium
+CAND_751,2.8,python,java,cyber security,aws certified,8,55.4,Medium
+CAND_752,3.9,android,"flutter,java,aws",cyber security,aws certified,9,40.2,Medium
+CAND_753,3.3,python,python,web development,none,6,43.9,Medium
+CAND_754,9.1,docker,"java,cybersecurity",ai,google cloud certified,1,38.8,Low
+CAND_755,5.9,dl,cybersecurity,ai,tensorflow certificate,2,30.7,Low
+CAND_756,8.1,java,node,cloud,tensorflow certificate,13,49.3,Medium
+CAND_757,1.0,flutter,"android,kubernetes,dl",cyber security,google cloud certified,3,29.5,Low
+CAND_758,2.2,flutter,"python,android,sql,cybersecurity",cyber security,aws certified,18,31.6,Low
+CAND_759,7.8,sql,"cybersecurity,java,node",web development,none,5,55.9,Medium
+CAND_760,3.5,java,"android,aws,dl,react",mobile dev,none,11,35.5,Low
+CAND_761,8.2,python,"react,dl",cloud,azure fundamentals,16,79.6,High
+CAND_762,8.7,aws,"cybersecurity,dl,aws",web development,google cloud certified,11,61.1,Medium
+CAND_763,6.7,sql,"android,java",cloud,none,6,54.1,Medium
+CAND_764,7.6,java,java,cyber security,none,20,37.8,Low
+CAND_765,1.6,cybersecurity,"cybersecurity,react,node",ai,none,1,17.5,Low
+CAND_766,5.2,react,java,ai,tensorflow certificate,18,40.6,Medium
+CAND_767,0.7,sql,"react,dl,sql,flutter",cloud,aws certified,18,62.0,Medium
+CAND_768,5.4,flutter,"sql,android,ml",ai,google cloud certified,9,39.7,Low
+CAND_769,1.3,node,flutter,data science,google cloud certified,14,38.0,Low
+CAND_770,2.9,node,"dl,flutter,aws",data science,google cloud certified,10,43.7,Medium
+CAND_771,7.7,dl,"kubernetes,node,aws,python",ai,google cloud certified,3,42.6,Medium
+CAND_772,9.5,sql,"react,dl,flutter",cyber security,tensorflow certificate,15,83.5,High
+CAND_773,9.0,java,"ml,aws,cybersecurity,kubernetes",web development,azure fundamentals,7,52.5,Medium
+CAND_774,5.6,dl,"java,node,sql,docker",data science,google cloud certified,10,46.8,Medium
+CAND_775,8.4,cybersecurity,"cybersecurity,sql,flutter",web development,google cloud certified,12,50.2,Medium
+CAND_776,7.9,flutter,"android,flutter,docker",web development,google cloud certified,5,46.2,Medium
+CAND_777,9.7,react,"python,sql,ml",cloud,aws certified,8,51.1,Medium
+CAND_778,2.2,android,"react,java",data science,aws certified,9,30.1,Low
+CAND_779,9.8,dl,"python,kubernetes,android",cloud,google cloud certified,10,54.4,Medium
+CAND_780,2.1,flutter,"react,kubernetes",data science,google cloud certified,17,31.3,Low
+CAND_781,9.8,python,sql,data science,tensorflow certificate,7,74.9,High
+CAND_782,1.1,dl,"aws,ml,java,kubernetes",data science,tensorflow certificate,19,41.0,Medium
+CAND_783,0.7,cybersecurity,"dl,react,java",cyber security,aws certified,11,37.0,Low
+CAND_784,9.5,docker,"ml,aws,sql,cybersecurity",data science,none,6,42.5,Medium
+CAND_785,6.1,kubernetes,"sql,kubernetes",mobile dev,tensorflow certificate,19,43.3,Medium
+CAND_786,8.0,react,sql,cloud,azure fundamentals,11,49.0,Medium
+CAND_787,1.0,dl,"aws,cybersecurity,react",ai,tensorflow certificate,17,40.0,Medium
+CAND_788,6.9,docker,"java,android",web development,azure fundamentals,11,45.7,Medium
+CAND_789,7.2,kubernetes,"android,sql,ml,aws",data science,none,7,37.1,Low
+CAND_790,9.7,docker,"android,flutter",ai,tensorflow certificate,3,43.6,Medium
+CAND_791,7.0,docker,"aws,python,node",cyber security,azure fundamentals,20,51.0,Medium
+CAND_792,5.6,docker,"ml,android,docker,cybersecurity",cloud,google cloud certified,3,36.3,Low
+CAND_793,2.4,aws,"react,aws,python,node",web development,tensorflow certificate,15,37.2,Low
+CAND_794,4.2,dl,"aws,java",mobile dev,aws certified,0,27.6,Low
+CAND_795,7.4,node,"sql,node",ai,google cloud certified,8,44.2,Medium
+CAND_796,9.8,python,"android,flutter,docker,cybersecurity",cyber security,google cloud certified,12,84.4,High
+CAND_797,6.5,dl,java,cyber security,none,18,34.5,Low
+CAND_798,3.2,python,"node,ml",cyber security,google cloud certified,5,52.1,Medium
+CAND_799,2.1,flutter,"kubernetes,python,node",ai,google cloud certified,6,25.3,Low
+CAND_800,9.4,react,"flutter,node",cyber security,none,5,35.7,Low
+CAND_801,6.3,docker,"react,ml",ai,none,4,24.9,Low
+CAND_802,8.0,java,"java,ml,android,docker",cloud,aws certified,0,39.0,Low
+CAND_803,4.4,react,"android,node,aws",cyber security,none,15,33.2,Low
+CAND_804,5.1,kubernetes,flutter,cloud,google cloud certified,20,40.3,Medium
+CAND_805,2.6,android,"aws,dl",web development,tensorflow certificate,6,36.8,Low
+CAND_806,1.7,aws,"kubernetes,ml",cyber security,google cloud certified,3,31.5,Low
+CAND_807,3.5,android,react,web development,tensorflow certificate,12,35.5,Low
+CAND_808,3.5,docker,python,cloud,none,10,25.5,Low
+CAND_809,5.1,react,"dl,android",ai,none,0,20.3,Low
+CAND_810,1.4,cybersecurity,react,cloud,azure fundamentals,17,39.0,Low
+CAND_811,8.2,sql,"android,cybersecurity,flutter",cyber security,aws certified,0,59.6,Medium
+CAND_812,8.9,cybersecurity,cybersecurity,web development,none,18,41.7,Medium
+CAND_813,0.9,android,"android,dl,java",mobile dev,google cloud certified,19,39.0,Low
+CAND_814,1.8,docker,"dl,node,flutter,sql",cyber security,azure fundamentals,11,48.0,Medium
+CAND_815,6.5,aws,"java,aws",data science,azure fundamentals,2,37.5,Low
+CAND_816,1.1,dl,"java,node",web development,google cloud certified,2,24.0,Low
+CAND_817,6.2,kubernetes,"flutter,aws,react",ai,azure fundamentals,4,39.6,Low
+CAND_818,2.2,ml,"python,sql",ai,none,1,33.1,Low
+CAND_819,3.1,docker,"sql,kubernetes,react",data science,aws certified,5,26.8,Low
+CAND_820,9.5,docker,"node,kubernetes,java",cloud,tensorflow certificate,19,53.5,Medium
+CAND_821,10.0,aws,"aws,sql,ml",data science,azure fundamentals,9,58.5,Medium
+CAND_822,4.7,cybersecurity,"ml,android,node",data science,aws certified,18,39.1,Low
+CAND_823,8.4,aws,"docker,react,java,python",data science,none,1,31.7,Low
+CAND_824,3.2,python,"python,aws,kubernetes,react",cyber security,google cloud certified,2,52.6,Medium
+CAND_825,5.6,flutter,"java,dl,android,kubernetes",mobile dev,google cloud certified,7,42.3,Medium
+CAND_826,0.8,flutter,"react,docker,node",cyber security,tensorflow certificate,13,38.0,Low
+CAND_827,3.5,flutter,docker,ai,aws certified,5,33.0,Low
+CAND_828,3.2,ml,"java,kubernetes,flutter",ai,tensorflow certificate,8,56.6,Medium
+CAND_829,0.1,aws,docker,cyber security,tensorflow certificate,17,31.0,Low
+CAND_830,6.2,react,"ml,java,dl",mobile dev,google cloud certified,16,48.6,Medium
+CAND_831,1.8,ml,flutter,web development,none,17,58.0,Medium
+CAND_832,6.0,node,"cybersecurity,aws",cyber security,azure fundamentals,7,43.5,Medium
+CAND_833,8.8,react,"android,ml",mobile dev,google cloud certified,12,51.4,Medium
+CAND_834,6.1,kubernetes,"python,docker,aws,dl",mobile dev,aws certified,1,44.8,Medium
+CAND_835,0.1,android,"node,ml",ai,none,2,4.0,Low
+CAND_836,2.2,kubernetes,"python,cybersecurity",ai,google cloud certified,15,31.6,Low
+CAND_837,8.0,java,"cybersecurity,docker,kubernetes,sql",data science,tensorflow certificate,3,43.5,Medium
+CAND_838,8.7,kubernetes,"python,kubernetes,aws",cloud,azure fundamentals,12,56.1,Medium
+CAND_839,5.8,ml,"dl,node",web development,google cloud certified,10,72.4,High
+CAND_840,0.7,python,"java,node,kubernetes,android",mobile dev,azure fundamentals,4,48.0,Medium
+CAND_841,4.8,ml,sql,cloud,azure fundamentals,4,55.4,Medium
+CAND_842,10.0,dl,python,web development,aws certified,11,55.0,Medium
+CAND_843,9.6,ml,"kubernetes,react,docker,cybersecurity",cloud,tensorflow certificate,1,70.3,High
+CAND_844,0.8,node,"ml,android",ai,tensorflow certificate,7,28.5,Low
+CAND_845,3.0,flutter,"kubernetes,java,aws",mobile dev,google cloud certified,17,39.0,Low
+CAND_846,7.8,java,"sql,android",data science,aws certified,15,48.4,Medium
+CAND_847,2.0,flutter,java,cyber security,aws certified,8,28.0,Low
+CAND_848,6.7,docker,"react,android",cyber security,tensorflow certificate,3,34.6,Low
+CAND_849,9.0,java,"android,dl",ai,azure fundamentals,2,45.0,Medium
+CAND_850,0.5,node,"dl,react,cybersecurity",data science,google cloud certified,0,20.0,Low
+CAND_851,9.1,kubernetes,flutter,ai,azure fundamentals,18,52.3,Medium
+CAND_852,9.5,cybersecurity,react,cloud,aws certified,9,52.0,Medium
+CAND_853,1.4,dl,"sql,ml,java",cloud,aws certified,1,25.5,Low
+CAND_854,0.6,cybersecurity,"ml,docker,python",web development,aws certified,4,27.0,Low
+CAND_855,6.6,kubernetes,"docker,cybersecurity,dl",data science,google cloud certified,9,53.3,Medium
+CAND_856,7.8,java,"cybersecurity,dl,android",cyber security,google cloud certified,20,53.4,Medium
+CAND_857,0.6,cybersecurity,"react,ml,java",mobile dev,aws certified,2,19.0,Low
+CAND_858,2.4,cybersecurity,ml,web development,azure fundamentals,11,32.2,Low
+CAND_859,1.4,ml,"cybersecurity,ml,java",data science,google cloud certified,19,64.0,Medium
+CAND_860,2.7,ml,"python,docker,flutter",data science,google cloud certified,18,63.1,Medium
+CAND_861,1.9,sql,"java,cybersecurity",cloud,tensorflow certificate,20,69.0,Medium
+CAND_862,2.5,cybersecurity,"aws,java",cyber security,aws certified,14,37.5,Low
+CAND_863,1.8,docker,sql,web development,google cloud certified,13,43.0,Medium
+CAND_864,3.3,ml,react,data science,google cloud certified,10,59.9,Medium
+CAND_865,8.9,flutter,"sql,react",ai,google cloud certified,3,41.2,Medium
+CAND_866,2.9,flutter,"kubernetes,flutter,react",mobile dev,azure fundamentals,7,29.2,Low
+CAND_867,3.5,flutter,"react,docker,aws",cyber security,aws certified,6,39.5,Low
+CAND_868,5.5,android,"sql,python,react,kubernetes",cyber security,none,15,31.5,Low
+CAND_869,9.0,docker,python,cyber security,google cloud certified,2,40.0,Medium
+CAND_870,8.9,dl,"sql,node",mobile dev,aws certified,6,45.7,Medium
+CAND_871,3.8,node,"ml,java,flutter",ai,azure fundamentals,19,36.4,Low
+CAND_872,1.3,android,"aws,kubernetes,java,node",cloud,none,2,21.0,Low
+CAND_873,0.9,sql,"node,kubernetes",ai,aws certified,17,59.0,Medium
+CAND_874,0.1,react,"dl,cybersecurity,react",mobile dev,azure fundamentals,5,23.5,Low
+CAND_875,8.8,aws,"kubernetes,aws,sql,python",ai,google cloud certified,16,56.4,Medium
+CAND_876,0.6,flutter,"python,react,dl,sql",cloud,azure fundamentals,20,36.0,Low
+CAND_877,9.8,sql,"android,python,dl,react",data science,google cloud certified,12,84.4,High
+CAND_878,1.2,react,"flutter,java,docker,react",web development,google cloud certified,1,28.5,Low
+CAND_879,2.7,ml,"aws,kubernetes,android,java",cyber security,tensorflow certificate,10,63.1,Medium
+CAND_880,6.7,react,dl,cloud,aws certified,8,47.1,Medium
+CAND_881,3.1,dl,"kubernetes,dl",ai,tensorflow certificate,16,39.3,Low
+CAND_882,7.3,android,python,ai,google cloud certified,15,46.9,Medium
+CAND_883,3.9,cybersecurity,"flutter,react",cloud,none,18,26.7,Low
+CAND_884,4.2,kubernetes,"sql,aws,cybersecurity,flutter",cyber security,aws certified,19,42.6,Medium
+CAND_885,4.8,cybersecurity,ml,web development,azure fundamentals,15,39.4,Low
+CAND_886,9.3,ml,"docker,dl,java,python",web development,azure fundamentals,10,87.9,High
+CAND_887,1.0,flutter,"node,docker,ml",ai,azure fundamentals,9,38.5,Low
+CAND_888,4.7,docker,"aws,sql,dl",web development,aws certified,17,49.1,Medium
+CAND_889,2.9,flutter,"sql,ml,java,python",ai,none,10,23.7,Low
+CAND_890,4.8,kubernetes,"python,aws,android",cyber security,tensorflow certificate,16,44.4,Medium
+CAND_891,1.7,aws,cybersecurity,web development,aws certified,3,31.5,Low
+CAND_892,8.3,kubernetes,"android,docker",cloud,azure fundamentals,8,51.9,Medium
+CAND_893,3.2,dl,"sql,flutter",data science,azure fundamentals,1,21.1,Low
+CAND_894,6.7,cybersecurity,"python,sql",data science,none,5,27.6,Low
+CAND_895,5.3,ml,java,data science,tensorflow certificate,5,58.4,Medium
+CAND_896,4.5,java,"cybersecurity,python,ml",web development,none,2,16.5,Low
+CAND_897,7.4,docker,"react,kubernetes,dl,sql",cyber security,azure fundamentals,14,52.2,Medium
+CAND_898,9.1,cybersecurity,"python,java,flutter",ai,none,10,42.3,Medium
+CAND_899,0.3,java,"cybersecurity,react,sql",data science,none,8,15.0,Low
+CAND_900,0.1,ml,"aws,android,react",data science,tensorflow certificate,19,56.0,Medium
+CAND_901,2.9,node,kubernetes,cyber security,tensorflow certificate,8,30.7,Low
+CAND_902,1.4,dl,java,ai,google cloud certified,4,30.0,Low
+CAND_903,0.0,cybersecurity,"java,aws",web development,google cloud certified,11,30.0,Low
+CAND_904,9.4,android,"android,node,kubernetes,docker",cyber security,azure fundamentals,5,50.7,Medium
+CAND_905,0.8,ml,"sql,dl",mobile dev,google cloud certified,8,60.0,Medium
+CAND_906,5.3,node,"node,dl",ai,aws certified,17,45.9,Medium
+CAND_907,4.6,kubernetes,"cybersecurity,docker,flutter",web development,tensorflow certificate,14,43.8,Medium
+CAND_908,6.7,kubernetes,"sql,kubernetes,ml,react",mobile dev,none,5,27.6,Low
+CAND_909,8.2,java,"android,kubernetes,aws,react",data science,tensorflow certificate,8,51.6,Medium
+CAND_910,7.7,flutter,"android,java",web development,azure fundamentals,9,46.6,Medium
+CAND_911,7.0,python,"ml,android,cybersecurity,aws",cloud,none,17,66.0,Medium
+CAND_912,6.6,android,dl,cloud,azure fundamentals,6,43.8,Medium
+CAND_913,6.6,flutter,kubernetes,web development,google cloud certified,11,44.8,Medium
+CAND_914,3.8,python,"node,sql,docker,react",cloud,tensorflow certificate,20,66.4,Medium
+CAND_915,3.7,python,"node,dl",cloud,google cloud certified,7,61.6,Medium
+CAND_916,9.6,android,"python,docker,sql,cybersecurity",mobile dev,azure fundamentals,9,57.3,Medium
+CAND_917,6.4,android,"docker,java",cyber security,none,0,24.2,Low
+CAND_918,9.5,sql,"sql,ml",web development,none,0,53.5,Medium
+CAND_919,0.3,docker,"kubernetes,react,docker,python",mobile dev,tensorflow certificate,8,30.0,Low
+CAND_920,7.9,dl,"flutter,node,docker,kubernetes",web development,google cloud certified,18,53.7,Medium
+CAND_921,6.9,java,"kubernetes,node,ml",mobile dev,none,18,35.7,Low
+CAND_922,5.4,kubernetes,"android,node,dl",cloud,tensorflow certificate,3,35.7,Low
+CAND_923,1.7,python,android,ai,azure fundamentals,11,67.0,Medium
+CAND_924,2.5,aws,sql,mobile dev,aws certified,6,26.5,Low
+CAND_925,5.8,docker,"kubernetes,flutter,aws",mobile dev,tensorflow certificate,11,47.4,Medium
+CAND_926,2.8,cybersecurity,"node,python",cyber security,aws certified,1,19.9,Low
+CAND_927,9.7,python,"node,flutter,java",ai,none,19,69.1,Medium
+CAND_928,3.9,python,android,data science,google cloud certified,8,58.7,Medium
+CAND_929,9.7,flutter,"kubernetes,java,ml,sql",mobile dev,aws certified,0,39.1,Low
+CAND_930,8.1,aws,"node,java",cloud,google cloud certified,15,49.3,Medium
+CAND_931,9.5,react,"aws,docker",mobile dev,none,8,50.5,Medium
+CAND_932,3.0,docker,python,ai,aws certified,18,34.0,Low
+CAND_933,8.0,ml,"android,ml",ai,google cloud certified,14,74.0,High
+CAND_934,0.4,docker,"docker,android,aws,ml",cyber security,none,6,23.0,Low
+CAND_935,5.2,dl,"cybersecurity,sql,aws",cloud,none,6,29.6,Low
+CAND_936,6.8,react,"react,android,kubernetes",cyber security,tensorflow certificate,15,45.4,Medium
+CAND_937,7.7,dl,node,data science,none,13,38.1,Low
+CAND_938,8.4,dl,"flutter,cybersecurity,docker",web development,tensorflow certificate,2,43.2,Medium
+CAND_939,6.9,kubernetes,"aws,kubernetes,cybersecurity",data science,azure fundamentals,10,50.7,Medium
+CAND_940,8.7,kubernetes,"kubernetes,cybersecurity,node",cloud,aws certified,17,51.1,Medium
+CAND_941,3.2,cybersecurity,"python,dl",web development,none,17,29.6,Low
+CAND_942,5.8,kubernetes,"flutter,android,kubernetes",mobile dev,none,20,32.4,Low
+CAND_943,3.3,docker,"dl,python,java,android",mobile dev,google cloud certified,7,35.4,Low
+CAND_944,1.2,node,"react,node,aws,kubernetes",cyber security,azure fundamentals,6,36.0,Low
+CAND_945,0.2,flutter,"docker,react,flutter,ml",web development,azure fundamentals,14,32.0,Low
+CAND_946,3.4,ml,"sql,android,dl",web development,aws certified,14,65.2,Medium
+CAND_947,3.5,kubernetes,dl,ai,tensorflow certificate,10,40.5,Medium
+CAND_948,7.3,java,flutter,cyber security,google cloud certified,10,46.9,Medium
+CAND_949,7.4,dl,"kubernetes,flutter,cybersecurity,node",cyber security,azure fundamentals,15,47.2,Medium
+CAND_950,4.8,java,"flutter,aws",cloud,aws certified,3,33.9,Low
+CAND_951,7.1,react,"java,dl,cybersecurity",cyber security,azure fundamentals,15,51.3,Medium
+CAND_952,9.3,kubernetes,node,cloud,aws certified,4,43.9,Medium
+CAND_953,6.6,kubernetes,"ml,node,python",ai,tensorflow certificate,11,44.8,Medium
+CAND_954,0.9,ml,"node,aws,react",cloud,none,10,54.0,Medium
+CAND_955,8.7,react,kubernetes,cyber security,none,18,41.1,Medium
+CAND_956,9.5,kubernetes,"ml,docker,node",data science,none,15,48.5,Medium
+CAND_957,6.4,cybersecurity,"sql,docker,python,cybersecurity",ai,tensorflow certificate,19,49.2,Medium
+CAND_958,8.0,python,"flutter,python",data science,google cloud certified,13,74.0,High
+CAND_959,8.6,java,"android,flutter,java,react",data science,none,18,40.8,Medium
+CAND_960,2.9,aws,"dl,android,aws,kubernetes",data science,none,2,21.7,Low
+CAND_961,7.9,aws,"android,flutter,java,node",web development,tensorflow certificate,10,48.7,Medium
+CAND_962,1.5,sql,"aws,sql,react",ai,none,6,54.0,Medium
+CAND_963,1.2,android,"react,flutter,cybersecurity,ml",data science,azure fundamentals,1,23.5,Low
+CAND_964,8.5,python,node,mobile dev,azure fundamentals,13,75.5,High
+CAND_965,1.2,cybersecurity,"node,ml",data science,google cloud certified,18,37.0,Low
+CAND_966,6.7,docker,"node,cybersecurity,java,python",web development,tensorflow certificate,3,34.6,Low
+CAND_967,3.7,android,"flutter,docker,react",data science,tensorflow certificate,20,41.1,Medium
+CAND_968,3.4,cybersecurity,"cybersecurity,android,react",cloud,azure fundamentals,3,24.7,Low
+CAND_969,3.8,dl,"aws,kubernetes",ai,tensorflow certificate,16,41.4,Medium
+CAND_970,0.7,ml,android,mobile dev,none,19,47.0,Medium
+CAND_971,9.0,sql,"flutter,node,sql,cybersecurity",cyber security,tensorflow certificate,19,77.0,High
+CAND_972,6.6,android,"python,dl",web development,tensorflow certificate,13,49.8,Medium
+CAND_973,1.2,sql,"java,kubernetes,python",cloud,azure fundamentals,5,54.5,Medium
+CAND_974,4.0,dl,python,data science,azure fundamentals,2,25.0,Low
+CAND_975,0.1,cybersecurity,"android,react,flutter,node",web development,none,19,16.0,Low
+CAND_976,8.4,flutter,"sql,python",web development,tensorflow certificate,5,42.7,Medium
+CAND_977,7.0,cybersecurity,"docker,aws,python,sql",data science,azure fundamentals,10,56.0,Medium
+CAND_978,8.6,android,"aws,docker",cyber security,azure fundamentals,0,45.8,Medium
+CAND_979,0.6,node,kubernetes,ai,google cloud certified,16,31.0,Low
+CAND_980,0.5,ml,"cybersecurity,android,node,docker",ai,aws certified,13,60.0,Medium
+CAND_981,8.6,python,"android,docker",web development,azure fundamentals,0,65.8,Medium
+CAND_982,2.3,flutter,"flutter,python,kubernetes",cloud,tensorflow certificate,12,31.9,Low
+CAND_983,5.1,cybersecurity,"android,java,ml",mobile dev,tensorflow certificate,13,40.3,Medium
+CAND_984,6.6,flutter,"python,android,node",cloud,azure fundamentals,5,37.3,Low
+CAND_985,1.5,ml,"cybersecurity,dl",web development,none,19,60.0,Medium
+CAND_986,7.4,docker,"node,sql,docker,flutter",cyber security,aws certified,2,40.2,Medium
+CAND_987,3.1,node,cybersecurity,ai,google cloud certified,17,34.3,Low
+CAND_988,3.7,kubernetes,"python,ml,react",ai,google cloud certified,19,36.1,Low
+CAND_989,8.8,flutter,"docker,sql,java",cloud,none,19,46.4,Medium
+CAND_990,4.4,dl,"python,kubernetes,flutter",ai,google cloud certified,15,38.2,Low
+CAND_991,2.5,java,react,mobile dev,aws certified,17,32.5,Low
+CAND_992,9.9,dl,"kubernetes,python,dl,sql",data science,google cloud certified,10,59.7,Medium
+CAND_993,0.6,react,dl,ai,google cloud certified,10,36.0,Low
+CAND_994,2.3,dl,"sql,docker",cloud,tensorflow certificate,12,36.9,Low
+CAND_995,5.9,aws,"python,node,cybersecurity,kubernetes",cloud,tensorflow certificate,20,42.7,Medium
+CAND_996,0.7,dl,sql,web development,azure fundamentals,19,32.0,Low
+CAND_997,0.0,node,"cybersecurity,docker",data science,tensorflow certificate,5,22.5,Low
+CAND_998,9.8,dl,"docker,java,react",data science,aws certified,14,59.4,Medium
+CAND_999,3.8,sql,"java,kubernetes",cloud,azure fundamentals,11,61.4,Medium
+CAND_1000,5.9,node,"java,android,react,kubernetes",mobile dev,tensorflow certificate,20,42.7,Medium

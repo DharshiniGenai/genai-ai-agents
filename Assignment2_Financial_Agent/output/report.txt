@@ -1,0 +1,18 @@
+
+FINANCIAL AI AGENT REPORT
+
+The system generates synthetic financial data for users and analyzes:
+- income vs expenses
+- savings rate
+- EMI burden
+
+It detects financial risks:
+- Overspending
+- Low savings
+- High EMI load
+
+The AI (Groq LLM) provides personalized financial advice for a subset of users.
+For large-scale processing, fallback rule-based logic is used to avoid API overload.
+
+This ensures scalability, cost efficiency, and reliability.
+        

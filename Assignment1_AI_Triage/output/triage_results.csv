@@ -1,0 +1,1201 @@
+message_id,customer_id,message_text,intent,priority,suggested_reply,escalation_flag
+MSG00000,CUST7186,Worst experience ever !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00001,CUST2500,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00002,CUST4407,Cannot login to account !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00003,CUST2464,   ,Unknown,Low,We will assist you shortly.,No
+MSG00004,CUST6176,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00005,CUST8423,I am unhappy with support !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00006,CUST9028,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00007,CUST7192,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00008,CUST6739,Coupon code not working !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00009,CUST7266,Need invoice for my purchase !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00010,CUST1552,   ,Unknown,Low,We will assist you shortly.,No
+MSG00011,CUST6322,No response from team !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00012,CUST6885,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00013,CUST9264,Tracking not updating !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00014,CUST8901,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00015,CUST9218,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00016,CUST5926,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00017,CUST8357,I was charged twice for my order !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00018,CUST7193,Order stuck in transit !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00019,CUST3595,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00020,CUST6385,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00021,CUST1489,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00022,CUST7770,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00023,CUST2138,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00024,CUST9967,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00025,CUST3952,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00026,CUST1386,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00027,CUST5900,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00028,CUST1738,   ,Unknown,Low,We will assist you shortly.,No
+MSG00029,CUST4843,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00030,CUST6518,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00031,CUST1238,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00032,CUST1629,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00033,CUST6666,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00034,CUST6787,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00035,CUST3437,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00036,CUST7268,Website not loading !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00037,CUST5608,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00038,CUST9379,   ,Unknown,Low,We will assist you shortly.,No
+MSG00039,CUST5043,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00040,CUST6748,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00041,CUST9972,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00042,CUST8765,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00043,CUST1717,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00044,CUST6222,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00045,CUST1585,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00046,CUST9873,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00047,CUST5137,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00048,CUST4535,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00049,CUST5508,Password reset not working !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00050,CUST2334,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00051,CUST2887,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00052,CUST2162,   ,Unknown,Low,We will assist you shortly.,No
+MSG00053,CUST6873,Cannot login to account !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00054,CUST3420,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00055,CUST4728,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00056,CUST9646,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00057,CUST4859,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00058,CUST2686,Wrong item delivered !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00059,CUST4928,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00060,CUST8281,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00061,CUST7990,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00062,CUST8885,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00063,CUST1758,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00064,CUST5023,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00065,CUST3032,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00066,CUST7510,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00067,CUST8402,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00068,CUST4563,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00069,CUST8354,Coupon code not working !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00070,CUST9545,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00071,CUST7949,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00072,CUST2018,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00073,CUST6593,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00074,CUST6209,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00075,CUST8339,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00076,CUST8486,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00077,CUST1066,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00078,CUST7969,I am unhappy with support !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00079,CUST8424,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00080,CUST2027,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00081,CUST1332,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00082,CUST6220,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00083,CUST6813,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00084,CUST8022,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00085,CUST3790,Need invoice for my purchase !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00086,CUST8090,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00087,CUST1985,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00088,CUST8391,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00089,CUST9082,Website not loading !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00090,CUST7907,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00091,CUST6643,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00092,CUST5300,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00093,CUST4292,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00094,CUST5215,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00095,CUST6459,Tracking not updating !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00096,CUST3959,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00097,CUST1588,Password reset not working !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00098,CUST3322,   ,Unknown,Low,We will assist you shortly.,No
+MSG00099,CUST9646,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00100,CUST4498,   ,Unknown,Low,We will assist you shortly.,No
+MSG00101,CUST7933,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00102,CUST1785,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00103,CUST1434,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00104,CUST5979,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00105,CUST5583,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00106,CUST7190,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00107,CUST3233,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00108,CUST4332,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00109,CUST2777,Wrong item delivered !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00110,CUST1185,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00111,CUST5415,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00112,CUST3265,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00113,CUST5622,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00114,CUST8336,Very bad service !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00115,CUST5498,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00116,CUST5896,Tracking not updating !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00117,CUST3513,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00118,CUST2670,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00119,CUST9199,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00120,CUST2063,Coupon code not working !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00121,CUST3062,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00122,CUST8545,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00123,CUST3950,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00124,CUST8545,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00125,CUST9564,Wrong item delivered !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00126,CUST1826,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00127,CUST7177,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00128,CUST3207,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00129,CUST6227,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00130,CUST3338,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00131,CUST6569,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00132,CUST3250,   ,Unknown,Low,We will assist you shortly.,No
+MSG00133,CUST5904,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00134,CUST4936,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00135,CUST1788,No response from team !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00136,CUST5687,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00137,CUST6590,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00138,CUST4185,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00139,CUST9224,Coupon code not working !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00140,CUST1840,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00141,CUST6063,Password reset not working !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00142,CUST9031,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00143,CUST8534,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00144,CUST5258,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00145,CUST8461,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00146,CUST4453,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00147,CUST4367,My package has not arrived !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00148,CUST9154,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00149,CUST9103,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00150,CUST2584,Very bad service !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00151,CUST4412,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00152,CUST9843,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00153,CUST1047,   ,Unknown,Low,We will assist you shortly.,No
+MSG00154,CUST9349,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00155,CUST9493,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00156,CUST7732,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00157,CUST5976,Worst experience ever !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00158,CUST6102,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00159,CUST3426,   ,Unknown,Low,We will assist you shortly.,No
+MSG00160,CUST9095,   ,Unknown,Low,We will assist you shortly.,No
+MSG00161,CUST9670,Refund not received yet !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00162,CUST9323,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00163,CUST2524,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00164,CUST8123,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00165,CUST8565,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00166,CUST3652,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00167,CUST3642,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00168,CUST5034,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00169,CUST1292,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00170,CUST9423,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00171,CUST4662,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00172,CUST3464,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00173,CUST9257,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00174,CUST1724,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00175,CUST5619,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00176,CUST4865,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00177,CUST9050,   ,Unknown,Low,We will assist you shortly.,No
+MSG00178,CUST5614,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00179,CUST8768,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00180,CUST5305,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00181,CUST8930,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00182,CUST4810,   ,Unknown,Low,We will assist you shortly.,No
+MSG00183,CUST3140,I am unhappy with support !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00184,CUST7212,Need invoice for my purchase !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00185,CUST1957,Very bad service !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00186,CUST5120,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00187,CUST4354,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00188,CUST5891,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00189,CUST7889,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00190,CUST2024,Cannot login to account !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00191,CUST4643,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00192,CUST6471,   ,Unknown,Low,We will assist you shortly.,No
+MSG00193,CUST7045,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00194,CUST2792,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00195,CUST4868,   ,Unknown,Low,We will assist you shortly.,No
+MSG00196,CUST2317,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00197,CUST2455,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00198,CUST9923,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00199,CUST6384,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00200,CUST9869,I was charged twice for my order !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00201,CUST5273,I want refund immediately !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00202,CUST5476,Cannot login to account !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00203,CUST3281,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00204,CUST3337,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00205,CUST9933,Cannot login to account !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00206,CUST9313,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00207,CUST6716,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00208,CUST1851,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00209,CUST5428,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00210,CUST8476,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00211,CUST6415,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00212,CUST9211,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00213,CUST9682,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00214,CUST3601,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00215,CUST3224,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00216,CUST9518,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00217,CUST4465,I want refund immediately !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00218,CUST7602,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00219,CUST4783,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00220,CUST8720,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00221,CUST8753,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00222,CUST3457,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00223,CUST8847,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00224,CUST4908,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00225,CUST3285,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00226,CUST6766,Tracking not updating !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00227,CUST3557,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00228,CUST6393,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00229,CUST5612,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00230,CUST4988,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00231,CUST6442,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00232,CUST7213,Tracking not updating !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00233,CUST4862,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00234,CUST8140,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00235,CUST4285,My package has not arrived !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00236,CUST2326,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00237,CUST7368,Password reset not working !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00238,CUST2991,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00239,CUST6020,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00240,CUST6119,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00241,CUST5167,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00242,CUST5681,Coupon code not working !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00243,CUST7504,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00244,CUST7756,Password reset not working !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00245,CUST3191,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00246,CUST7833,Cannot login to account !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00247,CUST2837,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00248,CUST6834,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00249,CUST2107,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00250,CUST4649,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00251,CUST8748,Tracking not updating !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00252,CUST1292,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00253,CUST2922,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00254,CUST1153,I want refund immediately !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00255,CUST1485,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00256,CUST2056,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00257,CUST6779,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00258,CUST4968,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00259,CUST4283,Coupon code not working !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00260,CUST7283,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00261,CUST5069,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00262,CUST3681,My package has not arrived !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00263,CUST9862,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00264,CUST4801,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00265,CUST6449,Very bad service !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00266,CUST7030,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00267,CUST8407,   ,Unknown,Low,We will assist you shortly.,No
+MSG00268,CUST7259,Cannot login to account !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00269,CUST9704,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00270,CUST1158,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00271,CUST8352,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00272,CUST3746,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00273,CUST4589,Password reset not working !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00274,CUST6440,My package has not arrived !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00275,CUST1447,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00276,CUST9540,Need invoice for my purchase !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00277,CUST4128,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00278,CUST3337,Cannot login to account !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00279,CUST7868,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00280,CUST1844,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00281,CUST6061,Tracking not updating !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00282,CUST6577,Need invoice for my purchase !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00283,CUST3644,   ,Unknown,Low,We will assist you shortly.,No
+MSG00284,CUST6454,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00285,CUST5523,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00286,CUST6055,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00287,CUST2379,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00288,CUST6629,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00289,CUST1423,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00290,CUST4473,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00291,CUST9977,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00292,CUST1911,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00293,CUST4879,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00294,CUST1749,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00295,CUST6096,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00296,CUST3173,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00297,CUST1771,Wrong item delivered !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00298,CUST7305,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00299,CUST6067,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00300,CUST5937,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00301,CUST8562,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00302,CUST4876,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00303,CUST4693,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00304,CUST7777,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00305,CUST6644,Refund not received yet !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00306,CUST3599,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00307,CUST7229,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00308,CUST1148,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00309,CUST6839,Very bad service !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00310,CUST9402,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00311,CUST5464,Wrong item delivered !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00312,CUST3708,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00313,CUST1191,I am unhappy with support !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00314,CUST6154,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00315,CUST9976,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00316,CUST1219,Cannot login to account !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00317,CUST5570,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00318,CUST9948,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00319,CUST1547,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00320,CUST3056,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00321,CUST6627,   ,Unknown,Low,We will assist you shortly.,No
+MSG00322,CUST4002,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00323,CUST8082,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00324,CUST8230,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00325,CUST6421,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00326,CUST2126,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00327,CUST5328,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00328,CUST8990,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00329,CUST5231,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00330,CUST6239,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00331,CUST9472,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00332,CUST6204,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00333,CUST5763,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00334,CUST7461,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00335,CUST1918,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00336,CUST1396,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00337,CUST1657,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00338,CUST8182,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00339,CUST4391,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00340,CUST1355,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00341,CUST2973,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00342,CUST1905,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00343,CUST1343,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00344,CUST2118,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00345,CUST7347,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00346,CUST8969,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00347,CUST3748,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00348,CUST2808,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00349,CUST7663,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00350,CUST4778,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00351,CUST7680,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00352,CUST3282,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00353,CUST3057,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00354,CUST3840,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00355,CUST6263,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00356,CUST7219,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00357,CUST9551,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00358,CUST1653,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00359,CUST5849,   ,Unknown,Low,We will assist you shortly.,No
+MSG00360,CUST3720,Need invoice for my purchase !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00361,CUST2018,Very bad service !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00362,CUST2122,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00363,CUST8876,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00364,CUST4303,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00365,CUST4771,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00366,CUST6408,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00367,CUST6624,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00368,CUST8931,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00369,CUST7084,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00370,CUST5816,I was charged twice for my order !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00371,CUST1382,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00372,CUST1723,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00373,CUST7062,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00374,CUST2730,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00375,CUST4444,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00376,CUST3913,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00377,CUST3959,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00378,CUST8851,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00379,CUST8894,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00380,CUST1610,   ,Unknown,Low,We will assist you shortly.,No
+MSG00381,CUST9886,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00382,CUST2607,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00383,CUST5951,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00384,CUST4594,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00385,CUST9888,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00386,CUST7998,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00387,CUST4704,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00388,CUST1241,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00389,CUST2608,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00390,CUST5694,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00391,CUST1345,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00392,CUST4964,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00393,CUST5811,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00394,CUST8674,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00395,CUST7925,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00396,CUST7137,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00397,CUST2995,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00398,CUST2670,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00399,CUST1273,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00400,CUST9467,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00401,CUST8779,I am unhappy with support !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00402,CUST2967,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00403,CUST8139,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00404,CUST3552,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00405,CUST4207,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00406,CUST6964,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00407,CUST5611,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00408,CUST1074,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00409,CUST5989,Worst experience ever !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00410,CUST4186,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00411,CUST7566,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00412,CUST2289,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00413,CUST1523,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00414,CUST9451,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00415,CUST2064,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00416,CUST5100,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00417,CUST9509,Password reset not working !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00418,CUST7350,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00419,CUST2721,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00420,CUST9918,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00421,CUST9811,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00422,CUST6216,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00423,CUST5856,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00424,CUST8214,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00425,CUST5401,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00426,CUST9500,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00427,CUST3874,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00428,CUST6350,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00429,CUST7127,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00430,CUST2307,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00431,CUST9628,Very bad service !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00432,CUST8505,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00433,CUST9246,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00434,CUST3571,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00435,CUST9498,Website not loading !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00436,CUST3685,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00437,CUST3703,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00438,CUST2294,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00439,CUST8153,Wrong item delivered !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00440,CUST4884,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00441,CUST8315,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00442,CUST6747,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00443,CUST7485,I am unhappy with support !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00444,CUST7447,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00445,CUST7557,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00446,CUST9278,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00447,CUST9590,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00448,CUST4672,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00449,CUST4059,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00450,CUST9331,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00451,CUST2756,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00452,CUST2403,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00453,CUST1013,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00454,CUST4117,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00455,CUST3976,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00456,CUST2710,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00457,CUST4982,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00458,CUST6661,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00459,CUST9106,   ,Unknown,Low,We will assist you shortly.,No
+MSG00460,CUST7606,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00461,CUST8701,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00462,CUST6990,Wrong item delivered !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00463,CUST3821,   ,Unknown,Low,We will assist you shortly.,No
+MSG00464,CUST4386,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00465,CUST6324,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00466,CUST9279,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00467,CUST5834,Refund not received yet !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00468,CUST1163,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00469,CUST7238,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00470,CUST7965,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00471,CUST6130,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00472,CUST9828,   ,Unknown,Low,We will assist you shortly.,No
+MSG00473,CUST4040,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00474,CUST4942,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00475,CUST8720,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00476,CUST2138,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00477,CUST3325,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00478,CUST1690,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00479,CUST2279,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00480,CUST8064,Very bad service !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00481,CUST5186,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00482,CUST4281,Order stuck in transit !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00483,CUST8205,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00484,CUST9713,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00485,CUST6017,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00486,CUST9461,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00487,CUST1865,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00488,CUST3990,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00489,CUST1675,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00490,CUST9890,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00491,CUST7389,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00492,CUST4994,I was charged twice for my order !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00493,CUST3424,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00494,CUST5507,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00495,CUST4967,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00496,CUST2620,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00497,CUST2288,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00498,CUST4062,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00499,CUST3627,   ,Unknown,Low,We will assist you shortly.,No
+MSG00500,CUST8614,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00501,CUST1624,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00502,CUST7207,Cannot login to account !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00503,CUST4392,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00504,CUST4722,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00505,CUST5950,Worst experience ever !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00506,CUST3930,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00507,CUST6576,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00508,CUST6784,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00509,CUST6953,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00510,CUST4476,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00511,CUST9134,   ,Unknown,Low,We will assist you shortly.,No
+MSG00512,CUST3427,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00513,CUST9246,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00514,CUST3688,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00515,CUST5808,   ,Unknown,Low,We will assist you shortly.,No
+MSG00516,CUST6712,I want refund immediately !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00517,CUST5270,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00518,CUST7320,   ,Unknown,Low,We will assist you shortly.,No
+MSG00519,CUST3313,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00520,CUST9048,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00521,CUST1895,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00522,CUST4344,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00523,CUST7264,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00524,CUST9153,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00525,CUST2193,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00526,CUST1988,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00527,CUST5986,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00528,CUST9912,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00529,CUST5134,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00530,CUST6542,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00531,CUST1751,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00532,CUST5538,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00533,CUST6709,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00534,CUST7849,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00535,CUST1387,Website not loading !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00536,CUST1959,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00537,CUST7999,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00538,CUST5171,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00539,CUST6061,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00540,CUST5006,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00541,CUST9857,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00542,CUST1131,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00543,CUST6691,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00544,CUST1034,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00545,CUST6324,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00546,CUST2301,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00547,CUST8240,   ,Unknown,Low,We will assist you shortly.,No
+MSG00548,CUST4977,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00549,CUST2658,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00550,CUST1368,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00551,CUST4643,   ,Unknown,Low,We will assist you shortly.,No
+MSG00552,CUST4681,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00553,CUST1109,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00554,CUST2890,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00555,CUST6721,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00556,CUST6941,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00557,CUST4112,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00558,CUST9199,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00559,CUST6548,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00560,CUST9922,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00561,CUST6073,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00562,CUST7277,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00563,CUST4113,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00564,CUST2752,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00565,CUST9908,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00566,CUST1521,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00567,CUST4579,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00568,CUST3791,Password reset not working !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00569,CUST4362,Need invoice for my purchase !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00570,CUST3233,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00571,CUST1593,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00572,CUST6305,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00573,CUST8731,Tracking not updating !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00574,CUST3196,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00575,CUST4654,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00576,CUST3061,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00577,CUST7285,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00578,CUST7311,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00579,CUST9629,Website not loading !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00580,CUST7933,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00581,CUST1060,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00582,CUST4203,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00583,CUST5875,I was charged twice for my order !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00584,CUST1414,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00585,CUST8310,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00586,CUST8212,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00587,CUST4266,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00588,CUST7057,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00589,CUST6989,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00590,CUST2940,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00591,CUST3362,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00592,CUST5863,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00593,CUST6552,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00594,CUST6986,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00595,CUST1931,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00596,CUST2850,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00597,CUST6850,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00598,CUST7810,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00599,CUST1187,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00600,CUST4629,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00601,CUST7853,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00602,CUST8290,Refund not received yet !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00603,CUST3837,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00604,CUST6488,Tracking not updating !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00605,CUST9594,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00606,CUST5513,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00607,CUST7240,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00608,CUST6065,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00609,CUST5644,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00610,CUST6630,   ,Unknown,Low,We will assist you shortly.,No
+MSG00611,CUST5549,Need invoice for my purchase !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00612,CUST9292,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00613,CUST6967,Coupon code not working !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00614,CUST1592,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00615,CUST3738,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00616,CUST8448,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00617,CUST2826,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00618,CUST2313,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00619,CUST1506,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00620,CUST8790,Website not loading !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00621,CUST1715,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00622,CUST5222,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00623,CUST5325,I am unhappy with support !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00624,CUST3718,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00625,CUST7139,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00626,CUST8582,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00627,CUST6136,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00628,CUST6293,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00629,CUST6449,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00630,CUST1267,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00631,CUST5002,I am unhappy with support !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00632,CUST7406,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00633,CUST8901,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00634,CUST4912,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00635,CUST6415,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00636,CUST1508,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00637,CUST2353,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00638,CUST3307,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00639,CUST1104,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00640,CUST7207,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00641,CUST2688,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00642,CUST3951,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00643,CUST1390,   ,Unknown,Low,We will assist you shortly.,No
+MSG00644,CUST6455,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00645,CUST5914,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00646,CUST3233,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00647,CUST9600,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00648,CUST1990,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00649,CUST4326,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00650,CUST8742,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00651,CUST7953,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00652,CUST9807,Coupon code not working !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00653,CUST6539,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00654,CUST8251,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00655,CUST8540,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00656,CUST6520,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00657,CUST9704,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00658,CUST5599,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00659,CUST6576,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00660,CUST2315,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00661,CUST2843,   ,Unknown,Low,We will assist you shortly.,No
+MSG00662,CUST8990,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00663,CUST6043,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00664,CUST8683,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00665,CUST7573,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00666,CUST7071,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00667,CUST6064,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00668,CUST5734,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00669,CUST8756,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00670,CUST2499,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00671,CUST3485,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00672,CUST5399,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00673,CUST9995,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00674,CUST1038,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00675,CUST3809,Very bad service !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00676,CUST8930,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00677,CUST9379,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00678,CUST9875,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00679,CUST4327,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00680,CUST8377,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00681,CUST7758,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00682,CUST2310,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00683,CUST3122,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00684,CUST3854,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00685,CUST7634,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00686,CUST5679,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00687,CUST5697,Need invoice for my purchase !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00688,CUST9847,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00689,CUST8985,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00690,CUST2557,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00691,CUST6333,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00692,CUST3656,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00693,CUST1765,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00694,CUST4887,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00695,CUST6224,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00696,CUST6069,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00697,CUST2029,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00698,CUST1782,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00699,CUST8667,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00700,CUST7123,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00701,CUST1612,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00702,CUST5658,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00703,CUST4225,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00704,CUST3810,Wrong item delivered !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00705,CUST2178,Cannot login to account !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00706,CUST1585,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00707,CUST2537,No response from team !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00708,CUST2607,   ,Unknown,Low,We will assist you shortly.,No
+MSG00709,CUST5860,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00710,CUST9249,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00711,CUST6981,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00712,CUST1416,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00713,CUST1127,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00714,CUST6002,   ,Unknown,Low,We will assist you shortly.,No
+MSG00715,CUST1477,I am unhappy with support !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00716,CUST9465,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00717,CUST6180,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00718,CUST7388,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00719,CUST2887,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00720,CUST9851,Cannot login to account !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00721,CUST3358,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00722,CUST8729,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00723,CUST1967,   ,Unknown,Low,We will assist you shortly.,No
+MSG00724,CUST1634,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00725,CUST6403,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00726,CUST9965,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00727,CUST9013,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00728,CUST7380,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00729,CUST7435,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00730,CUST6560,   ,Unknown,Low,We will assist you shortly.,No
+MSG00731,CUST7090,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00732,CUST1257,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00733,CUST2318,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00734,CUST1419,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00735,CUST5424,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00736,CUST8518,No response from team !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00737,CUST2458,   ,Unknown,Low,We will assist you shortly.,No
+MSG00738,CUST5875,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00739,CUST7111,   ,Unknown,Low,We will assist you shortly.,No
+MSG00740,CUST2967,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00741,CUST8566,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00742,CUST4691,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00743,CUST8790,   ,Unknown,Low,We will assist you shortly.,No
+MSG00744,CUST4514,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00745,CUST2337,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00746,CUST9076,   ,Unknown,Low,We will assist you shortly.,No
+MSG00747,CUST7602,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00748,CUST9609,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00749,CUST2374,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00750,CUST2126,I was charged twice for my order !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00751,CUST1273,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00752,CUST2522,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00753,CUST7326,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00754,CUST2216,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00755,CUST4637,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00756,CUST6579,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00757,CUST2503,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00758,CUST6759,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00759,CUST3252,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00760,CUST7999,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00761,CUST1656,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00762,CUST8095,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00763,CUST1045,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00764,CUST3728,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00765,CUST3486,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00766,CUST8835,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00767,CUST3699,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00768,CUST9971,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00769,CUST5396,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00770,CUST2355,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00771,CUST6891,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00772,CUST3121,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00773,CUST1487,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00774,CUST5513,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00775,CUST3524,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00776,CUST5624,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00777,CUST7824,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00778,CUST7312,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00779,CUST6441,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00780,CUST7786,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00781,CUST9461,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00782,CUST3119,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00783,CUST4754,Worst experience ever !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00784,CUST6871,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00785,CUST9204,Password reset not working !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00786,CUST6943,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00787,CUST7488,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00788,CUST8261,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00789,CUST7666,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00790,CUST9669,Refund not received yet !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00791,CUST6689,Coupon code not working !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00792,CUST3402,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00793,CUST9819,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00794,CUST5015,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00795,CUST1853,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00796,CUST1024,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00797,CUST1947,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00798,CUST6240,Refund not received yet !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00799,CUST8621,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00800,CUST9191,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00801,CUST4272,Order stuck in transit !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00802,CUST4694,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00803,CUST4768,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00804,CUST6738,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00805,CUST5420,Cannot login to account !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00806,CUST7531,   ,Unknown,Low,We will assist you shortly.,No
+MSG00807,CUST3886,I want refund immediately !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00808,CUST3623,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00809,CUST1713,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00810,CUST2759,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00811,CUST8925,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00812,CUST1320,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00813,CUST1776,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00814,CUST3377,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00815,CUST3247,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00816,CUST5723,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00817,CUST7679,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00818,CUST3346,   ,Unknown,Low,We will assist you shortly.,No
+MSG00819,CUST9340,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00820,CUST1491,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00821,CUST2842,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00822,CUST2795,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00823,CUST1848,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00824,CUST6944,No response from team !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00825,CUST6062,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00826,CUST9054,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00827,CUST5339,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00828,CUST6643,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00829,CUST2440,Need invoice for my purchase !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00830,CUST2869,Coupon code not working !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00831,CUST5926,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00832,CUST9687,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00833,CUST4538,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00834,CUST2047,Password reset not working !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00835,CUST8778,   ,Unknown,Low,We will assist you shortly.,No
+MSG00836,CUST5072,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00837,CUST3310,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00838,CUST2963,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00839,CUST4350,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00840,CUST4282,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00841,CUST7380,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG00842,CUST7968,   ,Unknown,Low,We will assist you shortly.,No
+MSG00843,CUST6762,   ,Unknown,Low,We will assist you shortly.,No
+MSG00844,CUST9409,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00845,CUST1670,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00846,CUST4497,My package has not arrived !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00847,CUST5587,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00848,CUST3045,I was charged twice for my order !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00849,CUST3177,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00850,CUST2199,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00851,CUST1643,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00852,CUST5269,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00853,CUST7260,Wrong item delivered !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00854,CUST7033,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00855,CUST9411,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00856,CUST4814,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00857,CUST3675,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00858,CUST3302,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00859,CUST1963,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00860,CUST1780,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00861,CUST5926,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00862,CUST8907,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00863,CUST3852,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00864,CUST9788,Refund not received yet !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00865,CUST5293,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00866,CUST7769,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00867,CUST4047,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00868,CUST4578,Order stuck in transit !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00869,CUST9244,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00870,CUST1797,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00871,CUST5760,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00872,CUST8328,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00873,CUST5570,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00874,CUST7079,Tracking not updating !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00875,CUST3747,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00876,CUST2524,My package has not arrived !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00877,CUST6892,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00878,CUST1878,Password reset not working !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00879,CUST2656,   ,Unknown,Low,We will assist you shortly.,No
+MSG00880,CUST2092,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00881,CUST4295,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00882,CUST7204,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00883,CUST4045,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00884,CUST2437,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00885,CUST5006,Very bad service !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00886,CUST9581,Website not loading !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00887,CUST4645,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00888,CUST7093,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00889,CUST3272,My package has not arrived !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00890,CUST8445,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00891,CUST2208,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00892,CUST1798,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00893,CUST3800,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00894,CUST1093,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00895,CUST3242,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00896,CUST1510,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00897,CUST4654,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00898,CUST8055,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00899,CUST2974,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00900,CUST2361,   ,Unknown,Low,We will assist you shortly.,No
+MSG00901,CUST5031,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00902,CUST4435,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00903,CUST3901,Password reset not working !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00904,CUST7460,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00905,CUST7173,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00906,CUST6397,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00907,CUST6796,   ,Unknown,Low,We will assist you shortly.,No
+MSG00908,CUST8766,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00909,CUST2366,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00910,CUST6497,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00911,CUST3559,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00912,CUST3746,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00913,CUST9414,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00914,CUST5967,Very bad service !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00915,CUST8592,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00916,CUST1280,Worst experience ever !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00917,CUST6989,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00918,CUST5437,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00919,CUST6007,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00920,CUST9732,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00921,CUST8619,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00922,CUST4806,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00923,CUST3553,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00924,CUST1434,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00925,CUST4668,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00926,CUST3259,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00927,CUST5224,No response from team !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00928,CUST3218,I want refund immediately !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00929,CUST4518,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00930,CUST4230,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00931,CUST6506,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00932,CUST1339,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00933,CUST5199,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00934,CUST3189,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00935,CUST9790,Website not loading !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00936,CUST3139,Need invoice for my purchase !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00937,CUST8363,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00938,CUST5615,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00939,CUST9621,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00940,CUST3244,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00941,CUST8295,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00942,CUST4287,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00943,CUST4897,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00944,CUST3529,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00945,CUST3228,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00946,CUST6273,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00947,CUST3148,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00948,CUST6249,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00949,CUST1535,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG00950,CUST6322,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00951,CUST3190,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00952,CUST3201,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00953,CUST8570,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00954,CUST4951,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00955,CUST1655,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00956,CUST6450,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00957,CUST9822,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00958,CUST7392,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG00959,CUST7213,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG00960,CUST4815,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00961,CUST1944,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00962,CUST6995,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG00963,CUST6853,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00964,CUST2507,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG00965,CUST9721,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00966,CUST8995,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00967,CUST8508,Wrong item delivered !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00968,CUST4330,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG00969,CUST6883,My package has not arrived !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG00970,CUST1704,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00971,CUST1228,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG00972,CUST8593,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG00973,CUST5197,No response from team !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00974,CUST5376,I am unhappy with support !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00975,CUST1576,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00976,CUST5768,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00977,CUST7384,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00978,CUST9323,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG00979,CUST5136,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00980,CUST4803,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00981,CUST5220,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00982,CUST2500,Very bad service !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG00983,CUST1679,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00984,CUST2656,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG00985,CUST7719,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00986,CUST7912,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG00987,CUST3716,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG00988,CUST8162,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG00989,CUST5477,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG00990,CUST2670,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG00991,CUST7330,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG00992,CUST9374,Error during payment !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG00993,CUST5926,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG00994,CUST7963,   ,Unknown,Low,We will assist you shortly.,No
+MSG00995,CUST3949,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG00996,CUST7789,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG00997,CUST2986,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG00998,CUST2941,Order stuck in transit !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG00999,CUST9541,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG01000,CUST1440,I am unhappy with support !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG01001,CUST3588,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG01002,CUST2413,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG01003,CUST9637,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG01004,CUST7179,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01005,CUST6770,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01006,CUST4054,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG01007,CUST1868,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01008,CUST7195,   ,Unknown,Low,We will assist you shortly.,No
+MSG01009,CUST6395,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG01010,CUST7274,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG01011,CUST9081,   ,Unknown,Low,We will assist you shortly.,No
+MSG01012,CUST7395,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG01013,CUST6881,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG01014,CUST4570,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG01015,CUST3040,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG01016,CUST9834,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG01017,CUST8768,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01018,CUST3807,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG01019,CUST4384,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG01020,CUST1298,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG01021,CUST4428,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG01022,CUST3236,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG01023,CUST4378,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG01024,CUST7848,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG01025,CUST7904,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG01026,CUST2616,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG01027,CUST2622,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG01028,CUST2071,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG01029,CUST4323,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG01030,CUST7658,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG01031,CUST5748,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG01032,CUST7021,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG01033,CUST7736,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG01034,CUST2150,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG01035,CUST6648,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG01036,CUST9037,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG01037,CUST4917,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG01038,CUST9185,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG01039,CUST5538,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG01040,CUST2883,No response from team !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG01041,CUST4453,I was charged twice for my order !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG01042,CUST8710,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01043,CUST7054,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG01044,CUST4125,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG01045,CUST3488,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG01046,CUST3124,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG01047,CUST5161,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG01048,CUST2523,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG01049,CUST6628,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG01050,CUST8513,Tracking not updating !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG01051,CUST4227,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG01052,CUST4901,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG01053,CUST6962,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG01054,CUST2794,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG01055,CUST2739,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG01056,CUST1673,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG01057,CUST7812,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG01058,CUST7874,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG01059,CUST2605,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG01060,CUST5847,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG01061,CUST6750,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG01062,CUST4995,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG01063,CUST4547,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG01064,CUST5544,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG01065,CUST8012,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG01066,CUST5769,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG01067,CUST2639,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG01068,CUST7436,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01069,CUST8623,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG01070,CUST7946,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG01071,CUST2945,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG01072,CUST5586,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG01073,CUST4312,   ,Unknown,Low,We will assist you shortly.,No
+MSG01074,CUST4513,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG01075,CUST2197,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG01076,CUST8500,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG01077,CUST5234,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG01078,CUST3875,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG01079,CUST2910,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG01080,CUST9802,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01081,CUST4127,   ,Unknown,Low,We will assist you shortly.,No
+MSG01082,CUST6549,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG01083,CUST2721,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG01084,CUST2117,   ,Unknown,Low,We will assist you shortly.,No
+MSG01085,CUST5679,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG01086,CUST9024,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG01087,CUST3622,Website not loading !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG01088,CUST8045,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG01089,CUST3793,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG01090,CUST7707,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG01091,CUST5322,Website not loading !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG01092,CUST9912,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG01093,CUST1053,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG01094,CUST5646,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01095,CUST5591,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG01096,CUST3712,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG01097,CUST9140,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG01098,CUST5157,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG01099,CUST4811,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG01100,CUST4762,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG01101,CUST3715,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG01102,CUST2158,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG01103,CUST3766,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG01104,CUST8042,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG01105,CUST1972,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG01106,CUST4019,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG01107,CUST1119,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG01108,CUST7687,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG01109,CUST8298,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG01110,CUST9339,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG01111,CUST6344,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG01112,CUST6560,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG01113,CUST4961,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG01114,CUST6242,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG01115,CUST1574,   ,Unknown,Low,We will assist you shortly.,No
+MSG01116,CUST6536,Delivery delayed again !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG01117,CUST8811,Very bad service !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG01118,CUST3433,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG01119,CUST7093,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG01120,CUST2317,Password reset not working !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG01121,CUST2074,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG01122,CUST4829,   ,Unknown,Low,We will assist you shortly.,No
+MSG01123,CUST7187,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG01124,CUST9552,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG01125,CUST7821,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG01126,CUST7931,Coupon code not working,Unknown,Low,We will assist you shortly.,No
+MSG01127,CUST6530,Coupon code not working !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG01128,CUST7300,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG01129,CUST7814,Cannot login to account,Technical,Medium,We are working on your technical issue.,No
+MSG01130,CUST5148,Delivery delayed again,Delivery,Medium,We are checking your order status.,No
+MSG01131,CUST6737,Refund not received yet !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG01132,CUST8749,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG01133,CUST3759,App is crashing,Technical,Medium,We are working on your technical issue.,No
+MSG01134,CUST5384,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG01135,CUST3988,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG01136,CUST8498,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG01137,CUST4754,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG01138,CUST7050,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG01139,CUST9808,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG01140,CUST2988,I am unhappy with support !!! urgent help !!!,Complaint,High,We are sorry for your experience.,Yes
+MSG01141,CUST7249,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01142,CUST9786,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG01143,CUST3631,I want refund immediately,Billing,Medium,We are checking your billing issue.,No
+MSG01144,CUST5274,Website not loading !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG01145,CUST6408,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG01146,CUST8182,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG01147,CUST9067,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG01148,CUST4147,No response from team,Unknown,Low,We will assist you shortly.,No
+MSG01149,CUST8653,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG01150,CUST6427,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG01151,CUST3967,   ,Unknown,Low,We will assist you shortly.,No
+MSG01152,CUST9350,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG01153,CUST5884,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG01154,CUST3932,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG01155,CUST2583,Payment failed but money deducted,Billing,Medium,We are checking your billing issue.,No
+MSG01156,CUST4316,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG01157,CUST4147,Very bad service,Complaint,High,We are sorry for your experience.,Yes
+MSG01158,CUST4337,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG01159,CUST4828,Order stuck in transit !!! urgent help !!!,Unknown,Low,We will assist you shortly.,No
+MSG01160,CUST4113,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG01161,CUST1560,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01162,CUST3891,Refund not received yet,Billing,Medium,We are checking your billing issue.,No
+MSG01163,CUST4509,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01164,CUST1588,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG01165,CUST7905,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01166,CUST2692,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG01167,CUST8275,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01168,CUST5902,   ,Unknown,Low,We will assist you shortly.,No
+MSG01169,CUST1371,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG01170,CUST6217,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG01171,CUST7200,Website not loading,Unknown,Low,We will assist you shortly.,No
+MSG01172,CUST2028,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG01173,CUST9010,Password reset not working,Technical,Medium,We are working on your technical issue.,No
+MSG01174,CUST8931,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG01175,CUST1739,Error during payment,Billing,Medium,We are checking your billing issue.,No
+MSG01176,CUST6729,Order stuck in transit,Unknown,Low,We will assist you shortly.,No
+MSG01177,CUST8463,App is crashing !!! urgent help !!!,Technical,Medium,We are working on your technical issue.,No
+MSG01178,CUST3215,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG01179,CUST4526,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG01180,CUST2819,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG01181,CUST5171,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG01182,CUST4299,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG01183,CUST2443,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG01184,CUST8799,Payment failed but money deducted !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG01185,CUST2904,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01186,CUST6166,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG01187,CUST6757,Need invoice for my purchase,Billing,Medium,We are checking your billing issue.,No
+MSG01188,CUST3878,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG01189,CUST6881,My package has not arrived,Delivery,Medium,We are checking your order status.,No
+MSG01190,CUST2036,I am unhappy with support,Complaint,High,We are sorry for your experience.,Yes
+MSG01191,CUST8899,Need invoice for my purchase !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG01192,CUST7496,   ,Unknown,Low,We will assist you shortly.,No
+MSG01193,CUST2543,Need invoice for my purchase !!! urgent help !!!,Billing,Medium,We are checking your billing issue.,No
+MSG01194,CUST1733,Worst experience ever,Complaint,High,We are sorry for your experience.,Yes
+MSG01195,CUST1591,Tracking not updating !!! urgent help !!!,Delivery,Medium,We are checking your order status.,No
+MSG01196,CUST4938,Wrong item delivered,Unknown,Low,We will assist you shortly.,No
+MSG01197,CUST8841,I was charged twice for my order,Billing,Medium,We are checking your billing issue.,No
+MSG01198,CUST7066,Tracking not updating,Delivery,Medium,We are checking your order status.,No
+MSG01199,CUST5341,Coupon code not working,Unknown,Low,We will assist you shortly.,No

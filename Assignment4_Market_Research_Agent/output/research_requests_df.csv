@@ -1,0 +1,13 @@
+request_id,industry,region,objective,time_limit
+REQ001,EV,Europe,Market entry analysis,3
+REQ002,EV,Europe,Market entry analysis,3
+REQ003,Healthcare,India,Growth opportunity study,3
+REQ004,EV,Europe,Competitor benchmarking,5
+REQ005,Retail,Asia,Market entry analysis,1
+REQ006,SaaS,Asia,Risk assessment,3
+REQ007,Healthcare,USA,Risk assessment,1
+REQ008,SaaS,Europe,Growth opportunity study,1
+REQ009,Healthcare,Asia,Competitor benchmarking,1
+REQ010,EV,Asia,Competitor benchmarking,1
+REQ011,EV,Europe,Market entry analysis,5
+REQ012,EV,India,Market entry analysis,2

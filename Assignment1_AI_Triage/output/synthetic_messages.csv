@@ -1,0 +1,1201 @@
+message_id,customer_id,timestamp,message_text,channel,previous_tickets
+MSG00000,CUST7186,2026-04-20 10:16:35.944726,Worst experience ever !!! urgent help !!!,Chat,4
+MSG00001,CUST2500,2026-05-04 10:16:35.944760,Payment failed but money deducted,App,3
+MSG00002,CUST4407,2026-05-09 10:16:35.944776,Cannot login to account !!! urgent help !!!,App,2
+MSG00003,CUST2464,2026-05-09 10:16:35.944788,   ,Email,1
+MSG00004,CUST6176,2026-04-23 10:16:35.944802,Cannot login to account,Social,3
+MSG00005,CUST8423,2026-04-25 10:16:35.944817,I am unhappy with support !!! urgent help !!!,Email,0
+MSG00006,CUST9028,2026-05-09 10:16:35.944829,Order stuck in transit,Email,4
+MSG00007,CUST7192,2026-04-30 10:16:35.944842,I want refund immediately,Social,2
+MSG00008,CUST6739,2026-04-21 10:16:35.944855,Coupon code not working !!! urgent help !!!,App,4
+MSG00009,CUST7266,2026-05-18 10:16:35.944911,Need invoice for my purchase !!! urgent help !!!,App,3
+MSG00010,CUST1552,2026-04-20 10:16:35.944928,   ,Email,1
+MSG00011,CUST6322,2026-04-20 10:16:35.944943,No response from team !!! urgent help !!!,Email,1
+MSG00012,CUST6885,2026-04-26 10:16:35.944957,My package has not arrived,Email,4
+MSG00013,CUST9264,2026-04-23 10:16:35.944980,Tracking not updating !!! urgent help !!!,Chat,4
+MSG00014,CUST8901,2026-05-10 10:16:35.944992,Delivery delayed again,Chat,0
+MSG00015,CUST9218,2026-05-02 10:16:35.945005,Delivery delayed again,Email,0
+MSG00016,CUST5926,2026-05-12 10:16:35.945025,Wrong item delivered,App,5
+MSG00017,CUST8357,2026-05-15 10:16:35.945039,I was charged twice for my order !!! urgent help !!!,Social,4
+MSG00018,CUST7193,2026-05-16 10:16:35.945054,Order stuck in transit !!! urgent help !!!,App,1
+MSG00019,CUST3595,2026-05-04 10:16:35.945068,Worst experience ever,App,3
+MSG00020,CUST6385,2026-05-10 10:16:35.945083,My package has not arrived,Email,1
+MSG00021,CUST1489,2026-04-27 10:16:35.945097,Need invoice for my purchase,App,4
+MSG00022,CUST7770,2026-05-19 10:16:35.945109,App is crashing !!! urgent help !!!,Social,1
+MSG00023,CUST2138,2026-05-10 10:16:35.945122,Delivery delayed again,Email,3
+MSG00024,CUST9967,2026-05-02 10:16:35.945134,Very bad service,App,1
+MSG00025,CUST3952,2026-05-18 10:16:35.945148,Very bad service,Chat,0
+MSG00026,CUST1386,2026-05-19 10:16:35.945162,I was charged twice for my order,Email,5
+MSG00027,CUST5900,2026-05-20 10:16:35.945177,Payment failed but money deducted,App,4
+MSG00028,CUST1738,2026-05-18 10:16:35.945191,   ,Social,5
+MSG00029,CUST4843,2026-05-08 10:16:35.945204,Need invoice for my purchase,Social,5
+MSG00030,CUST6518,2026-05-08 10:16:35.945217,My package has not arrived,Email,0
+MSG00031,CUST1238,2026-05-16 10:16:35.945231,Coupon code not working,Email,1
+MSG00032,CUST1629,2026-05-20 10:16:35.945244,My package has not arrived,Chat,2
+MSG00033,CUST6666,2026-05-04 10:16:35.945260,I want refund immediately,Chat,1
+MSG00034,CUST6787,2026-05-20 10:16:35.945275,Order stuck in transit,Email,5
+MSG00035,CUST3437,2026-04-29 10:16:35.945288,Refund not received yet,App,5
+MSG00036,CUST7268,2026-05-07 10:16:35.945305,Website not loading !!! urgent help !!!,Email,2
+MSG00037,CUST5608,2026-05-03 10:16:35.945327,Password reset not working,Social,1
+MSG00038,CUST9379,2026-05-19 10:16:35.945342,   ,Social,2
+MSG00039,CUST5043,2026-04-24 10:16:35.945356,Worst experience ever,App,4
+MSG00040,CUST6748,2026-04-25 10:16:35.945366,I want refund immediately,App,3
+MSG00041,CUST9972,2026-05-01 10:16:35.945376,Password reset not working,Email,0
+MSG00042,CUST8765,2026-05-02 10:16:35.945384,Wrong item delivered,Email,5
+MSG00043,CUST1717,2026-04-22 10:16:35.945394,App is crashing,Chat,1
+MSG00044,CUST6222,2026-05-01 10:16:35.945405,Refund not received yet,Social,4
+MSG00045,CUST1585,2026-04-29 10:16:35.945414,Worst experience ever,Social,3
+MSG00046,CUST9873,2026-05-03 10:16:35.945423,Order stuck in transit,Email,0
+MSG00047,CUST5137,2026-05-20 10:16:35.945432,No response from team,Email,5
+MSG00048,CUST4535,2026-05-09 10:16:35.945441,Payment failed but money deducted,Chat,0
+MSG00049,CUST5508,2026-05-14 10:16:35.945450,Password reset not working !!! urgent help !!!,Chat,1
+MSG00050,CUST2334,2026-04-27 10:16:35.945459,Worst experience ever,Social,3
+MSG00051,CUST2887,2026-05-07 10:16:35.945468,Delivery delayed again !!! urgent help !!!,Chat,1
+MSG00052,CUST2162,2026-04-23 10:16:35.945479,   ,Email,4
+MSG00053,CUST6873,2026-05-07 10:16:35.945490,Cannot login to account !!! urgent help !!!,Email,1
+MSG00054,CUST3420,2026-04-30 10:16:35.945499,I want refund immediately,App,2
+MSG00055,CUST4728,2026-05-18 10:16:35.945508,App is crashing !!! urgent help !!!,Social,5
+MSG00056,CUST9646,2026-04-26 10:16:35.945516,Refund not received yet,Social,0
+MSG00057,CUST4859,2026-04-29 10:16:35.945526,Very bad service,Social,5
+MSG00058,CUST2686,2026-05-19 10:16:35.945534,Wrong item delivered !!! urgent help !!!,App,4
+MSG00059,CUST4928,2026-05-06 10:16:35.945539,Error during payment,App,2
+MSG00060,CUST8281,2026-05-06 10:16:35.945542,I want refund immediately,Chat,4
+MSG00061,CUST7990,2026-05-20 10:16:35.945547,Cannot login to account,Email,3
+MSG00062,CUST8885,2026-05-06 10:16:35.945552,Coupon code not working,Email,5
+MSG00063,CUST1758,2026-04-25 10:16:35.945558,Worst experience ever,Social,3
+MSG00064,CUST5023,2026-05-12 10:16:35.945562,I am unhappy with support,App,1
+MSG00065,CUST3032,2026-05-11 10:16:35.945572,Tracking not updating,App,3
+MSG00066,CUST7510,2026-05-02 10:16:35.945576,Payment failed but money deducted !!! urgent help !!!,Social,0
+MSG00067,CUST8402,2026-05-04 10:16:35.945580,Tracking not updating,Chat,3
+MSG00068,CUST4563,2026-05-07 10:16:35.945584,Password reset not working,Social,1
+MSG00069,CUST8354,2026-05-16 10:16:35.945588,Coupon code not working !!! urgent help !!!,Chat,1
+MSG00070,CUST9545,2026-05-08 10:16:35.945592,Order stuck in transit,Social,4
+MSG00071,CUST7949,2026-05-14 10:16:35.945596,No response from team,Email,0
+MSG00072,CUST2018,2026-05-09 10:16:35.945602,Cannot login to account,Email,3
+MSG00073,CUST6593,2026-05-02 10:16:35.945605,I was charged twice for my order,App,3
+MSG00074,CUST6209,2026-05-02 10:16:35.945609,Error during payment !!! urgent help !!!,App,4
+MSG00075,CUST8339,2026-04-27 10:16:35.945613,Payment failed but money deducted,Social,4
+MSG00076,CUST8486,2026-05-04 10:16:35.945617,Wrong item delivered,Chat,1
+MSG00077,CUST1066,2026-05-11 10:16:35.945625,Delivery delayed again,Chat,0
+MSG00078,CUST7969,2026-05-03 10:16:35.945628,I am unhappy with support !!! urgent help !!!,Chat,2
+MSG00079,CUST8424,2026-05-20 10:16:35.945633,Wrong item delivered,Chat,0
+MSG00080,CUST2027,2026-05-19 10:16:35.945637,Tracking not updating,Email,2
+MSG00081,CUST1332,2026-04-29 10:16:35.945641,Payment failed but money deducted,App,2
+MSG00082,CUST6220,2026-04-30 10:16:35.945645,I was charged twice for my order,Email,4
+MSG00083,CUST6813,2026-05-20 10:16:35.945649,I am unhappy with support,Social,3
+MSG00084,CUST8022,2026-05-10 10:16:35.945652,My package has not arrived,App,0
+MSG00085,CUST3790,2026-05-18 10:16:35.945656,Need invoice for my purchase !!! urgent help !!!,Social,5
+MSG00086,CUST8090,2026-05-03 10:16:35.945660,I was charged twice for my order,Social,5
+MSG00087,CUST1985,2026-05-03 10:16:35.945664,Worst experience ever,Chat,4
+MSG00088,CUST8391,2026-05-11 10:16:35.945669,I was charged twice for my order,Email,5
+MSG00089,CUST9082,2026-05-05 10:16:35.945673,Website not loading !!! urgent help !!!,Chat,0
+MSG00090,CUST7907,2026-05-09 10:16:35.945678,Password reset not working,Social,5
+MSG00091,CUST6643,2026-04-22 10:16:35.945683,Worst experience ever,App,4
+MSG00092,CUST5300,2026-04-30 10:16:35.945687,Order stuck in transit,Email,1
+MSG00093,CUST4292,2026-05-13 10:16:35.945692,Wrong item delivered,Social,1
+MSG00094,CUST5215,2026-05-09 10:16:35.945696,Password reset not working,App,0
+MSG00095,CUST6459,2026-05-18 10:16:35.945699,Tracking not updating !!! urgent help !!!,App,5
+MSG00096,CUST3959,2026-05-11 10:16:35.945703,Wrong item delivered,Email,3
+MSG00097,CUST1588,2026-05-15 10:16:35.945707,Password reset not working !!! urgent help !!!,Chat,1
+MSG00098,CUST3322,2026-05-02 10:16:35.945711,   ,Chat,0
+MSG00099,CUST9646,2026-04-20 10:16:35.945715,App is crashing,App,1
+MSG00100,CUST4498,2026-04-25 10:16:35.945719,   ,Chat,2
+MSG00101,CUST7933,2026-05-16 10:16:35.945724,I am unhappy with support,App,0
+MSG00102,CUST1785,2026-05-04 10:16:35.945728,My package has not arrived,Chat,3
+MSG00103,CUST1434,2026-04-23 10:16:35.945732,I want refund immediately,App,1
+MSG00104,CUST5979,2026-05-09 10:16:35.945735,No response from team,App,3
+MSG00105,CUST5583,2026-04-20 10:16:35.945739,Payment failed but money deducted !!! urgent help !!!,Chat,5
+MSG00106,CUST7190,2026-05-01 10:16:35.945743,Order stuck in transit,Email,3
+MSG00107,CUST3233,2026-04-29 10:16:35.945747,Payment failed but money deducted !!! urgent help !!!,Chat,2
+MSG00108,CUST4332,2026-04-25 10:16:35.945751,Very bad service,App,3
+MSG00109,CUST2777,2026-05-06 10:16:35.945757,Wrong item delivered !!! urgent help !!!,Chat,5
+MSG00110,CUST1185,2026-05-02 10:16:35.945761,Coupon code not working,Email,4
+MSG00111,CUST5415,2026-05-19 10:16:35.945766,Website not loading,Social,2
+MSG00112,CUST3265,2026-05-15 10:16:35.945770,Refund not received yet,App,1
+MSG00113,CUST5622,2026-05-07 10:16:35.945774,No response from team,Social,3
+MSG00114,CUST8336,2026-04-24 10:16:35.945778,Very bad service !!! urgent help !!!,Chat,2
+MSG00115,CUST5498,2026-04-24 10:16:35.945782,Order stuck in transit,Email,1
+MSG00116,CUST5896,2026-05-04 10:16:35.945786,Tracking not updating !!! urgent help !!!,App,3
+MSG00117,CUST3513,2026-05-12 10:16:35.945790,App is crashing !!! urgent help !!!,Social,3
+MSG00118,CUST2670,2026-04-26 10:16:35.945794,Delivery delayed again,Email,1
+MSG00119,CUST9199,2026-05-15 10:16:35.945798,Coupon code not working,Email,3
+MSG00120,CUST2063,2026-05-17 10:16:35.945802,Coupon code not working !!! urgent help !!!,Email,3
+MSG00121,CUST3062,2026-04-23 10:16:35.945806,No response from team,Email,0
+MSG00122,CUST8545,2026-05-09 10:16:35.945811,Delivery delayed again,Social,4
+MSG00123,CUST3950,2026-05-17 10:16:35.945815,Refund not received yet,Chat,0
+MSG00124,CUST8545,2026-05-13 10:16:35.945819,App is crashing,Email,0
+MSG00125,CUST9564,2026-05-12 10:16:35.945822,Wrong item delivered !!! urgent help !!!,Social,5
+MSG00126,CUST1826,2026-05-02 10:16:35.945826,Cannot login to account,Social,5
+MSG00127,CUST7177,2026-05-07 10:16:35.945830,Error during payment,Email,2
+MSG00128,CUST3207,2026-05-03 10:16:35.945834,Cannot login to account,Social,4
+MSG00129,CUST6227,2026-04-21 10:16:35.945838,Worst experience ever,Email,1
+MSG00130,CUST3338,2026-05-05 10:16:35.945843,Tracking not updating,App,1
+MSG00131,CUST6569,2026-04-23 10:16:35.945847,Payment failed but money deducted,Email,5
+MSG00132,CUST3250,2026-05-11 10:16:35.945851,   ,Chat,0
+MSG00133,CUST5904,2026-05-18 10:16:35.945855,I was charged twice for my order,App,4
+MSG00134,CUST4936,2026-05-07 10:16:35.945859,My package has not arrived,Chat,5
+MSG00135,CUST1788,2026-04-28 10:16:35.945863,No response from team !!! urgent help !!!,Social,0
+MSG00136,CUST5687,2026-05-06 10:16:35.945867,Tracking not updating,Chat,5
+MSG00137,CUST6590,2026-05-11 10:16:35.945871,Error during payment,Chat,5
+MSG00138,CUST4185,2026-05-11 10:16:35.945875,No response from team,Social,2
+MSG00139,CUST9224,2026-04-22 10:16:35.945879,Coupon code not working !!! urgent help !!!,App,0
+MSG00140,CUST1840,2026-05-13 10:16:35.945883,Worst experience ever,App,5
+MSG00141,CUST6063,2026-05-07 10:16:35.945887,Password reset not working !!! urgent help !!!,Social,1
+MSG00142,CUST9031,2026-05-10 10:16:35.945890,Order stuck in transit,Chat,4
+MSG00143,CUST8534,2026-05-05 10:16:35.945895,Cannot login to account,App,5
+MSG00144,CUST5258,2026-04-22 10:16:35.945900,My package has not arrived,Email,1
+MSG00145,CUST8461,2026-05-06 10:16:35.945904,Cannot login to account,Email,2
+MSG00146,CUST4453,2026-04-23 10:16:35.945907,I am unhappy with support,Social,4
+MSG00147,CUST4367,2026-05-02 10:16:35.945913,My package has not arrived !!! urgent help !!!,Chat,3
+MSG00148,CUST9154,2026-05-19 10:16:35.945917,Delivery delayed again,Email,5
+MSG00149,CUST9103,2026-04-30 10:16:35.945921,Worst experience ever,Chat,4
+MSG00150,CUST2584,2026-05-04 10:16:35.945926,Very bad service !!! urgent help !!!,Email,0
+MSG00151,CUST4412,2026-05-03 10:16:35.945930,I want refund immediately,App,3
+MSG00152,CUST9843,2026-05-20 10:16:35.945934,Delivery delayed again,Chat,2
+MSG00153,CUST1047,2026-05-07 10:16:35.945938,   ,App,3
+MSG00154,CUST9349,2026-05-17 10:16:35.945942,Refund not received yet,Email,4
+MSG00155,CUST9493,2026-05-13 10:16:35.945946,Worst experience ever,Email,1
+MSG00156,CUST7732,2026-04-29 10:16:35.945950,Payment failed but money deducted,Email,1
+MSG00157,CUST5976,2026-05-05 10:16:35.945954,Worst experience ever !!! urgent help !!!,Social,3
+MSG00158,CUST6102,2026-04-27 10:16:35.945958,Very bad service,Social,0
+MSG00159,CUST3426,2026-05-13 10:16:35.945962,   ,Email,4
+MSG00160,CUST9095,2026-05-12 10:16:35.945965,   ,Email,4
+MSG00161,CUST9670,2026-05-17 10:16:35.945969,Refund not received yet !!! urgent help !!!,Email,2
+MSG00162,CUST9323,2026-04-22 10:16:35.945973,Website not loading,Social,3
+MSG00163,CUST2524,2026-05-15 10:16:35.945977,Payment failed but money deducted,App,4
+MSG00164,CUST8123,2026-05-04 10:16:35.945983,Payment failed but money deducted !!! urgent help !!!,Chat,4
+MSG00165,CUST8565,2026-05-15 10:16:35.945987,My package has not arrived,App,2
+MSG00166,CUST3652,2026-04-24 10:16:35.945990,I want refund immediately,Chat,4
+MSG00167,CUST3642,2026-05-11 10:16:35.945994,Refund not received yet,Email,5
+MSG00168,CUST5034,2026-05-09 10:16:35.945998,Coupon code not working,Chat,1
+MSG00169,CUST1292,2026-05-05 10:16:35.946003,Website not loading,Chat,3
+MSG00170,CUST9423,2026-05-07 10:16:35.946007,Need invoice for my purchase,App,4
+MSG00171,CUST4662,2026-04-29 10:16:35.946011,Payment failed but money deducted,Email,5
+MSG00172,CUST3464,2026-05-05 10:16:35.946015,No response from team,Email,3
+MSG00173,CUST9257,2026-04-26 10:16:35.946019,No response from team,Social,2
+MSG00174,CUST1724,2026-05-14 10:16:35.946023,Website not loading,Chat,0
+MSG00175,CUST5619,2026-04-25 10:16:35.946027,Order stuck in transit,Chat,1
+MSG00176,CUST4865,2026-04-30 10:16:35.946031,Delivery delayed again !!! urgent help !!!,App,3
+MSG00177,CUST9050,2026-05-02 10:16:35.946035,   ,Chat,2
+MSG00178,CUST5614,2026-05-08 10:16:35.946039,Worst experience ever,Social,2
+MSG00179,CUST8768,2026-05-04 10:16:35.946043,My package has not arrived,Email,1
+MSG00180,CUST5305,2026-05-08 10:16:35.946046,Password reset not working,Email,0
+MSG00181,CUST8930,2026-05-16 10:16:35.946051,Payment failed but money deducted,Social,0
+MSG00182,CUST4810,2026-05-09 10:16:35.946055,   ,App,5
+MSG00183,CUST3140,2026-05-04 10:16:35.946059,I am unhappy with support !!! urgent help !!!,Chat,4
+MSG00184,CUST7212,2026-05-03 10:16:35.946063,Need invoice for my purchase !!! urgent help !!!,Social,4
+MSG00185,CUST1957,2026-05-18 10:16:35.946067,Very bad service !!! urgent help !!!,Social,5
+MSG00186,CUST5120,2026-05-16 10:16:35.946072,My package has not arrived,Email,1
+MSG00187,CUST4354,2026-05-17 10:16:35.946076,I am unhappy with support,App,3
+MSG00188,CUST5891,2026-05-05 10:16:35.946080,Worst experience ever,Social,3
+MSG00189,CUST7889,2026-04-28 10:16:35.946085,Tracking not updating,App,4
+MSG00190,CUST2024,2026-04-23 10:16:35.946090,Cannot login to account !!! urgent help !!!,Email,4
+MSG00191,CUST4643,2026-04-26 10:16:35.946094,Need invoice for my purchase,App,0
+MSG00192,CUST6471,2026-05-04 10:16:35.946098,   ,App,5
+MSG00193,CUST7045,2026-04-29 10:16:35.946102,Wrong item delivered,Social,3
+MSG00194,CUST2792,2026-04-25 10:16:35.946106,I am unhappy with support,Social,2
+MSG00195,CUST4868,2026-05-01 10:16:35.946110,   ,Social,2
+MSG00196,CUST2317,2026-05-13 10:16:35.946113,Refund not received yet,Email,3
+MSG00197,CUST2455,2026-04-23 10:16:35.946117,Website not loading,App,0
+MSG00198,CUST9923,2026-05-12 10:16:35.946121,Tracking not updating,App,5
+MSG00199,CUST6384,2026-04-23 10:16:35.946126,Payment failed but money deducted,App,4
+MSG00200,CUST9869,2026-05-18 10:16:35.946129,I was charged twice for my order !!! urgent help !!!,Email,0
+MSG00201,CUST5273,2026-04-29 10:16:35.946134,I want refund immediately !!! urgent help !!!,Email,2
+MSG00202,CUST5476,2026-05-01 10:16:35.946138,Cannot login to account !!! urgent help !!!,Social,1
+MSG00203,CUST3281,2026-05-01 10:16:35.946142,Website not loading,Chat,3
+MSG00204,CUST3337,2026-05-05 10:16:35.946147,Delivery delayed again !!! urgent help !!!,App,5
+MSG00205,CUST9933,2026-05-16 10:16:35.946151,Cannot login to account !!! urgent help !!!,Social,0
+MSG00206,CUST9313,2026-05-16 10:16:35.946154,Coupon code not working,Email,4
+MSG00207,CUST6716,2026-05-17 10:16:35.946160,Need invoice for my purchase,Chat,3
+MSG00208,CUST1851,2026-04-26 10:16:35.946164,Order stuck in transit,Chat,4
+MSG00209,CUST5428,2026-04-27 10:16:35.946168,Refund not received yet,Email,0
+MSG00210,CUST8476,2026-05-16 10:16:35.946172,Error during payment,Social,1
+MSG00211,CUST6415,2026-05-15 10:16:35.946176,Payment failed but money deducted,App,4
+MSG00212,CUST9211,2026-04-28 10:16:35.946180,Very bad service,Email,0
+MSG00213,CUST9682,2026-05-10 10:16:35.946184,Website not loading,Email,1
+MSG00214,CUST3601,2026-04-30 10:16:35.946190,Refund not received yet,Chat,2
+MSG00215,CUST3224,2026-04-30 10:16:35.946195,App is crashing,Chat,4
+MSG00216,CUST9518,2026-05-05 10:16:35.946200,Error during payment,App,4
+MSG00217,CUST4465,2026-05-04 10:16:35.946206,I want refund immediately !!! urgent help !!!,Email,0
+MSG00218,CUST7602,2026-05-10 10:16:35.946270,Coupon code not working,Email,4
+MSG00219,CUST4783,2026-05-15 10:16:35.946282,My package has not arrived,Social,5
+MSG00220,CUST8720,2026-04-22 10:16:35.946288,App is crashing,Chat,5
+MSG00221,CUST8753,2026-05-18 10:16:35.946293,Tracking not updating,App,4
+MSG00222,CUST3457,2026-05-05 10:16:35.946305,Error during payment !!! urgent help !!!,Social,4
+MSG00223,CUST8847,2026-04-21 10:16:35.946311,App is crashing,Social,5
+MSG00224,CUST4908,2026-04-28 10:16:35.946316,My package has not arrived,Email,2
+MSG00225,CUST3285,2026-04-25 10:16:35.946325,No response from team,Social,2
+MSG00226,CUST6766,2026-05-11 10:16:35.946338,Tracking not updating !!! urgent help !!!,Social,2
+MSG00227,CUST3557,2026-05-08 10:16:35.946344,Cannot login to account,Social,2
+MSG00228,CUST6393,2026-05-06 10:16:35.946354,Cannot login to account,App,2
+MSG00229,CUST5612,2026-05-14 10:16:35.946359,No response from team,Email,0
+MSG00230,CUST4988,2026-05-05 10:16:35.946365,Wrong item delivered,Social,1
+MSG00231,CUST6442,2026-05-03 10:16:35.946370,Need invoice for my purchase,Social,0
+MSG00232,CUST7213,2026-05-13 10:16:35.946378,Tracking not updating !!! urgent help !!!,App,2
+MSG00233,CUST4862,2026-04-20 10:16:35.946388,App is crashing,Chat,3
+MSG00234,CUST8140,2026-05-18 10:16:35.946394,I am unhappy with support,Email,5
+MSG00235,CUST4285,2026-05-14 10:16:35.946399,My package has not arrived !!! urgent help !!!,App,0
+MSG00236,CUST2326,2026-05-16 10:16:35.946404,I want refund immediately,Social,4
+MSG00237,CUST7368,2026-05-02 10:16:35.946409,Password reset not working !!! urgent help !!!,Chat,0
+MSG00238,CUST2991,2026-04-21 10:16:35.946415,Order stuck in transit,Chat,0
+MSG00239,CUST6020,2026-05-03 10:16:35.946421,Delivery delayed again !!! urgent help !!!,Chat,4
+MSG00240,CUST6119,2026-05-05 10:16:35.946426,Password reset not working,App,1
+MSG00241,CUST5167,2026-04-30 10:16:35.946432,Order stuck in transit,Social,1
+MSG00242,CUST5681,2026-04-22 10:16:35.946438,Coupon code not working !!! urgent help !!!,Social,1
+MSG00243,CUST7504,2026-05-01 10:16:35.946443,Coupon code not working,Chat,3
+MSG00244,CUST7756,2026-04-21 10:16:35.946449,Password reset not working !!! urgent help !!!,Chat,2
+MSG00245,CUST3191,2026-04-23 10:16:35.946456,Refund not received yet,App,1
+MSG00246,CUST7833,2026-04-23 10:16:35.946461,Cannot login to account !!! urgent help !!!,App,4
+MSG00247,CUST2837,2026-05-12 10:16:35.946475,Error during payment,Social,2
+MSG00248,CUST6834,2026-04-20 10:16:35.946488,My package has not arrived,Chat,5
+MSG00249,CUST2107,2026-04-20 10:16:35.946505,Password reset not working,Chat,5
+MSG00250,CUST4649,2026-05-09 10:16:35.946518,Order stuck in transit,App,2
+MSG00251,CUST8748,2026-05-18 10:16:35.946532,Tracking not updating !!! urgent help !!!,App,1
+MSG00252,CUST1292,2026-04-29 10:16:35.946544,Cannot login to account,Email,3
+MSG00253,CUST2922,2026-05-20 10:16:35.946557,Tracking not updating,Chat,2
+MSG00254,CUST1153,2026-04-29 10:16:35.946572,I want refund immediately !!! urgent help !!!,Social,1
+MSG00255,CUST1485,2026-05-14 10:16:35.946584,Delivery delayed again !!! urgent help !!!,Chat,2
+MSG00256,CUST2056,2026-04-20 10:16:35.946597,I was charged twice for my order,Social,1
+MSG00257,CUST6779,2026-05-07 10:16:35.946612,I was charged twice for my order,App,2
+MSG00258,CUST4968,2026-05-11 10:16:35.946627,App is crashing !!! urgent help !!!,App,3
+MSG00259,CUST4283,2026-05-11 10:16:35.946668,Coupon code not working !!! urgent help !!!,Email,1
+MSG00260,CUST7283,2026-05-01 10:16:35.946677,Error during payment,Email,3
+MSG00261,CUST5069,2026-05-03 10:16:35.946686,Need invoice for my purchase,Social,0
+MSG00262,CUST3681,2026-04-26 10:16:35.946694,My package has not arrived !!! urgent help !!!,Email,0
+MSG00263,CUST9862,2026-05-06 10:16:35.946702,Wrong item delivered,Email,0
+MSG00264,CUST4801,2026-05-19 10:16:35.946711,I want refund immediately,Chat,0
+MSG00265,CUST6449,2026-04-30 10:16:35.946719,Very bad service !!! urgent help !!!,Chat,0
+MSG00266,CUST7030,2026-05-04 10:16:35.946729,I want refund immediately,App,1
+MSG00267,CUST8407,2026-05-17 10:16:35.946742,   ,Email,1
+MSG00268,CUST7259,2026-05-08 10:16:35.946751,Cannot login to account !!! urgent help !!!,Email,0
+MSG00269,CUST9704,2026-05-12 10:16:35.946764,Password reset not working,Chat,4
+MSG00270,CUST1158,2026-05-08 10:16:35.946773,Website not loading,Email,0
+MSG00271,CUST8352,2026-05-10 10:16:35.946786,Tracking not updating,App,3
+MSG00272,CUST3746,2026-04-30 10:16:35.946796,My package has not arrived,Email,3
+MSG00273,CUST4589,2026-05-06 10:16:35.946804,Password reset not working !!! urgent help !!!,App,5
+MSG00274,CUST6440,2026-04-20 10:16:35.946813,My package has not arrived !!! urgent help !!!,App,3
+MSG00275,CUST1447,2026-04-23 10:16:35.946822,Password reset not working,Email,5
+MSG00276,CUST9540,2026-05-05 10:16:35.946831,Need invoice for my purchase !!! urgent help !!!,Social,0
+MSG00277,CUST4128,2026-05-06 10:16:35.946840,Cannot login to account,Chat,0
+MSG00278,CUST3337,2026-05-07 10:16:35.946849,Cannot login to account !!! urgent help !!!,Email,5
+MSG00279,CUST7868,2026-04-23 10:16:35.946858,Refund not received yet,Email,2
+MSG00280,CUST1844,2026-04-22 10:16:35.946867,Need invoice for my purchase,Email,0
+MSG00281,CUST6061,2026-04-30 10:16:35.946876,Tracking not updating !!! urgent help !!!,Social,3
+MSG00282,CUST6577,2026-04-20 10:16:35.946885,Need invoice for my purchase !!! urgent help !!!,App,0
+MSG00283,CUST3644,2026-04-23 10:16:35.946893,   ,App,2
+MSG00284,CUST6454,2026-05-09 10:16:35.946902,No response from team,Social,1
+MSG00285,CUST5523,2026-05-12 10:16:35.946910,Very bad service,Email,0
+MSG00286,CUST6055,2026-04-29 10:16:35.946922,Wrong item delivered,App,0
+MSG00287,CUST2379,2026-05-12 10:16:35.946930,Wrong item delivered,App,3
+MSG00288,CUST6629,2026-05-06 10:16:35.946938,I am unhappy with support,Social,5
+MSG00289,CUST1423,2026-05-19 10:16:35.946947,Error during payment !!! urgent help !!!,Chat,2
+MSG00290,CUST4473,2026-04-23 10:16:35.946956,I was charged twice for my order,Email,1
+MSG00291,CUST9977,2026-05-17 10:16:35.946965,Refund not received yet,Email,1
+MSG00292,CUST1911,2026-05-10 10:16:35.946976,App is crashing,Chat,4
+MSG00293,CUST4879,2026-05-06 10:16:35.946986,App is crashing,Social,4
+MSG00294,CUST1749,2026-04-25 10:16:35.946995,Payment failed but money deducted !!! urgent help !!!,Social,5
+MSG00295,CUST6096,2026-05-14 10:16:35.947004,Worst experience ever,Chat,4
+MSG00296,CUST3173,2026-04-22 10:16:35.947013,Error during payment,App,1
+MSG00297,CUST1771,2026-04-30 10:16:35.947021,Wrong item delivered !!! urgent help !!!,Chat,5
+MSG00298,CUST7305,2026-05-11 10:16:35.947030,Order stuck in transit,App,1
+MSG00299,CUST6067,2026-04-21 10:16:35.947038,I was charged twice for my order,Chat,0
+MSG00300,CUST5937,2026-05-13 10:16:35.947047,No response from team,App,1
+MSG00301,CUST8562,2026-05-01 10:16:35.947056,Need invoice for my purchase,Email,4
+MSG00302,CUST4876,2026-04-22 10:16:35.947065,Website not loading,Email,0
+MSG00303,CUST4693,2026-04-21 10:16:35.947073,I was charged twice for my order,Email,1
+MSG00304,CUST7777,2026-04-24 10:16:35.947082,App is crashing,Social,3
+MSG00305,CUST6644,2026-05-16 10:16:35.947091,Refund not received yet !!! urgent help !!!,Social,1
+MSG00306,CUST3599,2026-04-21 10:16:35.947102,Very bad service,App,5
+MSG00307,CUST7229,2026-05-08 10:16:35.947110,Coupon code not working,Social,2
+MSG00308,CUST1148,2026-05-11 10:16:35.947119,Very bad service,Chat,3
+MSG00309,CUST6839,2026-05-17 10:16:35.947129,Very bad service !!! urgent help !!!,App,1
+MSG00310,CUST9402,2026-04-29 10:16:35.947137,App is crashing,App,2
+MSG00311,CUST5464,2026-05-07 10:16:35.947147,Wrong item delivered !!! urgent help !!!,Chat,0
+MSG00312,CUST3708,2026-05-09 10:16:35.947156,Very bad service,App,3
+MSG00313,CUST1191,2026-05-12 10:16:35.947167,I am unhappy with support !!! urgent help !!!,App,1
+MSG00314,CUST6154,2026-05-11 10:16:35.947176,I want refund immediately,Social,1
+MSG00315,CUST9976,2026-05-02 10:16:35.947184,Tracking not updating,Chat,2
+MSG00316,CUST1219,2026-05-13 10:16:35.947193,Cannot login to account !!! urgent help !!!,App,2
+MSG00317,CUST5570,2026-05-10 10:16:35.947206,Error during payment,Social,2
+MSG00318,CUST9948,2026-05-02 10:16:35.947217,No response from team,Chat,4
+MSG00319,CUST1547,2026-04-28 10:16:35.947231,Wrong item delivered,Social,4
+MSG00320,CUST3056,2026-05-01 10:16:35.947245,Refund not received yet,Email,2
+MSG00321,CUST6627,2026-04-25 10:16:35.947256,   ,Email,2
+MSG00322,CUST4002,2026-04-26 10:16:35.947267,Tracking not updating,Email,2
+MSG00323,CUST8082,2026-04-22 10:16:35.947275,Need invoice for my purchase,Social,1
+MSG00324,CUST8230,2026-05-08 10:16:35.947284,Order stuck in transit,Email,3
+MSG00325,CUST6421,2026-05-12 10:16:35.947296,My package has not arrived,Social,0
+MSG00326,CUST2126,2026-05-06 10:16:35.947304,Tracking not updating,Email,3
+MSG00327,CUST5328,2026-05-16 10:16:35.947312,Wrong item delivered,Social,4
+MSG00328,CUST8990,2026-04-22 10:16:35.947321,Password reset not working,App,3
+MSG00329,CUST5231,2026-04-28 10:16:35.947330,Need invoice for my purchase,Social,5
+MSG00330,CUST6239,2026-04-26 10:16:35.947339,I am unhappy with support,Social,1
+MSG00331,CUST9472,2026-04-23 10:16:35.947347,Website not loading,Chat,3
+MSG00332,CUST6204,2026-05-19 10:16:35.947356,I was charged twice for my order,App,3
+MSG00333,CUST5763,2026-04-28 10:16:35.947364,Delivery delayed again !!! urgent help !!!,App,5
+MSG00334,CUST7461,2026-04-26 10:16:35.947375,I am unhappy with support,Social,5
+MSG00335,CUST1918,2026-04-28 10:16:35.947384,Error during payment,Email,1
+MSG00336,CUST1396,2026-05-04 10:16:35.947394,My package has not arrived,App,1
+MSG00337,CUST1657,2026-05-08 10:16:35.947403,My package has not arrived,Chat,0
+MSG00338,CUST8182,2026-05-16 10:16:35.947412,Refund not received yet,Chat,5
+MSG00339,CUST4391,2026-05-10 10:16:35.947420,Refund not received yet,App,1
+MSG00340,CUST1355,2026-05-14 10:16:35.947428,Wrong item delivered,App,1
+MSG00341,CUST2973,2026-04-25 10:16:35.947437,Tracking not updating,Chat,2
+MSG00342,CUST1905,2026-05-04 10:16:35.947446,Error during payment !!! urgent help !!!,App,5
+MSG00343,CUST1343,2026-05-11 10:16:35.947450,Very bad service,Chat,4
+MSG00344,CUST2118,2026-05-12 10:16:35.947454,Refund not received yet,Email,3
+MSG00345,CUST7347,2026-04-24 10:16:35.947459,Tracking not updating,Email,1
+MSG00346,CUST8969,2026-05-18 10:16:35.947463,Worst experience ever,App,3
+MSG00347,CUST3748,2026-04-26 10:16:35.947467,Delivery delayed again !!! urgent help !!!,Social,3
+MSG00348,CUST2808,2026-04-26 10:16:35.947471,Coupon code not working,Chat,5
+MSG00349,CUST7663,2026-05-14 10:16:35.947474,Order stuck in transit,Chat,1
+MSG00350,CUST4778,2026-05-15 10:16:35.947478,Tracking not updating,Chat,4
+MSG00351,CUST7680,2026-04-23 10:16:35.947482,Cannot login to account,Email,5
+MSG00352,CUST3282,2026-05-09 10:16:35.947486,I am unhappy with support,App,2
+MSG00353,CUST3057,2026-05-03 10:16:35.947491,My package has not arrived,Social,1
+MSG00354,CUST3840,2026-04-28 10:16:35.947495,Very bad service,App,0
+MSG00355,CUST6263,2026-05-08 10:16:35.947499,App is crashing,Social,3
+MSG00356,CUST7219,2026-05-07 10:16:35.947504,Error during payment,Social,3
+MSG00357,CUST9551,2026-04-22 10:16:35.947507,I am unhappy with support,Email,2
+MSG00358,CUST1653,2026-04-25 10:16:35.947511,Payment failed but money deducted,Chat,0
+MSG00359,CUST5849,2026-05-15 10:16:35.947515,   ,Email,5
+MSG00360,CUST3720,2026-04-23 10:16:35.947519,Need invoice for my purchase !!! urgent help !!!,Email,1
+MSG00361,CUST2018,2026-05-17 10:16:35.947523,Very bad service !!! urgent help !!!,App,1
+MSG00362,CUST2122,2026-04-30 10:16:35.947527,Very bad service,App,3
+MSG00363,CUST8876,2026-04-20 10:16:35.947531,Error during payment !!! urgent help !!!,Chat,4
+MSG00364,CUST4303,2026-05-07 10:16:35.947537,I want refund immediately,Social,1
+MSG00365,CUST4771,2026-05-16 10:16:35.947541,My package has not arrived,Chat,1
+MSG00366,CUST6408,2026-05-17 10:16:35.947545,App is crashing !!! urgent help !!!,Social,2
+MSG00367,CUST6624,2026-04-29 10:16:35.947549,I am unhappy with support,Email,1
+MSG00368,CUST8931,2026-04-26 10:16:35.947553,Order stuck in transit,App,1
+MSG00369,CUST7084,2026-04-25 10:16:35.947557,Wrong item delivered,Email,3
+MSG00370,CUST5816,2026-05-04 10:16:35.947561,I was charged twice for my order !!! urgent help !!!,Chat,1
+MSG00371,CUST1382,2026-05-06 10:16:35.947565,Password reset not working,Chat,3
+MSG00372,CUST1723,2026-05-16 10:16:35.947569,I want refund immediately,App,4
+MSG00373,CUST7062,2026-05-20 10:16:35.947573,Worst experience ever,Social,5
+MSG00374,CUST2730,2026-05-04 10:16:35.947576,I want refund immediately,Email,5
+MSG00375,CUST4444,2026-04-23 10:16:35.947581,My package has not arrived,Social,3
+MSG00376,CUST3913,2026-05-12 10:16:35.947585,Delivery delayed again !!! urgent help !!!,Chat,4
+MSG00377,CUST3959,2026-05-03 10:16:35.947591,Wrong item delivered,Social,1
+MSG00378,CUST8851,2026-04-27 10:16:35.947595,Coupon code not working,Email,4
+MSG00379,CUST8894,2026-05-20 10:16:35.947599,Error during payment,App,5
+MSG00380,CUST1610,2026-04-26 10:16:35.947602,   ,Chat,4
+MSG00381,CUST9886,2026-05-19 10:16:35.947606,Wrong item delivered,App,1
+MSG00382,CUST2607,2026-04-30 10:16:35.947610,Need invoice for my purchase,Social,5
+MSG00383,CUST5951,2026-05-11 10:16:35.947614,Need invoice for my purchase,Chat,4
+MSG00384,CUST4594,2026-05-04 10:16:35.947619,Password reset not working,Email,1
+MSG00385,CUST9888,2026-05-04 10:16:35.947623,Worst experience ever,Email,1
+MSG00386,CUST7998,2026-05-04 10:16:35.947627,No response from team,App,0
+MSG00387,CUST4704,2026-04-30 10:16:35.947630,Error during payment !!! urgent help !!!,Email,4
+MSG00388,CUST1241,2026-05-10 10:16:35.947635,App is crashing,Email,1
+MSG00389,CUST2608,2026-05-08 10:16:35.947639,Wrong item delivered,Chat,2
+MSG00390,CUST5694,2026-05-17 10:16:35.947643,Website not loading,Chat,1
+MSG00391,CUST1345,2026-04-22 10:16:35.947647,Need invoice for my purchase,App,0
+MSG00392,CUST4964,2026-05-15 10:16:35.947651,Worst experience ever,App,4
+MSG00393,CUST5811,2026-04-28 10:16:35.947655,My package has not arrived,Chat,3
+MSG00394,CUST8674,2026-04-28 10:16:35.947660,Refund not received yet,App,5
+MSG00395,CUST7925,2026-05-20 10:16:35.947664,No response from team,Social,2
+MSG00396,CUST7137,2026-05-01 10:16:35.947668,Payment failed but money deducted,App,1
+MSG00397,CUST2995,2026-04-29 10:16:35.947671,Cannot login to account,Email,1
+MSG00398,CUST2670,2026-04-25 10:16:35.947676,I am unhappy with support,App,4
+MSG00399,CUST1273,2026-05-10 10:16:35.947681,Password reset not working,Chat,4
+MSG00400,CUST9467,2026-05-07 10:16:35.947685,Need invoice for my purchase,Social,5
+MSG00401,CUST8779,2026-05-11 10:16:35.947690,I am unhappy with support !!! urgent help !!!,App,3
+MSG00402,CUST2967,2026-05-06 10:16:35.947694,Delivery delayed again !!! urgent help !!!,Email,5
+MSG00403,CUST8139,2026-05-20 10:16:35.947700,Need invoice for my purchase,Chat,0
+MSG00404,CUST3552,2026-05-16 10:16:35.947705,Delivery delayed again,Chat,0
+MSG00405,CUST4207,2026-05-13 10:16:35.947709,Cannot login to account,Chat,1
+MSG00406,CUST6964,2026-05-05 10:16:35.947713,I was charged twice for my order,Chat,1
+MSG00407,CUST5611,2026-05-11 10:16:35.947717,My package has not arrived,Social,5
+MSG00408,CUST1074,2026-04-28 10:16:35.947721,Coupon code not working,App,4
+MSG00409,CUST5989,2026-05-05 10:16:35.947725,Worst experience ever !!! urgent help !!!,App,4
+MSG00410,CUST4186,2026-05-19 10:16:35.947729,My package has not arrived,Chat,0
+MSG00411,CUST7566,2026-04-23 10:16:35.947733,I am unhappy with support,Chat,4
+MSG00412,CUST2289,2026-05-12 10:16:35.947737,Cannot login to account,App,3
+MSG00413,CUST1523,2026-05-04 10:16:35.947741,Website not loading,App,0
+MSG00414,CUST9451,2026-04-28 10:16:35.947745,Payment failed but money deducted,Social,4
+MSG00415,CUST2064,2026-05-16 10:16:35.947749,Coupon code not working,App,1
+MSG00416,CUST5100,2026-05-19 10:16:35.947753,Error during payment,Email,1
+MSG00417,CUST9509,2026-04-21 10:16:35.947756,Password reset not working !!! urgent help !!!,Social,4
+MSG00418,CUST7350,2026-05-12 10:16:35.947760,Delivery delayed again,Chat,0
+MSG00419,CUST2721,2026-05-16 10:16:35.947765,Password reset not working,Social,4
+MSG00420,CUST9918,2026-04-26 10:16:35.947769,Error during payment,Email,5
+MSG00421,CUST9811,2026-04-28 10:16:35.947773,Error during payment !!! urgent help !!!,Social,5
+MSG00422,CUST6216,2026-04-29 10:16:35.947777,Worst experience ever,Email,0
+MSG00423,CUST5856,2026-04-20 10:16:35.947782,My package has not arrived,Social,5
+MSG00424,CUST8214,2026-04-21 10:16:35.947785,Need invoice for my purchase,Email,3
+MSG00425,CUST5401,2026-05-14 10:16:35.947790,I am unhappy with support,App,0
+MSG00426,CUST9500,2026-04-20 10:16:35.947793,App is crashing,Email,3
+MSG00427,CUST3874,2026-05-17 10:16:35.947797,Payment failed but money deducted,Chat,5
+MSG00428,CUST6350,2026-05-09 10:16:35.947801,My package has not arrived,Social,2
+MSG00429,CUST7127,2026-05-20 10:16:35.947805,No response from team,Social,3
+MSG00430,CUST2307,2026-04-23 10:16:35.947809,Password reset not working,Email,3
+MSG00431,CUST9628,2026-05-09 10:16:35.947812,Very bad service !!! urgent help !!!,Social,3
+MSG00432,CUST8505,2026-05-09 10:16:35.947816,Refund not received yet,Social,1
+MSG00433,CUST9246,2026-05-17 10:16:35.947820,Coupon code not working,App,5
+MSG00434,CUST3571,2026-04-20 10:16:35.947824,Delivery delayed again,App,3
+MSG00435,CUST9498,2026-05-09 10:16:35.947828,Website not loading !!! urgent help !!!,Chat,0
+MSG00436,CUST3685,2026-04-21 10:16:35.947832,Very bad service,Chat,2
+MSG00437,CUST3703,2026-04-22 10:16:35.947836,Error during payment,Social,5
+MSG00438,CUST2294,2026-05-17 10:16:35.947840,Very bad service,App,1
+MSG00439,CUST8153,2026-05-18 10:16:35.947844,Wrong item delivered !!! urgent help !!!,Email,4
+MSG00440,CUST4884,2026-05-16 10:16:35.947849,Error during payment !!! urgent help !!!,Email,4
+MSG00441,CUST8315,2026-05-12 10:16:35.947854,Tracking not updating,Email,3
+MSG00442,CUST6747,2026-04-20 10:16:35.947858,Wrong item delivered,Chat,5
+MSG00443,CUST7485,2026-05-02 10:16:35.947862,I am unhappy with support !!! urgent help !!!,Email,4
+MSG00444,CUST7447,2026-04-20 10:16:35.947866,App is crashing !!! urgent help !!!,Email,5
+MSG00445,CUST7557,2026-05-17 10:16:35.947870,I was charged twice for my order,Chat,5
+MSG00446,CUST9278,2026-04-21 10:16:35.947874,Need invoice for my purchase,App,5
+MSG00447,CUST9590,2026-05-05 10:16:35.947878,Payment failed but money deducted,App,1
+MSG00448,CUST4672,2026-05-20 10:16:35.947882,Worst experience ever,Email,2
+MSG00449,CUST4059,2026-05-19 10:16:35.947886,Website not loading,App,5
+MSG00450,CUST9331,2026-04-23 10:16:35.947889,Need invoice for my purchase,App,2
+MSG00451,CUST2756,2026-05-18 10:16:35.947893,I was charged twice for my order,App,2
+MSG00452,CUST2403,2026-04-20 10:16:35.947897,I am unhappy with support,Chat,2
+MSG00453,CUST1013,2026-05-16 10:16:35.947902,Worst experience ever,Social,1
+MSG00454,CUST4117,2026-05-18 10:16:35.947906,Wrong item delivered,App,3
+MSG00455,CUST3976,2026-05-06 10:16:35.947909,Website not loading,Chat,4
+MSG00456,CUST2710,2026-04-25 10:16:35.947913,Order stuck in transit,Social,0
+MSG00457,CUST4982,2026-05-18 10:16:35.947918,Very bad service,Social,1
+MSG00458,CUST6661,2026-05-02 10:16:35.947922,Delivery delayed again,Email,0
+MSG00459,CUST9106,2026-05-14 10:16:35.947925,   ,App,3
+MSG00460,CUST7606,2026-05-17 10:16:35.947929,Worst experience ever,App,2
+MSG00461,CUST8701,2026-05-16 10:16:35.947933,Delivery delayed again,Social,1
+MSG00462,CUST6990,2026-05-19 10:16:35.947940,Wrong item delivered !!! urgent help !!!,Email,4
+MSG00463,CUST3821,2026-05-07 10:16:35.947944,   ,Email,3
+MSG00464,CUST4386,2026-04-25 10:16:35.947947,Website not loading,Email,1
+MSG00465,CUST6324,2026-05-03 10:16:35.947951,Refund not received yet,Chat,2
+MSG00466,CUST9279,2026-05-11 10:16:35.947955,App is crashing,Social,3
+MSG00467,CUST5834,2026-05-02 10:16:35.947959,Refund not received yet !!! urgent help !!!,Social,4
+MSG00468,CUST1163,2026-05-15 10:16:35.947963,I was charged twice for my order,App,0
+MSG00469,CUST7238,2026-04-20 10:16:35.947967,Delivery delayed again !!! urgent help !!!,Email,1
+MSG00470,CUST7965,2026-04-26 10:16:35.947970,Refund not received yet,Social,5
+MSG00471,CUST6130,2026-04-23 10:16:35.947974,I want refund immediately,Email,1
+MSG00472,CUST9828,2026-04-24 10:16:35.947978,   ,Chat,4
+MSG00473,CUST4040,2026-05-02 10:16:35.947982,Very bad service,Social,4
+MSG00474,CUST4942,2026-05-01 10:16:35.947986,Password reset not working,Chat,1
+MSG00475,CUST8720,2026-05-11 10:16:35.947990,Payment failed but money deducted,Email,4
+MSG00476,CUST2138,2026-05-10 10:16:35.947994,Error during payment,App,5
+MSG00477,CUST3325,2026-04-24 10:16:35.947998,I want refund immediately,Email,4
+MSG00478,CUST1690,2026-05-12 10:16:35.948002,Password reset not working,App,0
+MSG00479,CUST2279,2026-05-14 10:16:35.948005,Wrong item delivered,App,0
+MSG00480,CUST8064,2026-05-12 10:16:35.948009,Very bad service !!! urgent help !!!,Chat,4
+MSG00481,CUST5186,2026-05-13 10:16:35.948014,My package has not arrived,App,2
+MSG00482,CUST4281,2026-05-04 10:16:35.948018,Order stuck in transit !!! urgent help !!!,Social,2
+MSG00483,CUST8205,2026-05-09 10:16:35.948023,Wrong item delivered,Chat,0
+MSG00484,CUST9713,2026-05-08 10:16:35.948027,Order stuck in transit,App,4
+MSG00485,CUST6017,2026-05-10 10:16:35.948031,Wrong item delivered,App,5
+MSG00486,CUST9461,2026-05-19 10:16:35.948035,Cannot login to account,Social,1
+MSG00487,CUST1865,2026-04-24 10:16:35.948040,I want refund immediately,Social,4
+MSG00488,CUST3990,2026-04-27 10:16:35.948044,Payment failed but money deducted,Email,0
+MSG00489,CUST1675,2026-05-11 10:16:35.948048,Wrong item delivered,App,5
+MSG00490,CUST9890,2026-05-05 10:16:35.948052,Cannot login to account,App,3
+MSG00491,CUST7389,2026-05-10 10:16:35.948056,Worst experience ever,Chat,5
+MSG00492,CUST4994,2026-05-14 10:16:35.948060,I was charged twice for my order !!! urgent help !!!,Chat,0
+MSG00493,CUST3424,2026-05-07 10:16:35.948064,Delivery delayed again,Social,2
+MSG00494,CUST5507,2026-05-12 10:16:35.948068,I want refund immediately,Social,3
+MSG00495,CUST4967,2026-04-24 10:16:35.948071,Wrong item delivered,Email,1
+MSG00496,CUST2620,2026-05-10 10:16:35.948075,Delivery delayed again,Chat,1
+MSG00497,CUST2288,2026-04-20 10:16:35.948079,Worst experience ever,Social,4
+MSG00498,CUST4062,2026-05-05 10:16:35.948082,Need invoice for my purchase,Social,0
+MSG00499,CUST3627,2026-04-29 10:16:35.948087,   ,Chat,3
+MSG00500,CUST8614,2026-04-21 10:16:35.948091,Delivery delayed again,Email,4
+MSG00501,CUST1624,2026-05-18 10:16:35.948096,Payment failed but money deducted,Social,3
+MSG00502,CUST7207,2026-05-08 10:16:35.948100,Cannot login to account !!! urgent help !!!,Email,3
+MSG00503,CUST4392,2026-05-18 10:16:35.948104,Website not loading,Chat,1
+MSG00504,CUST4722,2026-04-24 10:16:35.948109,Delivery delayed again,Email,0
+MSG00505,CUST5950,2026-04-26 10:16:35.948113,Worst experience ever !!! urgent help !!!,Social,5
+MSG00506,CUST3930,2026-05-16 10:16:35.948117,Need invoice for my purchase,Social,0
+MSG00507,CUST6576,2026-05-14 10:16:35.948121,Website not loading,Email,2
+MSG00508,CUST6784,2026-05-18 10:16:35.948125,No response from team,App,4
+MSG00509,CUST6953,2026-05-02 10:16:35.948129,Order stuck in transit,Chat,5
+MSG00510,CUST4476,2026-04-29 10:16:35.948133,Worst experience ever,Chat,4
+MSG00511,CUST9134,2026-04-28 10:16:35.948137,   ,Email,5
+MSG00512,CUST3427,2026-05-08 10:16:35.948141,Website not loading,Social,1
+MSG00513,CUST9246,2026-05-15 10:16:35.948145,Wrong item delivered,App,1
+MSG00514,CUST3688,2026-05-13 10:16:35.948149,Website not loading,Chat,4
+MSG00515,CUST5808,2026-04-29 10:16:35.948152,   ,Social,2
+MSG00516,CUST6712,2026-05-04 10:16:35.948156,I want refund immediately !!! urgent help !!!,Chat,2
+MSG00517,CUST5270,2026-05-15 10:16:35.948160,Worst experience ever,Email,1
+MSG00518,CUST7320,2026-05-17 10:16:35.948164,   ,Chat,2
+MSG00519,CUST3313,2026-04-26 10:16:35.948168,Payment failed but money deducted,Chat,4
+MSG00520,CUST9048,2026-05-08 10:16:35.948173,Order stuck in transit,App,1
+MSG00521,CUST1895,2026-04-27 10:16:35.948179,Password reset not working,App,5
+MSG00522,CUST4344,2026-04-25 10:16:35.948183,I want refund immediately,App,1
+MSG00523,CUST7264,2026-05-03 10:16:35.948187,Worst experience ever,Chat,4
+MSG00524,CUST9153,2026-04-27 10:16:35.948191,Delivery delayed again,App,2
+MSG00525,CUST2193,2026-05-19 10:16:35.948195,Coupon code not working,Email,1
+MSG00526,CUST1988,2026-05-18 10:16:35.948200,Website not loading,Social,1
+MSG00527,CUST5986,2026-05-10 10:16:35.948204,Need invoice for my purchase,Social,1
+MSG00528,CUST9912,2026-05-15 10:16:35.948207,I was charged twice for my order,Chat,2
+MSG00529,CUST5134,2026-04-25 10:16:35.948211,I want refund immediately,Chat,4
+MSG00530,CUST6542,2026-05-19 10:16:35.948215,Coupon code not working,App,2
+MSG00531,CUST1751,2026-05-03 10:16:35.948219,Very bad service,Social,1
+MSG00532,CUST5538,2026-05-03 10:16:35.948223,Tracking not updating,App,3
+MSG00533,CUST6709,2026-04-30 10:16:35.948227,Website not loading,Social,1
+MSG00534,CUST7849,2026-05-15 10:16:35.948231,Website not loading,Social,5
+MSG00535,CUST1387,2026-04-22 10:16:35.948235,Website not loading !!! urgent help !!!,Social,4
+MSG00536,CUST1959,2026-05-08 10:16:35.948238,Tracking not updating,App,5
+MSG00537,CUST7999,2026-05-20 10:16:35.948242,Tracking not updating,Email,5
+MSG00538,CUST5171,2026-05-07 10:16:35.948246,Password reset not working,Chat,1
+MSG00539,CUST6061,2026-05-18 10:16:35.948250,Wrong item delivered,Social,2
+MSG00540,CUST5006,2026-04-24 10:16:35.948255,Error during payment !!! urgent help !!!,Chat,4
+MSG00541,CUST9857,2026-04-21 10:16:35.948259,Refund not received yet,App,4
+MSG00542,CUST1131,2026-05-07 10:16:35.948263,Cannot login to account,Social,2
+MSG00543,CUST6691,2026-05-13 10:16:35.948266,Payment failed but money deducted !!! urgent help !!!,Email,1
+MSG00544,CUST1034,2026-05-07 10:16:35.948271,Payment failed but money deducted,Email,4
+MSG00545,CUST6324,2026-04-30 10:16:35.948275,I was charged twice for my order,Chat,5
+MSG00546,CUST2301,2026-05-08 10:16:35.948278,Order stuck in transit,Social,3
+MSG00547,CUST8240,2026-05-07 10:16:35.948283,   ,Email,4
+MSG00548,CUST4977,2026-04-21 10:16:35.948287,Worst experience ever,Social,2
+MSG00549,CUST2658,2026-05-09 10:16:35.948291,Error during payment,Chat,1
+MSG00550,CUST1368,2026-04-30 10:16:35.948295,App is crashing,Chat,0
+MSG00551,CUST4643,2026-05-20 10:16:35.948299,   ,App,0
+MSG00552,CUST4681,2026-05-12 10:16:35.948303,Worst experience ever,Email,0
+MSG00553,CUST1109,2026-04-20 10:16:35.948307,No response from team,Email,4
+MSG00554,CUST2890,2026-04-30 10:16:35.948311,Website not loading,Email,1
+MSG00555,CUST6721,2026-05-15 10:16:35.948315,Error during payment,App,1
+MSG00556,CUST6941,2026-04-23 10:16:35.948319,Website not loading,Social,0
+MSG00557,CUST4112,2026-05-01 10:16:35.948323,Very bad service,Chat,3
+MSG00558,CUST9199,2026-05-20 10:16:35.948328,Very bad service,Social,4
+MSG00559,CUST6548,2026-05-06 10:16:35.948333,Order stuck in transit,Email,1
+MSG00560,CUST9922,2026-05-12 10:16:35.948337,Worst experience ever,Chat,5
+MSG00561,CUST6073,2026-04-20 10:16:35.948340,Password reset not working,Social,3
+MSG00562,CUST7277,2026-05-09 10:16:35.948344,Coupon code not working,Email,0
+MSG00563,CUST4113,2026-05-09 10:16:35.948348,Coupon code not working,Email,3
+MSG00564,CUST2752,2026-05-16 10:16:35.948352,Password reset not working,Email,5
+MSG00565,CUST9908,2026-04-29 10:16:35.948356,Order stuck in transit,App,5
+MSG00566,CUST1521,2026-05-06 10:16:35.948360,I want refund immediately,Email,0
+MSG00567,CUST4579,2026-05-04 10:16:35.948364,Coupon code not working,Chat,5
+MSG00568,CUST3791,2026-04-30 10:16:35.948369,Password reset not working !!! urgent help !!!,Chat,1
+MSG00569,CUST4362,2026-04-27 10:16:35.948373,Need invoice for my purchase !!! urgent help !!!,App,2
+MSG00570,CUST3233,2026-04-29 10:16:35.948377,Error during payment,Chat,2
+MSG00571,CUST1593,2026-04-27 10:16:35.948381,Worst experience ever,Chat,1
+MSG00572,CUST6305,2026-05-04 10:16:35.948386,I was charged twice for my order,Social,2
+MSG00573,CUST8731,2026-04-24 10:16:35.948390,Tracking not updating !!! urgent help !!!,Social,3
+MSG00574,CUST3196,2026-05-20 10:16:35.948394,Website not loading,App,2
+MSG00575,CUST4654,2026-05-12 10:16:35.948397,My package has not arrived,Chat,1
+MSG00576,CUST3061,2026-05-17 10:16:35.948401,I am unhappy with support,Email,2
+MSG00577,CUST7285,2026-05-19 10:16:35.948405,Need invoice for my purchase,Social,4
+MSG00578,CUST7311,2026-05-16 10:16:35.948409,Very bad service,Email,5
+MSG00579,CUST9629,2026-05-17 10:16:35.948414,Website not loading !!! urgent help !!!,App,3
+MSG00580,CUST7933,2026-05-06 10:16:35.948419,Worst experience ever,Chat,4
+MSG00581,CUST1060,2026-05-17 10:16:35.948422,Coupon code not working,App,5
+MSG00582,CUST4203,2026-05-03 10:16:35.948426,I am unhappy with support,Chat,4
+MSG00583,CUST5875,2026-05-16 10:16:35.948430,I was charged twice for my order !!! urgent help !!!,App,5
+MSG00584,CUST1414,2026-04-25 10:16:35.948434,I was charged twice for my order,Email,5
+MSG00585,CUST8310,2026-04-25 10:16:35.948438,Cannot login to account,Email,3
+MSG00586,CUST8212,2026-05-05 10:16:35.948442,No response from team,Chat,4
+MSG00587,CUST4266,2026-05-17 10:16:35.948446,Error during payment !!! urgent help !!!,Chat,1
+MSG00588,CUST7057,2026-04-27 10:16:35.948450,Wrong item delivered,Social,4
+MSG00589,CUST6989,2026-05-06 10:16:35.948456,Wrong item delivered,App,3
+MSG00590,CUST2940,2026-05-19 10:16:35.948459,Very bad service,Email,4
+MSG00591,CUST3362,2026-05-17 10:16:35.948463,I want refund immediately,Email,4
+MSG00592,CUST5863,2026-04-28 10:16:35.948467,Order stuck in transit,Email,0
+MSG00593,CUST6552,2026-04-24 10:16:35.948472,Delivery delayed again !!! urgent help !!!,App,5
+MSG00594,CUST6986,2026-05-16 10:16:35.948476,Worst experience ever,Chat,5
+MSG00595,CUST1931,2026-04-23 10:16:35.948480,I want refund immediately,App,1
+MSG00596,CUST2850,2026-04-22 10:16:35.948484,Tracking not updating,Social,5
+MSG00597,CUST6850,2026-05-20 10:16:35.948488,No response from team,Social,2
+MSG00598,CUST7810,2026-05-03 10:16:35.948492,My package has not arrived,Chat,1
+MSG00599,CUST1187,2026-05-10 10:16:35.948497,My package has not arrived,App,0
+MSG00600,CUST4629,2026-05-04 10:16:35.948501,Order stuck in transit,Chat,3
+MSG00601,CUST7853,2026-05-08 10:16:35.948505,Payment failed but money deducted !!! urgent help !!!,Social,4
+MSG00602,CUST8290,2026-05-01 10:16:35.948509,Refund not received yet !!! urgent help !!!,Email,3
+MSG00603,CUST3837,2026-05-06 10:16:35.948513,Tracking not updating,Chat,0
+MSG00604,CUST6488,2026-05-07 10:16:35.948517,Tracking not updating !!! urgent help !!!,Chat,4
+MSG00605,CUST9594,2026-05-06 10:16:35.948520,Website not loading,Chat,4
+MSG00606,CUST5513,2026-04-27 10:16:35.948524,Very bad service,Email,1
+MSG00607,CUST7240,2026-04-26 10:16:35.948528,Delivery delayed again,Social,5
+MSG00608,CUST6065,2026-05-15 10:16:35.948532,Payment failed but money deducted,App,4
+MSG00609,CUST5644,2026-05-07 10:16:35.948536,Delivery delayed again,App,3
+MSG00610,CUST6630,2026-05-07 10:16:35.948541,   ,Email,5
+MSG00611,CUST5549,2026-05-01 10:16:35.948546,Need invoice for my purchase !!! urgent help !!!,Email,2
+MSG00612,CUST9292,2026-05-16 10:16:35.948551,I am unhappy with support,Chat,5
+MSG00613,CUST6967,2026-05-10 10:16:35.948555,Coupon code not working !!! urgent help !!!,Social,1
+MSG00614,CUST1592,2026-05-07 10:16:35.948559,Website not loading,Email,2
+MSG00615,CUST3738,2026-05-11 10:16:35.948563,Wrong item delivered,Chat,1
+MSG00616,CUST8448,2026-05-13 10:16:35.948567,I want refund immediately,Email,1
+MSG00617,CUST2826,2026-05-04 10:16:35.948570,Website not loading,App,3
+MSG00618,CUST2313,2026-05-13 10:16:35.948575,Order stuck in transit,Email,4
+MSG00619,CUST1506,2026-05-13 10:16:35.948579,Delivery delayed again,Social,0
+MSG00620,CUST8790,2026-04-25 10:16:35.948583,Website not loading !!! urgent help !!!,App,5
+MSG00621,CUST1715,2026-05-06 10:16:35.948587,Delivery delayed again,Chat,1
+MSG00622,CUST5222,2026-04-20 10:16:35.948591,I am unhappy with support,Social,4
+MSG00623,CUST5325,2026-05-15 10:16:35.948595,I am unhappy with support !!! urgent help !!!,App,1
+MSG00624,CUST3718,2026-05-12 10:16:35.948599,I was charged twice for my order,Chat,3
+MSG00625,CUST7139,2026-05-14 10:16:35.948603,Order stuck in transit,Email,2
+MSG00626,CUST8582,2026-04-28 10:16:35.948606,Website not loading,Social,2
+MSG00627,CUST6136,2026-05-07 10:16:35.948610,My package has not arrived,Email,1
+MSG00628,CUST6293,2026-04-29 10:16:35.948614,Coupon code not working,Email,3
+MSG00629,CUST6449,2026-04-23 10:16:35.948618,I was charged twice for my order,Social,5
+MSG00630,CUST1267,2026-05-02 10:16:35.948622,Order stuck in transit,App,0
+MSG00631,CUST5002,2026-05-03 10:16:35.948626,I am unhappy with support !!! urgent help !!!,Social,1
+MSG00632,CUST7406,2026-04-25 10:16:35.948631,Website not loading,Email,4
+MSG00633,CUST8901,2026-05-11 10:16:35.948635,My package has not arrived,Chat,2
+MSG00634,CUST4912,2026-05-10 10:16:35.948639,Tracking not updating,Social,0
+MSG00635,CUST6415,2026-05-03 10:16:35.948643,I want refund immediately,Chat,1
+MSG00636,CUST1508,2026-05-15 10:16:35.948648,Coupon code not working,Social,4
+MSG00637,CUST2353,2026-05-15 10:16:35.948652,Need invoice for my purchase,Chat,0
+MSG00638,CUST3307,2026-05-19 10:16:35.948663,Very bad service,Chat,5
+MSG00639,CUST1104,2026-05-16 10:16:35.948667,App is crashing !!! urgent help !!!,App,4
+MSG00640,CUST7207,2026-04-24 10:16:35.948671,Order stuck in transit,Social,4
+MSG00641,CUST2688,2026-05-09 10:16:35.948675,Need invoice for my purchase,Email,0
+MSG00642,CUST3951,2026-05-06 10:16:35.948679,Cannot login to account,Email,2
+MSG00643,CUST1390,2026-05-15 10:16:35.948683,   ,Email,0
+MSG00644,CUST6455,2026-05-17 10:16:35.948687,Worst experience ever,Social,0
+MSG00645,CUST5914,2026-05-12 10:16:35.948691,Delivery delayed again,Social,0
+MSG00646,CUST3233,2026-04-27 10:16:35.948695,Error during payment,Email,5
+MSG00647,CUST9600,2026-04-24 10:16:35.948699,Wrong item delivered,Social,5
+MSG00648,CUST1990,2026-04-21 10:16:35.948702,Order stuck in transit,App,1
+MSG00649,CUST4326,2026-04-22 10:16:35.948707,Delivery delayed again,Chat,5
+MSG00650,CUST8742,2026-04-21 10:16:35.948711,Order stuck in transit,App,4
+MSG00651,CUST7953,2026-04-23 10:16:35.948715,Cannot login to account,App,1
+MSG00652,CUST9807,2026-05-19 10:16:35.948719,Coupon code not working !!! urgent help !!!,Chat,3
+MSG00653,CUST6539,2026-04-21 10:16:35.948724,I want refund immediately,Email,0
+MSG00654,CUST8251,2026-05-05 10:16:35.948728,Order stuck in transit,App,3
+MSG00655,CUST8540,2026-05-07 10:16:35.948732,App is crashing,Email,3
+MSG00656,CUST6520,2026-05-20 10:16:35.948736,I want refund immediately,App,5
+MSG00657,CUST9704,2026-05-10 10:16:35.948742,My package has not arrived,App,5
+MSG00658,CUST5599,2026-04-30 10:16:35.948745,Cannot login to account,Social,0
+MSG00659,CUST6576,2026-05-09 10:16:35.948750,Refund not received yet,Chat,0
+MSG00660,CUST2315,2026-05-08 10:16:35.948754,Error during payment !!! urgent help !!!,App,4
+MSG00661,CUST2843,2026-05-12 10:16:35.948757,   ,App,5
+MSG00662,CUST8990,2026-04-23 10:16:35.948761,Error during payment,Social,3
+MSG00663,CUST6043,2026-04-27 10:16:35.948765,No response from team,Social,4
+MSG00664,CUST8683,2026-05-04 10:16:35.948769,Delivery delayed again !!! urgent help !!!,Social,0
+MSG00665,CUST7573,2026-05-07 10:16:35.948773,Need invoice for my purchase,App,2
+MSG00666,CUST7071,2026-05-03 10:16:35.948777,App is crashing,Chat,2
+MSG00667,CUST6064,2026-05-14 10:16:35.948781,Payment failed but money deducted !!! urgent help !!!,Chat,4
+MSG00668,CUST5734,2026-04-26 10:16:35.948786,Error during payment,Chat,5
+MSG00669,CUST8756,2026-05-18 10:16:35.948790,App is crashing,Email,5
+MSG00670,CUST2499,2026-04-28 10:16:35.948794,Coupon code not working,App,4
+MSG00671,CUST3485,2026-05-05 10:16:35.948798,Cannot login to account,Email,5
+MSG00672,CUST5399,2026-04-24 10:16:35.948803,I want refund immediately,App,1
+MSG00673,CUST9995,2026-05-05 10:16:35.948808,I am unhappy with support,Chat,5
+MSG00674,CUST1038,2026-05-15 10:16:35.948813,Error during payment,Chat,0
+MSG00675,CUST3809,2026-05-17 10:16:35.948817,Very bad service !!! urgent help !!!,Social,3
+MSG00676,CUST8930,2026-05-09 10:16:35.948822,I was charged twice for my order,Email,0
+MSG00677,CUST9379,2026-04-25 10:16:35.948826,Worst experience ever,Chat,4
+MSG00678,CUST9875,2026-04-23 10:16:35.948830,Payment failed but money deducted,Social,0
+MSG00679,CUST4327,2026-05-16 10:16:35.948835,Worst experience ever,Social,0
+MSG00680,CUST8377,2026-04-30 10:16:35.948839,I want refund immediately,Chat,1
+MSG00681,CUST7758,2026-05-01 10:16:35.948842,My package has not arrived,App,3
+MSG00682,CUST2310,2026-04-21 10:16:35.948846,Cannot login to account,Chat,0
+MSG00683,CUST3122,2026-05-18 10:16:35.948850,Wrong item delivered,Social,5
+MSG00684,CUST3854,2026-05-14 10:16:35.948853,Payment failed but money deducted,Chat,5
+MSG00685,CUST7634,2026-04-22 10:16:35.948857,Cannot login to account,Email,1
+MSG00686,CUST5679,2026-04-27 10:16:35.948861,I want refund immediately,Email,4
+MSG00687,CUST5697,2026-04-25 10:16:35.948865,Need invoice for my purchase !!! urgent help !!!,App,3
+MSG00688,CUST9847,2026-05-02 10:16:35.948869,Order stuck in transit,App,4
+MSG00689,CUST8985,2026-05-09 10:16:35.948874,Wrong item delivered,Chat,2
+MSG00690,CUST2557,2026-05-02 10:16:35.948878,Error during payment !!! urgent help !!!,App,5
+MSG00691,CUST6333,2026-05-02 10:16:35.948882,Coupon code not working,Social,4
+MSG00692,CUST3656,2026-04-25 10:16:35.948886,I want refund immediately,Chat,5
+MSG00693,CUST1765,2026-05-04 10:16:35.948890,My package has not arrived,Email,5
+MSG00694,CUST4887,2026-04-24 10:16:35.948893,Need invoice for my purchase,Chat,3
+MSG00695,CUST6224,2026-04-25 10:16:35.948897,I was charged twice for my order,Email,4
+MSG00696,CUST6069,2026-05-20 10:16:35.948903,My package has not arrived,App,5
+MSG00697,CUST2029,2026-04-25 10:16:35.948907,No response from team,App,0
+MSG00698,CUST1782,2026-04-21 10:16:35.948912,Worst experience ever,Email,2
+MSG00699,CUST8667,2026-05-18 10:16:35.948916,Cannot login to account,Chat,4
+MSG00700,CUST7123,2026-05-09 10:16:35.948919,Worst experience ever,Email,1
+MSG00701,CUST1612,2026-05-06 10:16:35.948924,Refund not received yet,App,4
+MSG00702,CUST5658,2026-04-27 10:16:35.948927,Wrong item delivered,Chat,5
+MSG00703,CUST4225,2026-05-18 10:16:35.948932,I am unhappy with support,Chat,4
+MSG00704,CUST3810,2026-05-11 10:16:35.948936,Wrong item delivered !!! urgent help !!!,Email,4
+MSG00705,CUST2178,2026-04-22 10:16:35.948940,Cannot login to account !!! urgent help !!!,Email,3
+MSG00706,CUST1585,2026-05-20 10:16:35.948944,Cannot login to account,App,3
+MSG00707,CUST2537,2026-04-26 10:16:35.948948,No response from team !!! urgent help !!!,Social,1
+MSG00708,CUST2607,2026-05-15 10:16:35.948952,   ,Social,3
+MSG00709,CUST5860,2026-05-18 10:16:35.948955,Order stuck in transit,Social,4
+MSG00710,CUST9249,2026-04-30 10:16:35.948959,Need invoice for my purchase,Email,1
+MSG00711,CUST6981,2026-05-14 10:16:35.948963,I am unhappy with support,Email,1
+MSG00712,CUST1416,2026-05-13 10:16:35.948966,Password reset not working,Social,5
+MSG00713,CUST1127,2026-04-20 10:16:35.948971,Error during payment,Chat,0
+MSG00714,CUST6002,2026-05-19 10:16:35.948975,   ,Social,0
+MSG00715,CUST1477,2026-05-20 10:16:35.948980,I am unhappy with support !!! urgent help !!!,App,1
+MSG00716,CUST9465,2026-05-01 10:16:35.948984,Payment failed but money deducted,App,1
+MSG00717,CUST6180,2026-04-26 10:16:35.948993,Need invoice for my purchase,Social,0
+MSG00718,CUST7388,2026-05-17 10:16:35.948997,I am unhappy with support,App,0
+MSG00719,CUST2887,2026-04-25 10:16:35.949001,App is crashing,Chat,4
+MSG00720,CUST9851,2026-04-20 10:16:35.949005,Cannot login to account !!! urgent help !!!,Chat,2
+MSG00721,CUST3358,2026-04-29 10:16:35.949009,Worst experience ever,Email,0
+MSG00722,CUST8729,2026-05-08 10:16:35.949013,I want refund immediately,Social,5
+MSG00723,CUST1967,2026-05-17 10:16:35.949017,   ,App,1
+MSG00724,CUST1634,2026-05-01 10:16:35.949021,Coupon code not working,Email,4
+MSG00725,CUST6403,2026-04-29 10:16:35.949024,Refund not received yet,Chat,5
+MSG00726,CUST9965,2026-05-12 10:16:35.949028,I was charged twice for my order,App,1
+MSG00727,CUST9013,2026-05-03 10:16:35.949032,Refund not received yet,Social,1
+MSG00728,CUST7380,2026-04-21 10:16:35.949036,Password reset not working,Email,3
+MSG00729,CUST7435,2026-04-26 10:16:35.949039,I am unhappy with support,Social,5
+MSG00730,CUST6560,2026-05-07 10:16:35.949043,   ,Email,0
+MSG00731,CUST7090,2026-04-28 10:16:35.949047,Cannot login to account,Chat,2
+MSG00732,CUST1257,2026-05-03 10:16:35.949051,Cannot login to account,Email,3
+MSG00733,CUST2318,2026-05-15 10:16:35.949055,App is crashing,App,1
+MSG00734,CUST1419,2026-04-20 10:16:35.949059,Error during payment,Chat,3
+MSG00735,CUST5424,2026-05-03 10:16:35.949068,Cannot login to account,App,4
+MSG00736,CUST8518,2026-05-09 10:16:35.949073,No response from team !!! urgent help !!!,Email,2
+MSG00737,CUST2458,2026-05-12 10:16:35.949076,   ,App,2
+MSG00738,CUST5875,2026-05-07 10:16:35.949082,Password reset not working,App,4
+MSG00739,CUST7111,2026-04-24 10:16:35.949086,   ,Chat,0
+MSG00740,CUST2967,2026-04-20 10:16:35.949090,Refund not received yet,Social,5
+MSG00741,CUST8566,2026-05-13 10:16:35.949094,Error during payment,App,0
+MSG00742,CUST4691,2026-05-06 10:16:35.949098,I am unhappy with support,Social,3
+MSG00743,CUST8790,2026-04-24 10:16:35.949104,   ,Social,3
+MSG00744,CUST4514,2026-05-18 10:16:35.949110,Need invoice for my purchase,Email,1
+MSG00745,CUST2337,2026-05-07 10:16:35.949116,Payment failed but money deducted !!! urgent help !!!,Chat,5
+MSG00746,CUST9076,2026-04-28 10:16:35.949127,   ,Chat,0
+MSG00747,CUST7602,2026-05-13 10:16:35.949136,My package has not arrived,Email,4
+MSG00748,CUST9609,2026-05-07 10:16:35.949141,My package has not arrived,App,3
+MSG00749,CUST2374,2026-05-02 10:16:35.949146,Payment failed but money deducted !!! urgent help !!!,Social,3
+MSG00750,CUST2126,2026-05-02 10:16:35.949152,I was charged twice for my order !!! urgent help !!!,Chat,1
+MSG00751,CUST1273,2026-04-30 10:16:35.949157,Order stuck in transit,Email,3
+MSG00752,CUST2522,2026-05-13 10:16:35.949162,Payment failed but money deducted,Chat,5
+MSG00753,CUST7326,2026-04-22 10:16:35.949168,Error during payment !!! urgent help !!!,Chat,5
+MSG00754,CUST2216,2026-05-16 10:16:35.949177,Very bad service,Social,3
+MSG00755,CUST4637,2026-04-24 10:16:35.949182,Wrong item delivered,Chat,5
+MSG00756,CUST6579,2026-04-29 10:16:35.949187,App is crashing,App,0
+MSG00757,CUST2503,2026-05-12 10:16:35.949193,I am unhappy with support,Email,5
+MSG00758,CUST6759,2026-05-11 10:16:35.949199,Refund not received yet,Social,0
+MSG00759,CUST3252,2026-05-01 10:16:35.949208,Need invoice for my purchase,Chat,2
+MSG00760,CUST7999,2026-04-21 10:16:35.949214,Delivery delayed again !!! urgent help !!!,Social,5
+MSG00761,CUST1656,2026-04-29 10:16:35.949224,Wrong item delivered,Email,5
+MSG00762,CUST8095,2026-04-20 10:16:35.949229,Very bad service,Chat,2
+MSG00763,CUST1045,2026-05-12 10:16:35.949234,Error during payment,Chat,0
+MSG00764,CUST3728,2026-04-27 10:16:35.949239,Need invoice for my purchase,App,5
+MSG00765,CUST3486,2026-05-20 10:16:35.949247,Error during payment !!! urgent help !!!,App,2
+MSG00766,CUST8835,2026-04-28 10:16:35.949253,Coupon code not working,App,3
+MSG00767,CUST3699,2026-04-23 10:16:35.949260,Worst experience ever,Chat,5
+MSG00768,CUST9971,2026-05-03 10:16:35.949266,Password reset not working,Email,3
+MSG00769,CUST5396,2026-05-12 10:16:35.949272,Tracking not updating,App,3
+MSG00770,CUST2355,2026-05-01 10:16:35.949277,Payment failed but money deducted,Chat,5
+MSG00771,CUST6891,2026-05-06 10:16:35.949283,Error during payment,Social,2
+MSG00772,CUST3121,2026-05-15 10:16:35.949324,Refund not received yet,Social,1
+MSG00773,CUST1487,2026-05-09 10:16:35.949340,Cannot login to account,App,3
+MSG00774,CUST5513,2026-05-05 10:16:35.949354,Delivery delayed again,Email,4
+MSG00775,CUST3524,2026-05-15 10:16:35.949359,My package has not arrived,Social,4
+MSG00776,CUST5624,2026-05-01 10:16:35.949364,Website not loading,Email,1
+MSG00777,CUST7824,2026-04-27 10:16:35.949368,App is crashing,Social,0
+MSG00778,CUST7312,2026-05-18 10:16:35.949372,Wrong item delivered,Social,2
+MSG00779,CUST6441,2026-05-13 10:16:35.949376,Delivery delayed again,Email,5
+MSG00780,CUST7786,2026-04-28 10:16:35.949380,Delivery delayed again,Chat,5
+MSG00781,CUST9461,2026-05-18 10:16:35.949386,Very bad service,Social,0
+MSG00782,CUST3119,2026-04-27 10:16:35.949389,Password reset not working,App,0
+MSG00783,CUST4754,2026-05-15 10:16:35.949393,Worst experience ever !!! urgent help !!!,Social,0
+MSG00784,CUST6871,2026-05-19 10:16:35.949397,Worst experience ever,Chat,2
+MSG00785,CUST9204,2026-05-08 10:16:35.949401,Password reset not working !!! urgent help !!!,Chat,3
+MSG00786,CUST6943,2026-05-11 10:16:35.949405,Website not loading,Social,4
+MSG00787,CUST7488,2026-05-20 10:16:35.949409,App is crashing,Social,0
+MSG00788,CUST8261,2026-04-24 10:16:35.949413,No response from team,App,4
+MSG00789,CUST7666,2026-05-11 10:16:35.949418,Delivery delayed again !!! urgent help !!!,Email,4
+MSG00790,CUST9669,2026-05-03 10:16:35.949421,Refund not received yet !!! urgent help !!!,App,3
+MSG00791,CUST6689,2026-05-02 10:16:35.949425,Coupon code not working !!! urgent help !!!,Email,0
+MSG00792,CUST3402,2026-04-21 10:16:35.949429,Error during payment !!! urgent help !!!,Chat,4
+MSG00793,CUST9819,2026-05-05 10:16:35.949434,I am unhappy with support,App,4
+MSG00794,CUST5015,2026-05-12 10:16:35.949438,Cannot login to account,App,4
+MSG00795,CUST1853,2026-04-24 10:16:35.949442,Password reset not working,App,3
+MSG00796,CUST1024,2026-05-02 10:16:35.949446,Password reset not working,Chat,4
+MSG00797,CUST1947,2026-04-28 10:16:35.949450,Delivery delayed again !!! urgent help !!!,Chat,3
+MSG00798,CUST6240,2026-05-12 10:16:35.949454,Refund not received yet !!! urgent help !!!,Social,1
+MSG00799,CUST8621,2026-04-29 10:16:35.949458,Tracking not updating,Social,1
+MSG00800,CUST9191,2026-04-22 10:16:35.949462,Password reset not working,Chat,1
+MSG00801,CUST4272,2026-05-19 10:16:35.949466,Order stuck in transit !!! urgent help !!!,App,3
+MSG00802,CUST4694,2026-04-24 10:16:35.949471,Delivery delayed again,Email,0
+MSG00803,CUST4768,2026-05-12 10:16:35.949475,Need invoice for my purchase,App,2
+MSG00804,CUST6738,2026-05-19 10:16:35.949479,Need invoice for my purchase,App,5
+MSG00805,CUST5420,2026-05-19 10:16:35.949483,Cannot login to account !!! urgent help !!!,Social,5
+MSG00806,CUST7531,2026-05-17 10:16:35.949487,   ,App,4
+MSG00807,CUST3886,2026-04-25 10:16:35.949491,I want refund immediately !!! urgent help !!!,App,1
+MSG00808,CUST3623,2026-04-25 10:16:35.949495,Website not loading,App,5
+MSG00809,CUST1713,2026-04-29 10:16:35.949499,Worst experience ever,Chat,0
+MSG00810,CUST2759,2026-05-16 10:16:35.949503,Payment failed but money deducted,Chat,2
+MSG00811,CUST8925,2026-04-24 10:16:35.949507,My package has not arrived,Chat,3
+MSG00812,CUST1320,2026-04-26 10:16:35.949511,Website not loading,Chat,3
+MSG00813,CUST1776,2026-05-19 10:16:35.949516,Error during payment,App,5
+MSG00814,CUST3377,2026-04-28 10:16:35.949520,Payment failed but money deducted !!! urgent help !!!,Social,5
+MSG00815,CUST3247,2026-05-02 10:16:35.949524,I was charged twice for my order,Social,4
+MSG00816,CUST5723,2026-04-21 10:16:35.949527,Delivery delayed again !!! urgent help !!!,Email,4
+MSG00817,CUST7679,2026-05-08 10:16:35.949531,Need invoice for my purchase,Social,3
+MSG00818,CUST3346,2026-05-20 10:16:35.949535,   ,Social,2
+MSG00819,CUST9340,2026-05-14 10:16:35.949539,Wrong item delivered,Social,1
+MSG00820,CUST1491,2026-04-21 10:16:35.949543,Order stuck in transit,Chat,1
+MSG00821,CUST2842,2026-04-30 10:16:35.949546,Coupon code not working,Social,3
+MSG00822,CUST2795,2026-05-05 10:16:35.949550,Error during payment !!! urgent help !!!,Email,1
+MSG00823,CUST1848,2026-05-03 10:16:35.949555,Very bad service,Email,5
+MSG00824,CUST6944,2026-05-17 10:16:35.949559,No response from team !!! urgent help !!!,App,0
+MSG00825,CUST6062,2026-04-22 10:16:35.949563,Refund not received yet,Social,0
+MSG00826,CUST9054,2026-05-06 10:16:35.949567,Wrong item delivered,App,0
+MSG00827,CUST5339,2026-05-05 10:16:35.949572,Need invoice for my purchase,Social,3
+MSG00828,CUST6643,2026-04-30 10:16:35.949576,Website not loading,Email,1
+MSG00829,CUST2440,2026-04-21 10:16:35.949579,Need invoice for my purchase !!! urgent help !!!,Chat,1
+MSG00830,CUST2869,2026-05-10 10:16:35.949583,Coupon code not working !!! urgent help !!!,Chat,2
+MSG00831,CUST5926,2026-05-01 10:16:35.949588,App is crashing,Social,2
+MSG00832,CUST9687,2026-05-20 10:16:35.949593,Very bad service,Social,0
+MSG00833,CUST4538,2026-05-07 10:16:35.949597,No response from team,App,4
+MSG00834,CUST2047,2026-05-13 10:16:35.949600,Password reset not working !!! urgent help !!!,Chat,3
+MSG00835,CUST8778,2026-05-09 10:16:35.949605,   ,Email,2
+MSG00836,CUST5072,2026-05-17 10:16:35.949609,Wrong item delivered,Chat,0
+MSG00837,CUST3310,2026-05-09 10:16:35.949612,Very bad service,Chat,2
+MSG00838,CUST2963,2026-05-06 10:16:35.949617,App is crashing,Email,4
+MSG00839,CUST4350,2026-05-09 10:16:35.949621,Refund not received yet,Social,1
+MSG00840,CUST4282,2026-05-15 10:16:35.949625,Worst experience ever,Chat,1
+MSG00841,CUST7380,2026-04-20 10:16:35.949628,Cannot login to account,App,0
+MSG00842,CUST7968,2026-05-07 10:16:35.949632,   ,Chat,2
+MSG00843,CUST6762,2026-04-24 10:16:35.949636,   ,Chat,0
+MSG00844,CUST9409,2026-05-13 10:16:35.949641,Password reset not working,App,0
+MSG00845,CUST1670,2026-05-03 10:16:35.949645,App is crashing,Email,5
+MSG00846,CUST4497,2026-05-07 10:16:35.949649,My package has not arrived !!! urgent help !!!,App,1
+MSG00847,CUST5587,2026-05-12 10:16:35.949652,My package has not arrived,Chat,1
+MSG00848,CUST3045,2026-04-22 10:16:35.949657,I was charged twice for my order !!! urgent help !!!,Email,2
+MSG00849,CUST3177,2026-05-08 10:16:35.949660,Error during payment !!! urgent help !!!,Email,4
+MSG00850,CUST2199,2026-05-05 10:16:35.949664,I was charged twice for my order,Email,4
+MSG00851,CUST1643,2026-04-28 10:16:35.949668,I want refund immediately,Chat,5
+MSG00852,CUST5269,2026-04-25 10:16:35.949673,I want refund immediately,Chat,0
+MSG00853,CUST7260,2026-05-16 10:16:35.949677,Wrong item delivered !!! urgent help !!!,Chat,3
+MSG00854,CUST7033,2026-05-08 10:16:35.949681,Payment failed but money deducted,Chat,2
+MSG00855,CUST9411,2026-05-06 10:16:35.949684,I am unhappy with support,Chat,3
+MSG00856,CUST4814,2026-05-06 10:16:35.949688,App is crashing,Chat,3
+MSG00857,CUST3675,2026-04-20 10:16:35.949692,I am unhappy with support,Chat,4
+MSG00858,CUST3302,2026-05-18 10:16:35.949697,Very bad service,App,4
+MSG00859,CUST1963,2026-04-29 10:16:35.949700,Website not loading,Social,5
+MSG00860,CUST1780,2026-04-27 10:16:35.949705,Website not loading,Chat,2
+MSG00861,CUST5926,2026-05-16 10:16:35.949712,Payment failed but money deducted,Email,1
+MSG00862,CUST8907,2026-05-06 10:16:35.949716,Refund not received yet,Chat,4
+MSG00863,CUST3852,2026-05-07 10:16:35.949719,App is crashing,Social,1
+MSG00864,CUST9788,2026-05-16 10:16:35.949723,Refund not received yet !!! urgent help !!!,Email,1
+MSG00865,CUST5293,2026-04-23 10:16:35.949727,Order stuck in transit,Email,4
+MSG00866,CUST7769,2026-05-11 10:16:35.949733,Wrong item delivered,Chat,3
+MSG00867,CUST4047,2026-05-19 10:16:35.949737,I am unhappy with support,App,4
+MSG00868,CUST4578,2026-04-28 10:16:35.949741,Order stuck in transit !!! urgent help !!!,Social,4
+MSG00869,CUST9244,2026-05-07 10:16:35.949745,App is crashing !!! urgent help !!!,Email,2
+MSG00870,CUST1797,2026-04-30 10:16:35.949749,Worst experience ever,Chat,0
+MSG00871,CUST5760,2026-05-14 10:16:35.949754,App is crashing !!! urgent help !!!,Social,2
+MSG00872,CUST8328,2026-05-04 10:16:35.949758,Worst experience ever,Email,0
+MSG00873,CUST5570,2026-04-24 10:16:35.949762,I was charged twice for my order,Chat,0
+MSG00874,CUST7079,2026-05-03 10:16:35.949766,Tracking not updating !!! urgent help !!!,Email,4
+MSG00875,CUST3747,2026-05-03 10:16:35.949770,Payment failed but money deducted,Email,2
+MSG00876,CUST2524,2026-05-03 10:16:35.949773,My package has not arrived !!! urgent help !!!,Email,4
+MSG00877,CUST6892,2026-04-25 10:16:35.949777,Coupon code not working,Social,2
+MSG00878,CUST1878,2026-05-12 10:16:35.949781,Password reset not working !!! urgent help !!!,App,5
+MSG00879,CUST2656,2026-05-13 10:16:35.949785,   ,App,4
+MSG00880,CUST2092,2026-05-20 10:16:35.949789,Order stuck in transit,Social,2
+MSG00881,CUST4295,2026-05-07 10:16:35.949793,Very bad service,Chat,0
+MSG00882,CUST7204,2026-05-20 10:16:35.949797,Wrong item delivered,App,3
+MSG00883,CUST4045,2026-05-19 10:16:35.949801,Order stuck in transit,Social,4
+MSG00884,CUST2437,2026-05-12 10:16:35.949805,Tracking not updating,Social,4
+MSG00885,CUST5006,2026-04-20 10:16:35.949808,Very bad service !!! urgent help !!!,Email,1
+MSG00886,CUST9581,2026-05-15 10:16:35.949812,Website not loading !!! urgent help !!!,App,5
+MSG00887,CUST4645,2026-05-18 10:16:35.949818,Worst experience ever,App,4
+MSG00888,CUST7093,2026-05-02 10:16:35.949822,App is crashing !!! urgent help !!!,Chat,3
+MSG00889,CUST3272,2026-04-29 10:16:35.949826,My package has not arrived !!! urgent help !!!,Email,5
+MSG00890,CUST8445,2026-05-12 10:16:35.949830,Worst experience ever,Email,0
+MSG00891,CUST2208,2026-05-16 10:16:35.949835,I want refund immediately,Chat,0
+MSG00892,CUST1798,2026-05-12 10:16:35.949839,App is crashing,Email,2
+MSG00893,CUST3800,2026-04-29 10:16:35.949843,Refund not received yet,Email,4
+MSG00894,CUST1093,2026-04-23 10:16:35.949847,Need invoice for my purchase,Email,2
+MSG00895,CUST3242,2026-05-01 10:16:35.949851,I want refund immediately,Chat,1
+MSG00896,CUST1510,2026-05-11 10:16:35.949854,No response from team,Social,5
+MSG00897,CUST4654,2026-04-29 10:16:35.949858,Error during payment,App,4
+MSG00898,CUST8055,2026-05-14 10:16:35.949862,Delivery delayed again,Chat,3
+MSG00899,CUST2974,2026-05-10 10:16:35.949866,Payment failed but money deducted !!! urgent help !!!,Chat,4
+MSG00900,CUST2361,2026-05-18 10:16:35.949869,   ,App,3
+MSG00901,CUST5031,2026-05-08 10:16:35.949873,Error during payment,Social,5
+MSG00902,CUST4435,2026-05-09 10:16:35.949878,Worst experience ever,App,5
+MSG00903,CUST3901,2026-05-05 10:16:35.949881,Password reset not working !!! urgent help !!!,Chat,3
+MSG00904,CUST7460,2026-05-13 10:16:35.949885,Password reset not working,App,0
+MSG00905,CUST7173,2026-04-23 10:16:35.949889,Worst experience ever,Email,5
+MSG00906,CUST6397,2026-05-06 10:16:35.949893,Worst experience ever,Email,4
+MSG00907,CUST6796,2026-05-01 10:16:35.949897,   ,Chat,5
+MSG00908,CUST8766,2026-05-04 10:16:35.949903,Wrong item delivered,Social,5
+MSG00909,CUST2366,2026-05-13 10:16:35.949907,Worst experience ever,App,3
+MSG00910,CUST6497,2026-04-23 10:16:35.949912,Error during payment,Email,5
+MSG00911,CUST3559,2026-05-01 10:16:35.949916,My package has not arrived,App,4
+MSG00912,CUST3746,2026-04-30 10:16:35.949922,Payment failed but money deducted,Social,1
+MSG00913,CUST9414,2026-04-28 10:16:35.949925,Payment failed but money deducted !!! urgent help !!!,Email,5
+MSG00914,CUST5967,2026-05-01 10:16:35.949929,Very bad service !!! urgent help !!!,App,0
+MSG00915,CUST8592,2026-05-15 10:16:35.949933,Coupon code not working,Chat,4
+MSG00916,CUST1280,2026-05-08 10:16:35.949937,Worst experience ever !!! urgent help !!!,Chat,2
+MSG00917,CUST6989,2026-05-18 10:16:35.949941,Coupon code not working,App,4
+MSG00918,CUST5437,2026-05-03 10:16:35.949945,Password reset not working,Social,2
+MSG00919,CUST6007,2026-05-07 10:16:35.949948,I am unhappy with support,Social,5
+MSG00920,CUST9732,2026-05-16 10:16:35.949952,Very bad service,Email,2
+MSG00921,CUST8619,2026-04-20 10:16:35.949956,Wrong item delivered,App,5
+MSG00922,CUST4806,2026-05-09 10:16:35.949961,Refund not received yet,Chat,1
+MSG00923,CUST3553,2026-04-23 10:16:35.949964,I want refund immediately,Chat,0
+MSG00924,CUST1434,2026-05-01 10:16:35.949968,Error during payment,Social,0
+MSG00925,CUST4668,2026-04-22 10:16:35.949972,Payment failed but money deducted !!! urgent help !!!,Chat,0
+MSG00926,CUST3259,2026-05-16 10:16:35.949976,App is crashing,Chat,2
+MSG00927,CUST5224,2026-04-24 10:16:35.949979,No response from team !!! urgent help !!!,App,3
+MSG00928,CUST3218,2026-05-18 10:16:35.949983,I want refund immediately !!! urgent help !!!,App,1
+MSG00929,CUST4518,2026-05-15 10:16:35.949988,Password reset not working,Social,5
+MSG00930,CUST4230,2026-04-28 10:16:35.949993,Need invoice for my purchase,Chat,1
+MSG00931,CUST6506,2026-04-21 10:16:35.949997,Order stuck in transit,App,4
+MSG00932,CUST1339,2026-04-29 10:16:35.950001,Wrong item delivered,App,3
+MSG00933,CUST5199,2026-04-26 10:16:35.950004,Worst experience ever,Email,0
+MSG00934,CUST3189,2026-05-10 10:16:35.950008,App is crashing,App,5
+MSG00935,CUST9790,2026-05-01 10:16:35.950012,Website not loading !!! urgent help !!!,Chat,4
+MSG00936,CUST3139,2026-04-21 10:16:35.950016,Need invoice for my purchase !!! urgent help !!!,Email,3
+MSG00937,CUST8363,2026-04-21 10:16:35.950019,Very bad service,Chat,0
+MSG00938,CUST5615,2026-04-24 10:16:35.950023,Website not loading,Email,3
+MSG00939,CUST9621,2026-04-22 10:16:35.950027,Payment failed but money deducted,Chat,3
+MSG00940,CUST3244,2026-05-03 10:16:35.950031,Order stuck in transit,Social,3
+MSG00941,CUST8295,2026-04-26 10:16:35.950034,Website not loading,App,4
+MSG00942,CUST4287,2026-04-21 10:16:35.950039,Delivery delayed again,Social,0
+MSG00943,CUST4897,2026-04-30 10:16:35.950043,Payment failed but money deducted,Social,2
+MSG00944,CUST3529,2026-04-30 10:16:35.950046,Coupon code not working,Chat,4
+MSG00945,CUST3228,2026-04-22 10:16:35.950050,I was charged twice for my order,Email,3
+MSG00946,CUST6273,2026-05-15 10:16:35.950055,Order stuck in transit,Social,5
+MSG00947,CUST3148,2026-05-16 10:16:35.950059,Tracking not updating,Email,0
+MSG00948,CUST6249,2026-05-04 10:16:35.950062,No response from team,Social,1
+MSG00949,CUST1535,2026-05-06 10:16:35.950067,Worst experience ever,Chat,0
+MSG00950,CUST6322,2026-05-15 10:16:35.950071,Tracking not updating,Social,5
+MSG00951,CUST3190,2026-05-11 10:16:35.950077,Refund not received yet,Social,1
+MSG00952,CUST3201,2026-05-08 10:16:35.950081,Wrong item delivered,Chat,1
+MSG00953,CUST8570,2026-04-28 10:16:35.950085,Very bad service,Social,2
+MSG00954,CUST4951,2026-04-23 10:16:35.950088,Wrong item delivered,App,1
+MSG00955,CUST1655,2026-04-20 10:16:35.950092,Refund not received yet,Email,4
+MSG00956,CUST6450,2026-04-23 10:16:35.950096,Password reset not working,Social,0
+MSG00957,CUST9822,2026-04-30 10:16:35.950099,Wrong item delivered,Email,5
+MSG00958,CUST7392,2026-04-30 10:16:35.950103,Need invoice for my purchase,Chat,4
+MSG00959,CUST7213,2026-04-26 10:16:35.950108,I want refund immediately,Email,3
+MSG00960,CUST4815,2026-05-15 10:16:35.950112,Coupon code not working,App,5
+MSG00961,CUST1944,2026-04-25 10:16:35.950115,Website not loading,App,0
+MSG00962,CUST6995,2026-04-25 10:16:35.950119,Payment failed but money deducted,App,5
+MSG00963,CUST6853,2026-05-20 10:16:35.950123,Password reset not working,Email,3
+MSG00964,CUST2507,2026-04-24 10:16:35.950127,Tracking not updating,Email,2
+MSG00965,CUST9721,2026-05-16 10:16:35.950130,I was charged twice for my order,Social,2
+MSG00966,CUST8995,2026-05-01 10:16:35.950134,Error during payment,Email,5
+MSG00967,CUST8508,2026-04-29 10:16:35.950138,Wrong item delivered !!! urgent help !!!,Social,4
+MSG00968,CUST4330,2026-05-12 10:16:35.950142,Order stuck in transit,Email,5
+MSG00969,CUST6883,2026-05-16 10:16:35.950153,My package has not arrived !!! urgent help !!!,Chat,0
+MSG00970,CUST1704,2026-05-07 10:16:35.950157,Website not loading,App,3
+MSG00971,CUST1228,2026-04-30 10:16:35.950161,I was charged twice for my order,Social,4
+MSG00972,CUST8593,2026-05-01 10:16:35.950165,My package has not arrived,Email,2
+MSG00973,CUST5197,2026-05-05 10:16:35.950205,No response from team !!! urgent help !!!,Social,3
+MSG00974,CUST5376,2026-04-25 10:16:35.950209,I am unhappy with support !!! urgent help !!!,Email,3
+MSG00975,CUST1576,2026-05-14 10:16:35.950213,Refund not received yet,Chat,3
+MSG00976,CUST5768,2026-05-11 10:16:35.950217,Website not loading,App,0
+MSG00977,CUST7384,2026-05-06 10:16:35.950221,Website not loading,Email,0
+MSG00978,CUST9323,2026-04-22 10:16:35.950224,Password reset not working,App,2
+MSG00979,CUST5136,2026-04-27 10:16:35.950228,Error during payment !!! urgent help !!!,App,5
+MSG00980,CUST4803,2026-04-22 10:16:35.950232,Very bad service,Social,2
+MSG00981,CUST5220,2026-05-17 10:16:35.950236,Coupon code not working,App,4
+MSG00982,CUST2500,2026-04-21 10:16:35.950241,Very bad service !!! urgent help !!!,App,0
+MSG00983,CUST1679,2026-05-04 10:16:35.950245,Error during payment,Email,2
+MSG00984,CUST2656,2026-04-26 10:16:35.950249,Wrong item delivered,App,5
+MSG00985,CUST7719,2026-04-22 10:16:35.950252,Website not loading,App,0
+MSG00986,CUST7912,2026-05-08 10:16:35.950256,Refund not received yet,Chat,0
+MSG00987,CUST3716,2026-05-11 10:16:35.950260,Error during payment,Social,0
+MSG00988,CUST8162,2026-04-20 10:16:35.950264,I am unhappy with support,Email,1
+MSG00989,CUST5477,2026-05-02 10:16:35.950268,Website not loading,Email,1
+MSG00990,CUST2670,2026-05-16 10:16:35.950273,Very bad service,Email,1
+MSG00991,CUST7330,2026-05-11 10:16:35.950277,App is crashing !!! urgent help !!!,Chat,0
+MSG00992,CUST9374,2026-05-17 10:16:35.950281,Error during payment !!! urgent help !!!,Email,1
+MSG00993,CUST5926,2026-05-15 10:16:35.950285,Coupon code not working,App,5
+MSG00994,CUST7963,2026-05-14 10:16:35.950292,   ,Chat,2
+MSG00995,CUST3949,2026-05-09 10:16:35.950296,Delivery delayed again,Social,3
+MSG00996,CUST7789,2026-04-20 10:16:35.950299,No response from team,App,4
+MSG00997,CUST2986,2026-04-30 10:16:35.950305,App is crashing,Chat,4
+MSG00998,CUST2941,2026-05-09 10:16:35.950309,Order stuck in transit !!! urgent help !!!,Social,0
+MSG00999,CUST9541,2026-04-21 10:16:35.950312,No response from team,Social,2
+MSG01000,CUST1440,2026-05-10 10:16:35.950316,I am unhappy with support !!! urgent help !!!,Chat,1
+MSG01001,CUST3588,2026-04-26 10:16:35.950320,I am unhappy with support,Email,4
+MSG01002,CUST2413,2026-04-25 10:16:35.950325,No response from team,Social,1
+MSG01003,CUST9637,2026-05-07 10:16:35.950328,No response from team,Email,2
+MSG01004,CUST7179,2026-05-17 10:16:35.950332,Tracking not updating,App,4
+MSG01005,CUST6770,2026-05-20 10:16:35.950336,Tracking not updating,Email,4
+MSG01006,CUST4054,2026-04-23 10:16:35.950340,Payment failed but money deducted,App,1
+MSG01007,CUST1868,2026-05-17 10:16:35.950344,Tracking not updating,Chat,0
+MSG01008,CUST7195,2026-05-03 10:16:35.950348,   ,Chat,2
+MSG01009,CUST6395,2026-04-27 10:16:35.950352,I am unhappy with support,Social,3
+MSG01010,CUST7274,2026-05-10 10:16:35.950355,Error during payment,App,2
+MSG01011,CUST9081,2026-04-21 10:16:35.950360,   ,Chat,1
+MSG01012,CUST7395,2026-05-07 10:16:35.950363,Worst experience ever,Email,1
+MSG01013,CUST6881,2026-04-30 10:16:35.950368,App is crashing,App,1
+MSG01014,CUST4570,2026-05-14 10:16:35.950373,Error during payment,Chat,1
+MSG01015,CUST3040,2026-04-26 10:16:35.950377,Order stuck in transit,Email,5
+MSG01016,CUST9834,2026-05-01 10:16:35.950381,Website not loading,App,1
+MSG01017,CUST8768,2026-05-05 10:16:35.950385,Tracking not updating,App,5
+MSG01018,CUST3807,2026-05-02 10:16:35.950389,Cannot login to account,App,1
+MSG01019,CUST4384,2026-05-11 10:16:35.950394,Worst experience ever,Email,3
+MSG01020,CUST1298,2026-05-02 10:16:35.950397,Refund not received yet,Social,0
+MSG01021,CUST4428,2026-04-28 10:16:35.950401,Payment failed but money deducted,Chat,2
+MSG01022,CUST3236,2026-05-07 10:16:35.950405,Delivery delayed again,Email,5
+MSG01023,CUST4378,2026-04-21 10:16:35.950409,No response from team,Social,0
+MSG01024,CUST7848,2026-05-04 10:16:35.950412,Very bad service,App,5
+MSG01025,CUST7904,2026-05-09 10:16:35.950416,Need invoice for my purchase,App,4
+MSG01026,CUST2616,2026-05-08 10:16:35.950421,Wrong item delivered,Chat,1
+MSG01027,CUST2622,2026-05-04 10:16:35.950425,App is crashing !!! urgent help !!!,App,0
+MSG01028,CUST2071,2026-05-08 10:16:35.950429,I want refund immediately,App,0
+MSG01029,CUST4323,2026-04-30 10:16:35.950433,Order stuck in transit,Email,2
+MSG01030,CUST7658,2026-04-24 10:16:35.950436,Delivery delayed again !!! urgent help !!!,Social,1
+MSG01031,CUST5748,2026-05-17 10:16:35.950441,Very bad service,App,2
+MSG01032,CUST7021,2026-05-07 10:16:35.950445,Password reset not working,Social,5
+MSG01033,CUST7736,2026-05-17 10:16:35.950448,Need invoice for my purchase,Chat,5
+MSG01034,CUST2150,2026-04-20 10:16:35.950453,Delivery delayed again,App,4
+MSG01035,CUST6648,2026-04-30 10:16:35.950457,Website not loading,Chat,2
+MSG01036,CUST9037,2026-05-19 10:16:35.950461,I am unhappy with support,Social,5
+MSG01037,CUST4917,2026-04-26 10:16:35.950465,I was charged twice for my order,Chat,4
+MSG01038,CUST9185,2026-05-19 10:16:35.950469,App is crashing,App,1
+MSG01039,CUST5538,2026-05-18 10:16:35.950473,Website not loading,Social,4
+MSG01040,CUST2883,2026-05-10 10:16:35.950477,No response from team !!! urgent help !!!,Email,4
+MSG01041,CUST4453,2026-04-27 10:16:35.950481,I was charged twice for my order !!! urgent help !!!,Chat,3
+MSG01042,CUST8710,2026-04-20 10:16:35.950485,Tracking not updating,App,1
+MSG01043,CUST7054,2026-05-04 10:16:35.950489,Refund not received yet,App,1
+MSG01044,CUST4125,2026-05-09 10:16:35.950493,Need invoice for my purchase,App,3
+MSG01045,CUST3488,2026-05-15 10:16:35.950496,Wrong item delivered,App,4
+MSG01046,CUST3124,2026-04-23 10:16:35.950500,I was charged twice for my order,Social,3
+MSG01047,CUST5161,2026-05-08 10:16:35.950505,App is crashing,Social,2
+MSG01048,CUST2523,2026-05-09 10:16:35.950508,I was charged twice for my order,Email,3
+MSG01049,CUST6628,2026-05-20 10:16:35.950512,I want refund immediately,Email,4
+MSG01050,CUST8513,2026-04-21 10:16:35.950516,Tracking not updating !!! urgent help !!!,Social,3
+MSG01051,CUST4227,2026-04-25 10:16:35.950520,App is crashing !!! urgent help !!!,App,2
+MSG01052,CUST4901,2026-05-04 10:16:35.950524,Refund not received yet,Chat,5
+MSG01053,CUST6962,2026-05-13 10:16:35.950528,My package has not arrived,Email,3
+MSG01054,CUST2794,2026-04-28 10:16:35.950532,Payment failed but money deducted !!! urgent help !!!,App,5
+MSG01055,CUST2739,2026-05-19 10:16:35.950535,Website not loading,Email,5
+MSG01056,CUST1673,2026-05-03 10:16:35.950539,Error during payment,Social,3
+MSG01057,CUST7812,2026-05-08 10:16:35.950543,Refund not received yet,Social,4
+MSG01058,CUST7874,2026-04-25 10:16:35.950547,App is crashing,Email,0
+MSG01059,CUST2605,2026-04-23 10:16:35.950550,Website not loading,Social,4
+MSG01060,CUST5847,2026-05-19 10:16:35.950554,Delivery delayed again,Email,4
+MSG01061,CUST6750,2026-05-16 10:16:35.950558,Password reset not working,App,2
+MSG01062,CUST4995,2026-05-13 10:16:35.950561,Coupon code not working,Email,1
+MSG01063,CUST4547,2026-05-12 10:16:35.950565,Error during payment,Email,0
+MSG01064,CUST5544,2026-05-01 10:16:35.950569,Payment failed but money deducted,Email,0
+MSG01065,CUST8012,2026-05-05 10:16:35.950573,I want refund immediately,Social,2
+MSG01066,CUST5769,2026-04-27 10:16:35.950577,App is crashing,Chat,5
+MSG01067,CUST2639,2026-05-14 10:16:35.950580,App is crashing,App,5
+MSG01068,CUST7436,2026-04-28 10:16:35.950584,Tracking not updating,Email,1
+MSG01069,CUST8623,2026-05-07 10:16:35.950588,Password reset not working,Social,3
+MSG01070,CUST7946,2026-05-17 10:16:35.950592,Payment failed but money deducted,App,4
+MSG01071,CUST2945,2026-05-02 10:16:35.950596,I was charged twice for my order,Chat,0
+MSG01072,CUST5586,2026-04-20 10:16:35.950600,Error during payment,Email,4
+MSG01073,CUST4312,2026-04-28 10:16:35.950603,   ,Chat,1
+MSG01074,CUST4513,2026-04-21 10:16:35.950607,I was charged twice for my order,App,3
+MSG01075,CUST2197,2026-04-23 10:16:35.950611,Cannot login to account,Email,5
+MSG01076,CUST8500,2026-05-19 10:16:35.950615,Website not loading,Social,2
+MSG01077,CUST5234,2026-04-21 10:16:35.950618,Order stuck in transit,App,2
+MSG01078,CUST3875,2026-04-25 10:16:35.950623,Payment failed but money deducted,App,3
+MSG01079,CUST2910,2026-05-05 10:16:35.950626,Payment failed but money deducted,Email,5
+MSG01080,CUST9802,2026-05-14 10:16:35.950631,Tracking not updating,App,3
+MSG01081,CUST4127,2026-04-22 10:16:35.950635,   ,Email,0
+MSG01082,CUST6549,2026-04-30 10:16:35.950639,I was charged twice for my order,Email,2
+MSG01083,CUST2721,2026-04-20 10:16:35.950645,Coupon code not working,Email,1
+MSG01084,CUST2117,2026-05-08 10:16:35.950650,   ,Social,5
+MSG01085,CUST5679,2026-05-17 10:16:35.950654,Delivery delayed again,Email,4
+MSG01086,CUST9024,2026-04-25 10:16:35.950658,Very bad service,App,4
+MSG01087,CUST3622,2026-04-21 10:16:35.950662,Website not loading !!! urgent help !!!,App,5
+MSG01088,CUST8045,2026-05-09 10:16:35.950666,Delivery delayed again,Email,5
+MSG01089,CUST3793,2026-05-15 10:16:35.950670,Worst experience ever,Social,2
+MSG01090,CUST7707,2026-04-23 10:16:35.950674,Refund not received yet,Social,5
+MSG01091,CUST5322,2026-05-05 10:16:35.950679,Website not loading !!! urgent help !!!,Chat,0
+MSG01092,CUST9912,2026-05-20 10:16:35.950683,Wrong item delivered,App,1
+MSG01093,CUST1053,2026-04-27 10:16:35.950687,App is crashing,Chat,3
+MSG01094,CUST5646,2026-05-06 10:16:35.950691,Tracking not updating,App,2
+MSG01095,CUST5591,2026-05-19 10:16:35.950695,I was charged twice for my order,Email,2
+MSG01096,CUST3712,2026-05-12 10:16:35.950699,I am unhappy with support,Social,0
+MSG01097,CUST9140,2026-05-05 10:16:35.950703,Coupon code not working,Social,4
+MSG01098,CUST5157,2026-04-22 10:16:35.950707,Password reset not working,Social,3
+MSG01099,CUST4811,2026-05-06 10:16:35.950711,Delivery delayed again,App,5
+MSG01100,CUST4762,2026-05-20 10:16:35.950716,My package has not arrived,Email,2
+MSG01101,CUST3715,2026-05-12 10:16:35.950723,Very bad service,App,3
+MSG01102,CUST2158,2026-04-24 10:16:35.950727,Cannot login to account,App,4
+MSG01103,CUST3766,2026-05-05 10:16:35.950731,No response from team,Email,0
+MSG01104,CUST8042,2026-05-19 10:16:35.950735,Order stuck in transit,App,2
+MSG01105,CUST1972,2026-04-29 10:16:35.950739,Payment failed but money deducted,Social,0
+MSG01106,CUST4019,2026-05-20 10:16:35.950743,App is crashing,App,0
+MSG01107,CUST1119,2026-05-04 10:16:35.950747,Wrong item delivered,App,0
+MSG01108,CUST7687,2026-04-21 10:16:35.950751,Payment failed but money deducted,Social,0
+MSG01109,CUST8298,2026-05-09 10:16:35.950755,Password reset not working,Email,1
+MSG01110,CUST9339,2026-05-18 10:16:35.950759,I want refund immediately,Chat,1
+MSG01111,CUST6344,2026-04-22 10:16:35.950763,Payment failed but money deducted !!! urgent help !!!,App,2
+MSG01112,CUST6560,2026-05-01 10:16:35.950768,I want refund immediately,Social,4
+MSG01113,CUST4961,2026-04-24 10:16:35.950771,Order stuck in transit,Social,0
+MSG01114,CUST6242,2026-04-27 10:16:35.950775,App is crashing,Email,2
+MSG01115,CUST1574,2026-05-20 10:16:35.950779,   ,Email,3
+MSG01116,CUST6536,2026-05-01 10:16:35.950783,Delivery delayed again !!! urgent help !!!,Chat,3
+MSG01117,CUST8811,2026-04-27 10:16:35.950787,Very bad service !!! urgent help !!!,App,1
+MSG01118,CUST3433,2026-05-02 10:16:35.950791,I am unhappy with support,Email,2
+MSG01119,CUST7093,2026-05-03 10:16:35.950795,Delivery delayed again,Chat,0
+MSG01120,CUST2317,2026-05-01 10:16:35.950799,Password reset not working !!! urgent help !!!,Chat,2
+MSG01121,CUST2074,2026-05-14 10:16:35.950803,Error during payment,Email,5
+MSG01122,CUST4829,2026-05-18 10:16:35.950808,   ,Chat,3
+MSG01123,CUST7187,2026-05-18 10:16:35.950812,I am unhappy with support,Chat,3
+MSG01124,CUST9552,2026-05-16 10:16:35.950816,Wrong item delivered,Social,5
+MSG01125,CUST7821,2026-04-29 10:16:35.950822,I was charged twice for my order,App,4
+MSG01126,CUST7931,2026-05-19 10:16:35.950826,Coupon code not working,Social,1
+MSG01127,CUST6530,2026-04-20 10:16:35.950830,Coupon code not working !!! urgent help !!!,Chat,0
+MSG01128,CUST7300,2026-05-15 10:16:35.950833,Order stuck in transit,Chat,5
+MSG01129,CUST7814,2026-05-02 10:16:35.950837,Cannot login to account,Email,2
+MSG01130,CUST5148,2026-05-01 10:16:35.950841,Delivery delayed again,App,3
+MSG01131,CUST6737,2026-05-01 10:16:35.950845,Refund not received yet !!! urgent help !!!,Email,4
+MSG01132,CUST8749,2026-05-11 10:16:35.950849,Refund not received yet,Chat,3
+MSG01133,CUST3759,2026-05-09 10:16:35.950853,App is crashing,App,5
+MSG01134,CUST5384,2026-05-01 10:16:35.950857,Worst experience ever,Email,3
+MSG01135,CUST3988,2026-05-10 10:16:35.950861,App is crashing !!! urgent help !!!,Social,5
+MSG01136,CUST8498,2026-04-25 10:16:35.950865,Wrong item delivered,Chat,4
+MSG01137,CUST4754,2026-05-06 10:16:35.950869,My package has not arrived,Email,5
+MSG01138,CUST7050,2026-05-20 10:16:35.950873,No response from team,Chat,5
+MSG01139,CUST9808,2026-05-04 10:16:35.950877,Error during payment,App,2
+MSG01140,CUST2988,2026-05-10 10:16:35.950881,I am unhappy with support !!! urgent help !!!,Email,5
+MSG01141,CUST7249,2026-05-18 10:16:35.950885,Tracking not updating,Email,3
+MSG01142,CUST9786,2026-04-30 10:16:35.950890,Order stuck in transit,Email,3
+MSG01143,CUST3631,2026-04-22 10:16:35.950894,I want refund immediately,Email,0
+MSG01144,CUST5274,2026-05-19 10:16:35.950904,Website not loading !!! urgent help !!!,Social,2
+MSG01145,CUST6408,2026-05-15 10:16:35.950908,Password reset not working,App,1
+MSG01146,CUST8182,2026-04-30 10:16:35.950912,Error during payment,Social,1
+MSG01147,CUST9067,2026-04-27 10:16:35.950916,Error during payment,Chat,4
+MSG01148,CUST4147,2026-05-13 10:16:35.950920,No response from team,App,3
+MSG01149,CUST8653,2026-05-07 10:16:35.950924,Worst experience ever,App,4
+MSG01150,CUST6427,2026-04-25 10:16:35.950928,Wrong item delivered,App,1
+MSG01151,CUST3967,2026-05-09 10:16:35.950932,   ,App,5
+MSG01152,CUST9350,2026-04-30 10:16:35.950936,Worst experience ever,Social,3
+MSG01153,CUST5884,2026-05-16 10:16:35.950940,I am unhappy with support,Email,5
+MSG01154,CUST3932,2026-04-23 10:16:35.950944,Order stuck in transit,App,4
+MSG01155,CUST2583,2026-05-07 10:16:35.950948,Payment failed but money deducted,Social,2
+MSG01156,CUST4316,2026-05-03 10:16:35.950952,I am unhappy with support,App,1
+MSG01157,CUST4147,2026-04-25 10:16:35.950956,Very bad service,Email,5
+MSG01158,CUST4337,2026-05-15 10:16:35.950960,Need invoice for my purchase,Social,3
+MSG01159,CUST4828,2026-05-05 10:16:35.950964,Order stuck in transit !!! urgent help !!!,Social,5
+MSG01160,CUST4113,2026-05-17 10:16:35.950967,My package has not arrived,Social,5
+MSG01161,CUST1560,2026-04-24 10:16:35.950971,Tracking not updating,App,3
+MSG01162,CUST3891,2026-04-22 10:16:35.950975,Refund not received yet,App,1
+MSG01163,CUST4509,2026-05-19 10:16:35.950981,Tracking not updating,Social,2
+MSG01164,CUST1588,2026-04-23 10:16:35.950986,Worst experience ever,App,1
+MSG01165,CUST7905,2026-04-26 10:16:35.950990,Tracking not updating,Chat,4
+MSG01166,CUST2692,2026-05-06 10:16:35.950995,My package has not arrived,Social,4
+MSG01167,CUST8275,2026-05-07 10:16:35.951004,Tracking not updating,Social,0
+MSG01168,CUST5902,2026-04-21 10:16:35.951008,   ,Email,4
+MSG01169,CUST1371,2026-04-30 10:16:35.951012,Wrong item delivered,Chat,2
+MSG01170,CUST6217,2026-04-21 10:16:35.951016,Wrong item delivered,Social,1
+MSG01171,CUST7200,2026-04-24 10:16:35.951020,Website not loading,App,2
+MSG01172,CUST2028,2026-04-30 10:16:35.951024,Need invoice for my purchase,Chat,4
+MSG01173,CUST9010,2026-05-12 10:16:35.951028,Password reset not working,Email,3
+MSG01174,CUST8931,2026-05-15 10:16:35.951031,Worst experience ever,Email,5
+MSG01175,CUST1739,2026-05-20 10:16:35.951035,Error during payment,App,5
+MSG01176,CUST6729,2026-05-14 10:16:35.951039,Order stuck in transit,Social,0
+MSG01177,CUST8463,2026-05-07 10:16:35.951056,App is crashing !!! urgent help !!!,Email,3
+MSG01178,CUST3215,2026-04-30 10:16:35.951060,Need invoice for my purchase,Email,4
+MSG01179,CUST4526,2026-05-06 10:16:35.951064,Need invoice for my purchase,Social,4
+MSG01180,CUST2819,2026-05-09 10:16:35.951068,My package has not arrived,Social,1
+MSG01181,CUST5171,2026-05-11 10:16:35.951072,Worst experience ever,Chat,2
+MSG01182,CUST4299,2026-04-20 10:16:35.951076,I was charged twice for my order,Email,4
+MSG01183,CUST2443,2026-05-12 10:16:35.951082,My package has not arrived,Social,3
+MSG01184,CUST8799,2026-05-14 10:16:35.951087,Payment failed but money deducted !!! urgent help !!!,App,3
+MSG01185,CUST2904,2026-05-08 10:16:35.951091,Tracking not updating,Chat,0
+MSG01186,CUST6166,2026-05-17 10:16:35.951095,My package has not arrived,Chat,4
+MSG01187,CUST6757,2026-05-11 10:16:35.951099,Need invoice for my purchase,Email,5
+MSG01188,CUST3878,2026-05-10 10:16:35.951103,My package has not arrived,App,5
+MSG01189,CUST6881,2026-04-30 10:16:35.951107,My package has not arrived,Chat,4
+MSG01190,CUST2036,2026-04-26 10:16:35.951111,I am unhappy with support,Email,3
+MSG01191,CUST8899,2026-04-23 10:16:35.951115,Need invoice for my purchase !!! urgent help !!!,Email,1
+MSG01192,CUST7496,2026-04-26 10:16:35.951119,   ,Chat,5
+MSG01193,CUST2543,2026-05-06 10:16:35.951123,Need invoice for my purchase !!! urgent help !!!,Email,2
+MSG01194,CUST1733,2026-04-25 10:16:35.951127,Worst experience ever,Chat,5
+MSG01195,CUST1591,2026-04-22 10:16:35.951131,Tracking not updating !!! urgent help !!!,Email,0
+MSG01196,CUST4938,2026-04-29 10:16:35.951134,Wrong item delivered,Social,0
+MSG01197,CUST8841,2026-04-21 10:16:35.951139,I was charged twice for my order,Chat,0
+MSG01198,CUST7066,2026-04-24 10:16:35.951143,Tracking not updating,App,1
+MSG01199,CUST5341,2026-04-20 10:16:35.951146,Coupon code not working,App,4
